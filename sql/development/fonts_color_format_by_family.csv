@@ -1,0 +1,749 @@
+client,format,family,count,total,proportion,example
+desktop,CBDT,Fluent Emoji Color,69,3913,0.0176,https://tetunori.github.io/fluent-emoji-webfont/dist/FluentEmojiColor066.woff2
+desktop,CBDT,Noto Color Emoji,59,3913,0.0151,https://riseoj.com/static/fonts/noto-emoji-subset.woff2
+desktop,CBDT,,52,3913,0.0133,https://app.retroflow.org/fonts/apple-emoji/AppleColorEmoji[21].ttf
+desktop,CBDT,Noto Color Emoji Flags,11,3913,0.0028,https://cert.ssi.gouv.fr/static/fonts/NotoColorEmoji-flagsonly.ttf
+desktop,CBDT,Apple Color Emoji,9,3913,0.0023,https://bootsschule1.de/wp-content/uploads/2025/12/AppleColorEmoji.ttf
+desktop,CBDT,Bagoss Standard,3,3913,0.0008,https://cdn.hallon.se/_next/static/media/BagossStandard_Regular_CBDT-s.p.40gleito02cl4.woff2
+desktop,CBDT,EmbroideryFontPinkDual,2,3913,0.0005,https://assets.useomnia.com/fonts/EmbroideryFontPink-cbdt.woff2
+desktop,CBDT,Apple MFFM Color Emoji,1,3913,0.0003,https://wonderslide.com/static/fonts/emoji.ttf
+desktop,CBDT,EmbroideryFontBlackDual,1,3913,0.0003,https://softbrite.com/_next/static/media/EmbroideryFontBlack_cbdt-s.p.0l-fjnebun.~z.woff2
+desktop,CBDT,Segoe UI Emoji,1,3913,0.0003,https://explorer.syklo.io/assets/emojis.ttf
+desktop,COLRv0,Twemoji Mozilla,230,3913,0.0588,https://en.dvderotik.com/resources/fonts/TwemojiCountryFlags.woff2?v=2671789561
+desktop,COLRv0,,131,3913,0.0335,https://at.alicdn.com/t/c/font_5066915_lr90j4sj7hm.woff2?t=1763358545503
+desktop,COLRv0,Material Icons Two Tone,104,3913,0.0266,https://offshoresms.com.au/fonts/material-icons-two-tone.87a93d69.woff?__WB_REVISION__=87a93d696c7bd838f060276647a0146b
+desktop,COLRv0,iconfont,98,3913,0.025,https://www.auxsolcloud.com/static/fonts/iconfont.bbd03e0f.woff2
+desktop,COLRv0,Cairo Play,92,3913,0.0235,https://rapidgazalmarketing.com/wp-content/uploads/elementor/google-fonts/fonts/cairoplay-wxk7e3qspo4vprz_mz6fp-8iaauclt_hjopv3kknzho0ug.woff2
+desktop,COLRv0,OpenDyslexic,92,3913,0.0235,https://uprit.edu.pe/_next/static/media/OpenDyslexic_Bold_Italic-s.p.99ace0e8.woff2
+desktop,COLRv0,icomoon,43,3913,0.011,https://hamilton.govt.nz/_resources/themes/hcc-theme/fonts/icomoon.woff2
+desktop,COLRv0,Reem Kufi Fun,37,3913,0.0095,https://mutindia.org/wp-content/uploads/elementor/google-fonts/fonts/reemkufifun-uk_14rofyukkmyuebf43firytkurwa.woff2
+desktop,COLRv0,Untitled,32,3913,0.0082,https://my.thegeneral.com/web/public/media/TGIcons-PTZJE4TW.otf
+desktop,COLRv0,貂明朝,20,3913,0.0051,https://use.typekit.net/af/7aee5e/00000000000000007760856b/31/l?unicode=AAAAAQAAAAEAAAAB&features=NONE&v=3
+desktop,COLRv0,百千鳥,17,3913,0.0043,https://use.typekit.net/af/04a099/0000000000000000775c06a3/31/m?features=ALL&v=4&chunks=1.13.99.103.204.221.243&order=0
+desktop,COLRv0,Toss Face Font Web,17,3913,0.0043,https://static.toss.im/tossface-font/tossface.0.woff2
+desktop,COLRv0,Segoe UI Emoji,17,3913,0.0043,https://www.secpulse.com/wp-content/themes/secpulse2017/iconfont/seguiemj.ttf
+desktop,COLRv0,axafont,13,3913,0.0033,https://www.axaschengeninsurance.com/o/neo-travel-axa-theme/fonts/axafont/fonts/axafont.ttf?dsq8nd
+desktop,COLRv0,MZG,12,3913,0.0031,https://sodisp.com/assets/Activities-BelEs5fU.woff
+desktop,COLRv0,貂明朝テキスト,11,3913,0.0028,https://use.typekit.net/af/71b347/000000000000000077608570/31/m?features=ALL&v=4&chunks=7.9.13.21.99.143.155.184.186.187.193.195.203.211.218.247&order=0
+desktop,COLRv0,Activities,9,3913,0.0023,https://movezengo.com/assets/Activities-BpBuhhzC.ttf
+desktop,COLRv0,百千鳥 コンデンス,9,3913,0.0023,https://use.typekit.net/af/a26080/0000000000000000775c069f/31/m?features=ALL&v=4&chunks=1.109.191.193.201.203.206.208.210.214.223.228.232.243&order=0
+desktop,COLRv0,Naotypo,8,3913,0.002,https://naolib.fr/jsp_gppro/styles/fonts/naotypo/Naotypo-Bold.woff
+desktop,COLRv0,BabelStone Flags,8,3913,0.002,https://www.french-property.com/laravel-fonts/BabelStoneFlags.woff
+desktop,COLRv0,MusFrets,7,3913,0.0018,https://theorypractice.abrsm.org/static/fonts/MusFrets.9fc16ef.otf
+desktop,COLRv0,An Emoji Family,5,3913,0.0013,https://nztcdn.com/static/font/font.ttf?v=1784061338
+desktop,COLRv0,Bungee Tint,5,3913,0.0013,https://pinkslips.app/assets/google-bungee-tint-2.v1-CMcqlAlb.woff2
+desktop,COLRv0,Ezra SIL SR,4,3913,0.001,https://www.troptrainer.com/_next/static/media/b05d9ff9a135ea02-s.p.ttf
+desktop,COLRv0,Shlomo semiStam,4,3913,0.001,https://www.troptrainer.com/_next/static/media/cfbbc43687267ca9-s.p.ttf
+desktop,COLRv0,Amiri Quran,4,3913,0.001,https://www.sherine-edu.com/wp-content/uploads/elementor/google-fonts/fonts/amiriquran-xmo-hk0rd6dbul4_vh8zp5v5i2ssqe2.woff2
+desktop,COLRv0,flags color world,4,3913,0.001,https://app.neptune.cloud/lizard_ui/Lizard7/modern/resources/fonts/FlagsColorWorld-51lyx.ttf?_sw-precache=84822dfd2bc2a83e5248ede4c8c000df
+desktop,COLRv0,icon,4,3913,0.001,https://camilaviali.ec/fonts/icon.woff2
+desktop,COLRv0,Taamey Frank CLM,4,3913,0.001,https://www.troptrainer.com/_next/static/media/5a6316ca232c3c79-s.p.ttf
+desktop,COLRv0,panynj-icons,4,3913,0.001,https://www.jfkairport.com/fonts/panynj-icons.woff2
+desktop,COLRv0,iconjackery,4,3913,0.001,https://community.jackery.jp/etc.clientlibs/jackery/clientlibs/clientlib-jackerylife/resources/fonts/font_4012115_grv9qnursxn.woff2
+desktop,COLRv0,百千鳥 ワイド,4,3913,0.001,https://use.typekit.net/af/00f25e/0000000000000000775c06a8/31/m?features=ALL&v=4&chunks=1.109.191.193.201.203.206.208.210.214.223.228.232.243&order=0
+desktop,COLRv0,SBL Hebrew,4,3913,0.001,https://www.tropetrainer.com/_next/static/media/248e83df007f979e-s.p.ttf
+desktop,COLRv0,Eloy Sans Outline,4,3913,0.001,https://www.eloy.be/wp-content/themes/ak-eloy-2021/assets/fonts/02-Eloy%20Sans%20Outline/EloySansOutline-Bleu.woff2
+desktop,COLRv0,Eloy Sans Tiret,3,3913,0.0008,https://www.eloy.be/wp-content/themes/ak-eloy-2021/assets/fonts/03-Eloy%20Sans%20Tiret/EloySansTiret-Jaune.woff2
+desktop,COLRv0,Daily Special,3,3913,0.0008,https://customletterboards.com/fonts/DailySpecial-Black.woff2
+desktop,COLRv0,Rocher Color,3,3913,0.0008,https://syntax-highlighter.k26.ch/assets/RocherColorGX.woff2
+desktop,COLRv0,jf-kamabit-1.0,3,3913,0.0008,https://cdn-go.justfont.com/file/jfont.woff?k=591e94aa62288714651ebe4ece5cc4bf&n=jf-kamabit&o=https%3A%2F%2Ftaiwan.md&p=65854
+desktop,COLRv0,sleep,3,3913,0.0008,https://cdn11.bigcommerce.com/s-com5n35b4p/stencil/67ab54b0-3080-013f-947c-7e2432cc388f/e/9aaef580-bfb9-013e-d5fc-3eae7eaa9ed6/fonts/sleep.ttf?r6kybm
+desktop,COLRv0,twroadfont-1.0,3,3913,0.0008,https://cdn-go.justfont.com/file/jfont.woff?k=c987bd551c99e5a914f02a6153172a82&n=twroadfont&o=https%3A%2F%2Fwebfont.justfont.com&p=58317
+desktop,COLRv0,Mingli Flags,2,3913,0.0005,https://www.mingli.info/fonts/Mingli_Flags_Color.ttf
+desktop,COLRv0,francepassion,2,3913,0.0005,https://www.france-passion.com/contents/fontsv2/francepassion.woff2?20260324_2
+desktop,COLRv0,kane-icons,2,3913,0.0005,https://www.kanecarpet.com/wp-content/themes/new/assets/fonts/kane-icons/kane-icons.woff2
+desktop,COLRv0,Amiri Quran Colored,2,3913,0.0005,https://seebawayhgpt.io/assets/AmiriQuranColored-gSh5w_EP.woff2
+desktop,COLRv0,PV Narasimha Rao,2,3913,0.0005,https://telugufonts.in/uploads/PVNR.woff2
+desktop,COLRv0,OpenMoji,2,3913,0.0005,https://www.madrateanga.com/fonts/OpenMoji-color-glyf_colr_0.ttf
+desktop,COLRv0,lux-icons,2,3913,0.0005,https://smartly.luxottica.com//styleguide/wardrobe/smart-icons/fonts/lux-icons.woff2
+desktop,COLRv0,iconfont2,2,3913,0.0005,https://at.alicdn.com/t/c/font_3683781_sdn7zp35pc.woff2?t=1739650548250
+desktop,COLRv0,Coral Pixels,2,3913,0.0005,https://fonts.gstatic.com/s/coralpixels/v1/qWctB66zpZ3zAtrlR8Mb1LyCfxz-.woff2
+desktop,COLRv0,LPMQ MSI ISYARAT,2,3913,0.0005,https://jadwalsholat.nu.or.id/_next/static/media/38b03ec559736a82-s.p.woff2
+desktop,COLRv0,Verajja,2,3913,0.0005,https://www.softerviews.org/wpscripts/wpc6b8acad.ttf
+desktop,COLRv0,Chaos Stripe,2,3913,0.0005,https://shop.chaos.club/cdn/shop/t/33/assets/ChaosStripe-CandyFloss.woff2?v=93607423334370242611655715072
+desktop,COLRv0,sh-icons,2,3913,0.0005,https://instacasino.com/media/sh-icons-6OFOF2GL.woff2
+desktop,COLRv0,Basetica,2,3913,0.0005,https://cdn.prod.website-files.com/64f04bdab1cb510cfde60f46/64f04bdab1cb510cfde60fa7_Basetica%20Bulb%20Charcoal-COLR.otf
+desktop,COLRv0,BCC Purno,2,3913,0.0005,https://banglafact.com/build/assets/BCCPurno-CT1gM4iX.woff2
+desktop,COLRv0,dali_logo,2,3913,0.0005,https://global.lvdingjia.com/resources/logo.DPn3HzOx.woff2
+desktop,COLRv0,bainicon,2,3913,0.0005,https://www.netpromotersystem.com/Static/bain.com/v-639192010353256063/fonts/bainicon/bainicon.ttf?iswbmy
+desktop,COLRv0,Icons Social Media 8,2,3913,0.0005,https://d28f3w0x9i80nq.cloudfront.net/restaurantFiles/d8495347-f8ba-4ab0-bded-6536777f2a42/IconsSocialMedia8.ttf
+desktop,COLRv0,Bitrefill2,2,3913,0.0005,https://www.bitrefill.com/assets/bitrefill-CTqMSf11.ttf
+desktop,COLRv0,Uthmanic_Neo-COLOR,2,3913,0.0005,https://koran.center/fonts/Uthmanic_NeoCOLOR-Regular.woff2
+desktop,COLRv0,Eloy Sans Rubalise,2,3913,0.0005,https://www.eloy.be/wp-content/themes/ak-eloy-2021/assets/fonts/04-Eloy%20Sans%20Rubalise/EloySansRubalise-Bleu.woff2
+desktop,COLRv0,hm_emoji,2,3913,0.0005,https://humanmade.co.jp/assets/font/hm_emoji-Regular.woff2
+desktop,COLRv0,AsapIcons,2,3913,0.0005,https://www.partsasap.com/static/version1784092167/frontend/PartsAsap/asap/default//fonts/AsapIcons/AsapIcons.woff2
+desktop,COLRv0,aalmaghribi svg,2,3913,0.0005,https://mehbarah.com/fonts/4_Naskh/aalmaghribi%20svg/MehbarahCom_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A.ttf
+desktop,COLRv0,NeopostFonts,2,3913,0.0005,https://cdn.quadient.com/lib/quadient/fonts/NeopostFonts.woff2
+desktop,COLRv0,Twemoji Evengard,2,3913,0.0005,https://l.dm.am/App_Themes/Fonts/Twemoji-Outlined/twemoji.woff2
+desktop,COLRv0,ruicons,2,3913,0.0005,https://nbri.ru/wp-content/uploads/elementor/custom-icons/nbri-social-icons/font/nbri-social-icons.woff2
+desktop,COLRv0,flags color,2,3913,0.0005,https://www.alagod.com/theme/font/FlagsColor-AL4Gx.ttf
+desktop,COLRv0,Quran Surah 2,2,3913,0.0005,https://corandemoncoeur.com/wp-content/uploads/2025/09/QuranSurah2-7Bov4.ttf
+desktop,COLRv0,GT Maru Emoji,2,3913,0.0005,https://gibson.sfu.ca/_next/static/media/GT_Maru_Emoji_Color-s.p.0scvolg-7ddz9.otf
+desktop,COLRv0,百千鳥 VF,2,3913,0.0005,https://use.typekit.net/af/002104/000000000000000077598080/30/m?features=ALL&v=4&chunks=0&order=0
+desktop,COLRv0,Lipton High,2,3913,0.0005,https://www.liptonicetea.nl/static/6570992816473ed1d01f251ce2c5de614f94428e32b35e268d6661f92b54e678/resources/fonts/LiptonHighlight-Clean.woff2
+desktop,COLRv0,tw-icons,1,3913,0.0003,https://twowombats.com/cdn/shop/t/160/assets/tw-icons.ttf?v=75677744850096382841775484151
+desktop,COLRv0,BillIcon,1,3913,0.0003,https://storage.googleapis.com/flutterflow-prod-hosting/builds/iHAphBKfKTliA7eIw8Bo/assets/assets/fonts/BillIcon.ttf
+desktop,COLRv0,Chalukya vijaydity,1,3913,0.0003,https://fonts.sanchaya.net/Fonts/Chalukya/Chalukya-Vijayaditya.ttf
+desktop,COLRv0,Monaspace Krypton,1,3913,0.0003,https://css.gg/_next/static/media/1ad0459ecf35c3bc-s.p.woff2
+desktop,COLRv0,Twemoji Mozilla Freeze,1,3913,0.0003,https://bpstudio.abstreamace.com/static/font/twemoji.484b09e4.woff2
+desktop,COLRv0,ilmify,1,3913,0.0003,https://ilmify.app/wp-content/themes/ilmify/fonts/ilmify.woff2
+desktop,COLRv0,Quran Surah 1,1,3913,0.0003,https://www.al-adkar.com/fonts/QuranSurah1-mLKO5.ttf
+desktop,COLRv0,Bradley Initials DJR Web,1,3913,0.0003,https://www.rntz.net/assets/bradleyinitials.woff2
+desktop,COLRv0,Mona12,1,3913,0.0003,https://studiomeal.com/fonts/Mona12.subset.woff2
+desktop,COLRv0,MonospaceTypewriter,1,3913,0.0003,https://ivark.github.io/AntimatterDimensions/stylesheets/BlobEmoji-Bold.ttf
+desktop,COLRv0,Ctrl Zsye,1,3913,0.0003,https://fonts.zeoseven.com/_next/static/media/ctrl-zsye.84a411f2.woff2
+desktop,COLRv0,Uthmanic_NeoB-COLOR,1,3913,0.0003,https://koran.center/fonts/Uthmanic_NeoBCOLOR-VF.woff2
+desktop,COLRv0,Tortas Vector Color,1,3913,0.0003,https://media-cdn.getbento.com/accounts/a648ce9bc66858b28a546b5b5115fc55/media/umwcdQjsRIm2HFfpznlu_Tortas_Vector_Color-Regular%20(1).woff2
+desktop,COLRv0,Icons,1,3913,0.0003,https://c-s-k.ru/bitrix/templates/redesign2026/fonts/Icons.woff2
+desktop,COLRv0,cryptoicons,1,3913,0.0003,https://prod-static.dzengi.com/fonts/dz_market_default.woff2?v20260603
+desktop,COLRv0,Lipton Highlight Greek,1,3913,0.0003,https://www.liptonicedtea.com/sites/liptonicedtea-com/themes/custom/lipton_fe/assets/fonts/Lipton-Highlight-Greek-Clean/LiptonHighlightGreek-Clean.woff2
+desktop,COLRv0,Icons Social Media 6,1,3913,0.0003,https://tecbasucre.com/css/fonts/rrss.ttf
+desktop,COLRv0,site-icon,1,3913,0.0003,https://www.randolphschool.net/Templates/RandolphSchool/fonts/icon-fonts/site-icon.woff?h
+desktop,COLRv0,Quran Surah 01,1,3913,0.0003,https://www.al-adkar.com/fonts/QuranSurah01-w1yO6.ttf
+desktop,COLRv0,Sudz,1,3913,0.0003,https://use.typekit.net/af/4f347d/0000000000000000775ca916/31/l?unicode=AAAHwQAAAAdfLi9xvfIvlzTKfWLmGdL_PmzvrjV1ixY46T9DzdNcR6SQAYXil2sCtaJIda_Pt0_0daMPVIqmLzS7UG4gsNBUOGCpkk88a-qhhduufk4RjSGmdXNb3Y9IU4tO-u7tbv0PRcpyoWR5giUv6Ez2o-GLs-O3W6BcIp-gmIpajQ6gL7kWrzrmB9_wpI5pJiozvsd3xwNVkNDVNnwfkAFiFaLxp9ajR3Or8AYJGYNYKAzbtcx3PRVyKXL-3N4PFCcnCartgFxn92S06_f_apFuYgVjaSxt_kfz9JE9iR_fMimFu1jFDv-T1vIQhKk3732lF4lNbv7HMfTO8wAAAAA&features=ALL&v=3
+desktop,COLRv0,Storm-King-Spa-Icons,1,3913,0.0003,https://stormkingspa.com/wp-content/themes/stormkingspa/assets/fonts/Storm-King-Spa-Icons..woff2
+desktop,COLRv0,Icons Font Color 2018,1,3913,0.0003,https://www.aaacredit.net/webfonts/Icons_Font_Color/Icons%20Font%20Color.woff
+desktop,COLRv0,teraportfoy,1,3913,0.0003,https://www.teraportfoy.com/fonts/teraportfoy.woff2?v=1.1
+desktop,COLRv0,ardencreativestudio-icons,1,3913,0.0003,https://cdn.gemporiacraft.io/files/fonts/ardencreativestudio/ardencreativestudio-icons/v4.0.0/ardencreativestudio-icons.ttf?iokbzq
+desktop,COLRv0,Myanmar Jojar Pro,1,3913,0.0003,https://cvbawrrt6ky4ctvk.public.blob.vercel-storage.com/fonts/k0zwZFlUTtg2DOb2OFGoVERr1O5d1RLP/MyanmarJojarPro/MyanmarJojarPro-Regular.woff2
+desktop,COLRv0,STBIG,1,3913,0.0003,https://cssdoom.wtf/fonts/STBIG.woff2
+desktop,COLRv0,social media color,1,3913,0.0003,https://static.wixstatic.com/ufonts/e8fe94_cba6467af24f4474b19b763a34b40d16/woff2/file.woff2
+desktop,COLRv0,Quran Surah 02,1,3913,0.0003,https://www.al-adkar.com/fonts/QuranSurah02-d9lVZ.ttf
+desktop,COLRv0,DStv-Icons,1,3913,0.0003,https://cdn.icomoon.io/0687381d95/de-multichoice-icons/1779184130/font/fonts/DStv-Icons.woff2
+desktop,COLRv0,Cairo 1,1,3913,0.0003,https://kalak.gg/assets/assets/fonts/CairoExtraBlack.c17a9f95b20c07dea8516bc5a60bd066.ttf?platform=web&hash=c17a9f95b20c07dea8516bc5a60bd066
+desktop,COLRv0,bfa-icons,1,3913,0.0003,https://fundacaobfa.ao/BFA_Fundacao/bfa-icons.ttf?qpcZxPVpvv+A31aNO5fBSQ
+desktop,COLRv0,fontsja,1,3913,0.0003,https://fr.jardins-animes.com/fonts/fontsja.12.woff2
+desktop,COLRv0,Moolong キャンドル VF Dark,1,3913,0.0003,https://use.typekit.net/af/679921/0000000000000000775ad914/31/m?features=ALL&v=4&chunks=0&order=0
+desktop,COLRv0,Cairo,1,3913,0.0003,https://kalak.gg/assets/assets/fonts/NeoCairo.f32b160ecc47349758c34ab62d2299ec.ttf?platform=web&hash=f32b160ecc47349758c34ab62d2299ec
+desktop,COLRv0,Hugeicons Duotone Rounded,1,3913,0.0003,https://use.hugeicons.com/icon-font/hgi-duotone-rounded.woff2?t=1746104570860
+desktop,COLRv0,Altenergy Gothic CW,1,3913,0.0003,https://altenergy.co.jp/assets/fonts/altenergy-gothic/AltenergyGothicCW.woff2
+desktop,COLRv0,IcoMoon-Ultimate,1,3913,0.0003,https://www.gamerguides.com/assets/front/fonts/new-icons/fonts/IcoMoon-Ultimate.woff2
+desktop,COLRv0,Terrarum Sans Bitmap,1,3913,0.0003,https://cdn.jsdelivr.net/gh/projectnoonnu/2606-1@1.1/TerrarumSansBitmap.woff2
+desktop,COLRv0,sbg-fonts,1,3913,0.0003,https://stabilgroup.com/wp-content/themes/stabilgroup/assets/fonts/icomoon/sbg-fonts.woff2
+desktop,COLRv0,metro,1,3913,0.0003,https://fph.fictools.com/Content/fonts/metro.woff?izvoei
+desktop,COLRv0,iconaigc,1,3913,0.0003,https://sns.bladex.cn/static/iconaigc/iconfont.woff2?t=1727240606403
+desktop,COLRv0,liga-demo,1,3913,0.0003,https://icomoon.io/assets/liga-demo-EBPYMRWC-4cb1ad53a96120d976b6841097bcf508.woff2?vsn=d
+desktop,COLRv0,Typeface,1,3913,0.0003,https://obkm.mint-kolleg.kit.edu/edmlfont.ttf
+desktop,COLRv0,Juma,1,3913,0.0003,https://fonts.fontdue.com/plau/fonts/1ecbdf1ed386e1ed500a425a3afb632c68045483.woff2
+desktop,COLRv0,promo-icons,1,3913,0.0003,https://crowd.mos.ru/static/media/promo-icons.615ac6b562ea10fc3896.woff2
+desktop,COLRv0,Merit Badge,1,3913,0.0003,https://fonts.typedetail.com/MeritBadge-VF.woff2
+desktop,COLRv0,Icons Social Media 12,1,3913,0.0003,https://michaelyamin.com/img/socialicons.ttf
+desktop,COLRv0,ncmfont,1,3913,0.0003,https://www.ncminvest.com.tr/fonts/ncmicon/ncmfont.woff2?v=1.4
+desktop,COLRv0,phoenixicons,1,3913,0.0003,https://cdn.euro4x4parts.com/e4xmedia/prod/fonts/phoenixicons/phoenixicons-v10.3/fonts/phoenixicons.woff2
+desktop,COLRv0,gemporia-icons,1,3913,0.0003,https://cdn.gemporia.io/files/fonts/gemporia/gemporia-icons/v3.1.0/gemporia-icons.ttf?iokbzq
+desktop,COLRv0,svgfont,1,3913,0.0003,https://at.alicdn.com/t/font_3291761_853o2b9t0z4.woff2?t=1649931142097
+desktop,COLRv0,MonaS12,1,3913,0.0003,https://tistory1.daumcdn.net/tistory/8604788/skin/images/Mona12.woff2
+desktop,COLRv0,GG-Icons,1,3913,0.0003,https://www.greengeeks.com/fonts/GG-Icons.ttf
+desktop,COLRv0,Font Aljazeera Color,1,3913,0.0003,https://tg-academy.ai/fonts/aljazeera-color.ttf
+desktop,COLRv0,colour-iconfont,1,3913,0.0003,https://p.bstarstatic.com/fe-static/intl-videoup/assets/iconfont.d3683c3a.woff2
+desktop,COLRv0,euricons,1,3913,0.0003,https://www.euronics.it/on/demandware.static/Sites-euronics-Site/-/it_IT/v1784055094086/fonts/euricons.ttf?y5vxxl
+desktop,COLRv0,menu,1,3913,0.0003,https://tablet.otzar.org/fonts/menu.10a074d5.woff
+desktop,COLRv0,모나12,1,3913,0.0003,https://blit.so/_next/static/media/Mona12-s.p.00041f48.woff2
+desktop,COLRv0,STYSN,1,3913,0.0003,https://cssdoom.wtf/fonts/STYSN.woff2
+desktop,COLRv0,TajawalColor,1,3913,0.0003,https://barqboxes.com/assets/fonts/tajawal-black-color.woff2
+desktop,COLRv0,Bento-Extras,1,3913,0.0003,https://cerificpedge.com/Includes/fonts/BentoExtras.woff
+desktop,COLRv0,svgicon,1,3913,0.0003,https://at.alicdn.com/t/c/font_4997546_zfo11yhu5p.woff2?t=1773990592415
+desktop,COLRv0,fantastic-services,1,3913,0.0003,https://cdn.fantasticservices.com/font/fantastic-services.woff2?uqkxam
+desktop,COLRv0,Betterstile LT,1,3913,0.0003,https://www.betterbits.de/wp-content/uploads/BetterstileLTBold-Bold.woff2
+desktop,COLRv0,FontWithASyntaxHighlighter,1,3913,0.0003,https://dough.strudel.cc/FontWithASyntaxHighlighter-Regular.woff2
+desktop,COLRv0,Gilbert Color,1,3913,0.0003,https://pridelondon.ca/wp-content/uploads/fonts/Gilbert-Color_SVGCOLRv0.woff2
+desktop,COLRv0,托碼頭表情包—白底,1,3913,0.0003,https://scott0107000.github.io/scott0107000/webfont/TomatoEmoji.ttf
+desktop,COLRv0,Police_Badge_of_China,1,3913,0.0003,https://www.hetong-re4per.com/fonts/Police_Badge_of_China-Regular.woff2
+desktop,COLRv0,file-icon,1,3913,0.0003,https://cdn.bootwiki.com/mofile/css/filetype/iconfont.woff2?t=1669994557997
+desktop,COLRv0,yhcsicon,1,3913,0.0003,https://www.pioon.com/static/en/fonts/caise/iconfont.woff2?t=1774259985179
+desktop,COLRv0,Marelle LIGNES,1,3913,0.0003,https://abiloa.com/_app/immutable/assets/marellelignes.DAzIdYxj.woff2
+desktop,COLRv0,icomoon-2025,1,3913,0.0003,https://hodi.host/build/assets/fonts/icomoon-2025.woff
+desktop,COLRv0,orra-icons,1,3913,0.0003,https://cdn.orra.co.in/static/version1784164845/frontend/bs_rubix/ORRA/en_US/fonts/orra-icons/orra-icons.woff2
+desktop,COLRv0,cfont,1,3913,0.0003,https://cdn.yzcstatic.com/template/fonts/color/iconfont.woff2?t=1774577595841
+desktop,COLRv0,itIcon,1,3913,0.0003,https://imgtool.net/_nuxt/fonts/iconfont.c414f40.woff2
+desktop,COLRv0,CP-icons,1,3913,0.0003,https://shop-power-technique.cp.com/media/CP-icons-WBQBDJS6.woff2
+desktop,COLRv0,Twemoji Flags,1,3913,0.0003,https://nextory.com/fonts/TwemojiCountryFlags-Subset.woff2
+desktop,COLRv0,iconflags,1,3913,0.0003,https://assets.receive-sms.cc/fonts/iconfont/language.woff2?t=1708161574263
+desktop,COLRv0,Catrinity,1,3913,0.0003,https://rune.school/assets/Catrinity.otf
+desktop,COLRv0,Font-Icons-Color 2018,1,3913,0.0003,https://www.jotorrent.com/font_awesome/fonts/FontIconsColor1.ttf
+desktop,COLRv0,Normal,1,3913,0.0003,https://www.ctm.net/lcs/fonts/seguiemj.8b730fa8.ttf
+desktop,COLRv0,naturgutachter,1,3913,0.0003,https://naturgutachter.de/user/themes/naturgutachter2023/assets/c/naturgutachter-089204bce46a579b60d147220a6742de.woff2
+desktop,COLRv0,Pappardelle Party,1,3913,0.0003,https://fonts.typedetail.com/PappardelleParty-VF.woff2
+desktop,COLRv0,Moolong キャンドル VF,1,3913,0.0003,https://use.typekit.net/af/179d16/0000000000000000775ad915/31/m?features=ALL&v=4&chunks=0&order=0
+desktop,COLRv0,csiconfont,1,3913,0.0003,https://at.alicdn.com/t/c/font_4792988_8ljey0ckmt3.woff2?t=1761038388124
+desktop,COLRv0,VolareIconFont,1,3913,0.0003,https://esim.holafly.com/_astro/VolareIconFont.TsYcv05j.woff2
+desktop,COLRv0,Feery-Easy-Icons,1,3913,0.0003,https://ferryeasy.ph/ferryeasy.524681a1c8c383ab.woff2
+desktop,COLRv0,AC-Blue-Icons,1,3913,0.0003,https://shop-power-technique.atlascopco.com/media/AC-Blue-Icons-4QOQ7ONG.woff2
+desktop,COLRv1,Noto Color Emoji,500,3913,0.1278,https://nederbeek.nl/_next/static/media/c273c63b0bc42eac-s.0pa82216lhl9_.woff2
+desktop,COLRv1,Fluent Emoji Color,69,3913,0.0176,https://tetunori.github.io/fluent-emoji-webfont/dist/FluentEmojiColor066.woff2
+desktop,COLRv1,Aref Ruqaa Ink,52,3913,0.0133,https://fonts.gstatic.com/s/arefruqaaink/v11/1q2cY5WOGUFlt84GTOkP6Kdx71xde5Wmo2E.woff2
+desktop,COLRv1,Bungee Spice,29,3913,0.0074,https://monstermania.net/wp-content/uploads/elementor/google-fonts/fonts/bungeespice-nwpttk2nihxe0q-iwgspzbqyycg_mma.woff2
+desktop,COLRv1,Reem Kufi Ink,26,3913,0.0066,https://metaoh.org/wp-content/uploads/elementor/google-fonts/fonts/reemkufiink-opwj_kjmmu8hcvb9ifumxzsndjlxqyyu.woff2
+desktop,COLRv1,Honk,15,3913,0.0038,"https://cabalsynergy.com/assets/Honk-Regular-VariableFont_MORF,SHLN-4c231233.ttf"
+desktop,COLRv1,noto-glyf_colr_1,12,3913,0.0031,https://fonts.gstatic.com/s/notocolremojiglyf/v15/O4ZNFHTymAx3XTz4kzAD12B9_Qi8jS_unlDHTrbbh2W6OgE8KRo.2.woff2
+desktop,COLRv1,Nabla,11,3913,0.0028,https://fonts.gstatic.com/s/nabla/v10/j8_D6-LI0Lvpe7Makz5UhJt9C3uqg_X_75gyGS4jAxsNIjrRBRdeFXZ6x96OvAFr.woff2
+desktop,COLRv1,Twitter Color Emoji,7,3913,0.0018,https://ubersdr.k3fef.com/fonts/twemoji-flags.woff2
+desktop,COLRv1,An Emoji Family,5,3913,0.0013,https://nonunbub.com/assets/fonts/tossface/tossface-food.woff2
+desktop,COLRv1,Sixtyfour Convergence,3,3913,0.0008,https://wolfoftablet.com/wp-content/themes/tablets/fonts/pixel.woff2
+desktop,COLRv1,Foldit,3,3913,0.0008,https://fonts.gstatic.com/s/foldit/v8/aFTV7PF3Y3c9WdjnoT21.woff2
+desktop,COLRv1,JoyPixels,3,3913,0.0008,https://emojicopy.com/assets/fonts/11.0/SVG/902893hdrkdyei36789.woff2
+desktop,COLRv1,,2,3913,0.0005,https://skating.tw/assets/fonts/noto-color-emoji-subset.woff2
+desktop,COLRv1,Bitcount Grid Double Ink,2,3913,0.0005,https://fonts.gstatic.com/s/bitcountgriddoubleink/v2/55zMcCw3FN_jOGTSZJcl588VlZiMRBEu8MNfAa1hTmcIC-EgZzYwMlaO_awRPudtyc3Y6uQYyaHkeKGSq8TU4RVR7xpYN_MnWZejEGOGrT-NcapoFhvUOhVjLNJ2XCLrbMxtAR6SYY1mL-OvDnjOVsnRj34-p6VMvv549Lg7J4HRX7TqUxwskRMxVR7_3L-QRhDtbv8kM-EDNmBQr1-hsC1tMPJC0vkO2JhzR0_rERpQ.woff2
+desktop,COLRv1,Segoe UI Emoji,1,3913,0.0003,https://aqtivewater.com/wp-content/uploads/2025/01/seguiemj.ttf
+desktop,COLRv1,twemoji-mosir,1,3913,0.0003,https://beta.mosir.app/fonts/twemoji-mosir.colr_1.woff2
+desktop,COLRv1,Kalnia Glaze,1,3913,0.0003,https://fonts.gstatic.com/s/kalniaglaze/v5/wlpQgwHCBUNjrGrfu-hwowN1YyC-42Lu26VHf2LtOkAod0wTxm2tFYdL6kneI_k.woff2
+desktop,COLRv1,Bitcount Ink,1,3913,0.0003,https://fonts.gstatic.com/s/bitcountink/v2/CHw3XOqbPlXqZygxqACCMDRlDHEsWMeZ-ply2TQhrGdTTV70MvuSq-hd_83nDPWRtOLnAR0RGYwUI6_l53HbUsPlZt2f_nGD_DNHtMCB7B9hQwZ0b5o6F6iN-beb4rZZL0lJiDukrkTdyFcJaMYOfDmhx95p-j2BlGfR752-BOzpyNMOV-otpEi0LP8lkm2L_v1iV4b0vZlRFNojp-LpjyYyKHpf.woff2
+desktop,COLRv1,Noto Color Emoji SVG,1,3913,0.0003,https://www.netprofit.de/files/themes/netprofit/fonts/noto-emoji/emojis.woff2
+desktop,COLRv1,Blaka Ink,1,3913,0.0003,https://fonts.gstatic.com/s/blakaink/v10/AlZy_zVVtpj22Znag2cRcn35BB4.woff2
+desktop,COLRv1,TeXSynHL,1,3913,0.0003,https://rachana.org.in/style/fonts/TeXSynHL-Regular.woff2
+desktop,COLRv1,FluentEmojiColor-COLRv1,1,3913,0.0003,https://martyr.shop/_astro/chunk-006.-83u_ZbO.woff2
+desktop,COLRv1,Bitcount Prop Double Ink,1,3913,0.0003,https://fonts.gstatic.com/s/bitcountpropdoubleink/v2/Y4EraqgqeCwyoeHYKJOMnRRAOHVHr-2bKnsgKOU1mvV-Vk5S_hxGNApRqvOsLjMS7TL7U6J7vsT0x86f1E_MhJ7Fc8CNp0DtWIOPIdLKGVtyw2WU1OmnzDEO5QVqngZewgsX32-qkruHpLpXeSB4hOOrFaY6I-9oLQWBuD4CtdBkkmqV6mdr8M41Shcr_DYnIqojkFlhekgcGiaIMOm7DY3-ibiJFY5uuJUAz56ODIBS.woff2
+desktop,COLRv1,DualBright TRIAL Color Sans,1,3913,0.0003,https://noirblancrouge.com/fontface/DualBright-SansFLY.woff2
+desktop,COLRv1,Velzyland,1,3913,0.0003,"https://cjtype.com/fonts/velzyland-vf/Velzyland[EDPT,EHLT].ttf"
+desktop,COLRv1,SerenityOS Emoji,1,3913,0.0003,https://linusg.github.io/serenityos-emoji-font/SerenityOS-Emoji.ttf
+desktop,COLRv1,Bitcount Grid Single Ink,1,3913,0.0003,https://archcod.com/wp-content/fonts/bitcount-grid-single-ink/NaN4epOEK_VIyYAuIaZn7FnUAOSVYeI0Ctm5-AxV__OGadlXPkpqc2W3G80KvDvfZJcTBZtOWSEifRuVdQ9MPZtUsYBBEK6cMpFmAx9Xgbn8m7Ha_CUon9Fm0PP1zM05Dnsuyw04ZGzhvlKxYNMYWI3t91IQXOwJRiUJVTErJ5YUW4O8LJCoXjD9tXQjarshNDUf3e0O5j3ZjrZCu23Qd4G0EACUTNK-QKavMlx2JoUc.woff2
+desktop,COLRv1,Unnamed1,1,3913,0.0003,https://lp-crm.biz/assets/lp-font.woff2
+desktop,SVG,貂明朝,774,3913,0.1978,https://use.typekit.net/af/e4cb74/00000000000000003b9b2cc7/27/m?features=ALL&v=4&chunks=7.19.92.101.143.155.157.168.172.174.191.193.200.211.214.215.236.238.240.241&order=0
+desktop,SVG,貂明朝テキスト,522,3913,0.1334,https://use.typekit.net/af/510075/00000000000000007735b791/30/m?features=ALL&v=4&chunks=1.12.13.23.199.203.239&order=0
+desktop,SVG,,206,3913,0.0526,https://opel.autowallisdebrecen.hu/assets/opel/fonts/OpelNextW05-Light.woff2
+desktop,SVG,Noto Color Emoji,99,3913,0.0253,https://assets.lovebookonline.com/assets/Yq6P-KqIXTD0t4D9z1ESnKM3-HpFabsE4tq3luCC7p-aXw.9-E26G8QIO.woff2
+desktop,SVG,Fluent Emoji Color,69,3913,0.0176,https://tetunori.github.io/fluent-emoji-webfont/dist/FluentEmojiColor066.woff2
+desktop,SVG,Source Code Pro,47,3913,0.012,https://typotheque.luuse.io/content/fonts/source-code-pro/SourceCodePro-ExtraLight.otf
+desktop,SVG,HarmonyOS Sans,18,3913,0.0046,https://cherygiama.com/fonts/HarmonyOS_Sans_Bold.woff2
+desktop,SVG,Source Code Variable,12,3913,0.0031,https://karecurry.au/wp-content/uploads/2023/06/SourceCodeVariable-Roman.ttf.woff2
+desktop,SVG,Aref Ruqaa Ink,12,3913,0.0031,https://fonts.gstatic.com/s/arefruqaaink/v11/1q2cY5WOGUFlt84GTOkP6Kdx71xde5Wmo2E.woff2
+desktop,SVG,MOVE,10,3913,0.0026,https://loireatlantique.transdev-paysdelaloire.com/themes/custom/transdev/fonts/MOVE-Regular.woff2
+desktop,SVG,Elm,10,3913,0.0026,https://www.rabet.sa/_app/immutable/assets/Elm-Medium.B_4gOS3G.woff
+desktop,SVG,HarmonyOS Sans SC,9,3913,0.0023,https://www.hkd.com/font/HarmonyOS_SansSC_Medium.ttf
+desktop,SVG,Naotypo,8,3913,0.002,https://naolib.fr/jsp_gppro/styles/fonts/naotypo/Naotypo-Bold.woff
+desktop,SVG,Diglu,8,3913,0.002,https://cdn.prod.website-files.com/608a82c93fcf2cd75a868752/65d4d8dcbf93009e90e78584_Diglu-Medium.woff
+desktop,SVG,Gilbert Color,8,3913,0.002,https://use.typekit.net/af/591b7d/00000000000000003b9b3d8c/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+desktop,SVG,Twitter Color Emoji,8,3913,0.002,https://ubersdr.k3fef.com/fonts/twemoji-flags.woff2
+desktop,SVG,BabelStone Flags,7,3913,0.0018,https://www.french-property.com/laravel-fonts/BabelStoneFlags.woff
+desktop,SVG,Trajan Color,5,3913,0.0013,https://use.typekit.net/af/eedcd4/00000000000000007735b07a/31/l?unicode=AAAC7AAAAAeaGZi-lUyJa3uI3n0eYfRWJ_ri5StwJm5-fVjqyQkYlMjB1dTuTnGe8rLlVu7le8Eq7XG8JGgr_898d9ulsHvG1Ba7dReHKMenbqDgA0DBCErTkOvsui7QFPJMWgAABQ0&features=ALL&v=3
+desktop,SVG,Bungee Spice,5,3913,0.0013,https://college.ehle.ac.jp/wp-content/themes/yootheme/fonts/bungeespice-23cd970b.woff2
+desktop,SVG,Hasklig,5,3913,0.0013,https://clash-lang.org/media/fonts/Hasklig-It.otf
+desktop,SVG,Opel Next,4,3913,0.001,https://konfigurator.opel.se/wp-content/uploads/et-fonts/OpelNext.otf
+desktop,SVG,Reem Kufi Ink,4,3913,0.001,https://fonts.gstatic.com/s/reemkufiink/v11/oPWJ_kJmmu8hCvB9iFumxZSndjxXQ1aUxkvsCQ.woff2
+desktop,SVG,Nabla,4,3913,0.001,https://genie.codebuddy.ai/fonts/Nabla-latin-400.woff2
+desktop,SVG,Eloy Sans Outline,4,3913,0.001,https://www.eloy.be/wp-content/themes/ak-eloy-2021/assets/fonts/02-Eloy%20Sans%20Outline/EloySansOutline-Bleu.woff2
+desktop,SVG,AZ - CAPS - 2025,4,3913,0.001,https://www.az.nl/assets/toolkit/fonts/az-shirt-2025.otf?v=V1pgIrDLISoaoww-HrYi2Tdc23fLwwGVQmt6sxRJoxg
+desktop,SVG,flags color world,4,3913,0.001,https://app.neptune.cloud/lizard_ui/Lizard7/modern/resources/fonts/FlagsColorWorld-51lyx.ttf?_sw-precache=84822dfd2bc2a83e5248ede4c8c000df
+desktop,SVG,Eloy Sans Tiret,3,3913,0.0008,https://www.eloy.be/wp-content/themes/ak-eloy-2021/assets/fonts/03-Eloy%20Sans%20Tiret/EloySansTiret-Jaune.woff2
+desktop,SVG,twroadfont-1.0,3,3913,0.0008,https://cdn-go.justfont.com/file/jfont.woff?k=c987bd551c99e5a914f02a6153172a82&n=twroadfont&o=https%3A%2F%2Fwebfont.justfont.com&p=58317
+desktop,SVG,Klarna Text,3,3913,0.0008,https://x.klarnacdn.net/ui/fonts/v1.5/KlarnaText-Bold.woff
+desktop,SVG,Timber Wolf,3,3913,0.0008,https://popmenucloud.com/riauyqwz/aeeb7c32-647c-4d66-88bb-e8d9cffb9cbb.ttf
+desktop,SVG,jf-kamabit-1.0,3,3913,0.0008,https://cdn-go.justfont.com/file/jfont.woff?k=591e94aa62288714651ebe4ece5cc4bf&n=jf-kamabit&o=https%3A%2F%2Ftaiwan.md&p=65854
+desktop,SVG,Bagoss Standard,3,3913,0.0008,https://cdn.hallon.se/_next/static/media/BagossStandard_SemiBold-s.p.05nivu0-8mnq3.woff2
+desktop,SVG,AtlanticTheatreArts,2,3913,0.0005,https://static.wixstatic.com/ufonts/725af8_326f079e1c8f4230a7d7a3bb6ca29d3f/woff2/file.woff2
+desktop,SVG,aalmaghribi svg,2,3913,0.0005,https://mehbarah.com/fonts/4_Naskh/aalmaghribi%20svg/MehbarahCom_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A.ttf
+desktop,SVG,Cimero Pro,2,3913,0.0005,https://fonts.cdnfonts.com/s/51872/CimeroPro-w1yLn.woff
+desktop,SVG,Lipton High,2,3913,0.0005,https://www.liptonicetea.nl/static/6570992816473ed1d01f251ce2c5de614f94428e32b35e268d6661f92b54e678/resources/fonts/LiptonHighlight-Clean.woff2
+desktop,SVG,Linetone,2,3913,0.0005,https://pinkslips.app/static-assets/customization-assets/fonts/linetone-400.v1.otf
+desktop,SVG,Eloy Sans Rubalise,2,3913,0.0005,https://www.eloy.be/wp-content/themes/ak-eloy-2021/assets/fonts/04-Eloy%20Sans%20Rubalise/EloySansRubalise-Bleu.woff2
+desktop,SVG,Eloy Sans Logotype,2,3913,0.0005,https://www.eloy.be/wp-content/themes/ak-eloy-2021/assets/fonts/01-Eloy%20Sans%20Logo/EloySansLogotype-Regular.woff2
+desktop,SVG,Garmani,2,3913,0.0005,https://cdn.prod.website-files.com/64174e39b2d431f8e5c57570/6436eed9bf2b131020c82941_Garmani-SVG.woff2
+desktop,SVG,Cappelletto Grotesk,2,3913,0.0005,https://estercare.com/fonts/CappellettoGrotesk.otf
+desktop,SVG,Oxstars,2,3913,0.0005,https://adbreakmedia.com/fonts/Oxstars.ttf
+desktop,SVG,Edificanto,2,3913,0.0005,https://pinkslips.app/assets/edificanto-400-DnLn1BTL.otf
+desktop,SVG,Zyphronix,2,3913,0.0005,https://pinkslips.app/assets/zyphronix-400-CEMyTqOo.otf
+desktop,SVG,hm_emoji,2,3913,0.0005,https://humanmade.co.jp/assets/font/hm_emoji-Regular.woff2
+desktop,SVG,Houstiq,2,3913,0.0005,https://static.wixstatic.com/ufonts/aca063_9e0cbbc61d50456093bdd8e7e7b21b53/woff2/file.woff2
+desktop,SVG,Quran Surah 2,2,3913,0.0005,https://corandemoncoeur.com/wp-content/uploads/2025/09/QuranSurah2-7Bov4.ttf
+desktop,SVG,LPMQ MSI ISYARAT,2,3913,0.0005,https://jadwalsholat.nu.or.id/_next/static/media/38b03ec559736a82-s.p.woff2
+desktop,SVG,GT Maru Emoji,2,3913,0.0005,https://gibson.sfu.ca/_next/static/media/GT_Maru_Emoji_Color-s.p.0scvolg-7ddz9.otf
+desktop,SVG,Chaos Stripe,2,3913,0.0005,https://shop.chaos.club/cdn/shop/t/33/assets/ChaosStripe-CandyFloss.woff2?v=93607423334370242611655715072
+desktop,SVG,ColorTube,2,3913,0.0005,https://www.colegiokiryat.edu.mx/fuentes/ColorTube-Regular.otf
+desktop,SVG,JB FONT,2,3913,0.0005,https://static1.squarespace.com/static/64aa8c4d86784c5e6ff8d846/t/673739223100052f8728f36b/1731672354352/JBFONT.otf
+desktop,SVG,AccorArena,2,3913,0.0005,https://www.accorarena.com/frontend/assets/fonts/AccorArena-MidnightBlue.woff2
+desktop,SVG,Grass Touch,2,3913,0.0005,https://grassandco.uk/cdn/shop/t/48/assets/GrassTouch-White.otf?v=151546433469317888281783971004
+desktop,SVG,IBA-SimplonNorm,2,3913,0.0005,https://rmkcdn.successfactors.com/1469b66c/68a40cab-152e-40e9-b0f2-f.otf
+desktop,SVG,B-Belgium-25,2,3913,0.0005,https://myteam.decathlonpro.ch/_next/static/media/ae32c369aef95eab-s.p.otf
+desktop,SVG,ヒグミン にじみ,2,3913,0.0005,https://use.typekit.net/af/443b42/00000000000000007735ed6d/30/m?features=ALL&v=4&chunks=1.23&order=0
+desktop,SVG,EmojiOne,2,3913,0.0005,https://mgoeste.com.ar/wp-content/uploads/2026/04/EmojiOneColor.otf
+desktop,SVG,PV Narasimha Rao,2,3913,0.0005,https://telugufonts.in/uploads/PVNR.woff2
+desktop,SVG,Custom Emoji Font,1,3913,0.0003,https://new.expensify.com/fonts/CustomEmojiWebFont.ttf
+desktop,SVG,砧 きりこ かな Color 1,1,3913,0.0003,https://use.typekit.net/af/b618c5/00000000000000007735f491/30/m?features=ALL&v=4&chunks=0&order=0
+desktop,SVG,ヒグミン スムーズ,1,3913,0.0003,https://use.typekit.net/af/89b23a/00000000000000007735ed6e/30/m?features=ALL&v=4&chunks=1&order=0
+desktop,SVG,Filicudi Color Lemon,1,3913,0.0003,https://use.typekit.net/af/567f7b/00000000000000007735edaf/30/l?unicode=AAAHTgAAAAeZNhI7nOXAR1DJNvH1N6HHA8_iMzny5lfjEPg_YsYi0ieFbSmy13c-67Xh4mvTwrguZdQT1k2viU09IJRJNxLP2WFjRDqUA1UGH9XqRTLIeirLgK71BiiR9zbtYUs5aX6uDvsKq-HyBpvQ9oAar2Gud67G_jRdrL4A6XzPNazMQtIX7I6-zs3rEk8-42rgwafbkfmp7hmiNm-q32Pfbz4ZtYWYu-G0d5gWOUGwLh35BzVKJgSDGrRv_lJD14yWn0d9ry_Vk_H7bf6qp258nzj2amyU3I4Lo1tQCeXUHGBBp6LoetfxNxn-AAAWPA&features=ALL&v=3
+desktop,SVG,Synesthesia,1,3913,0.0003,https://static1.squarespace.com/static/5c8d2b3c7d0c9120c098b900/t/5d532a44316bb40001726908/1565731396072/Synesthesia.otf
+desktop,SVG,Avaboca,1,3913,0.0003,https://heally.com.mx/cdn/shop/files/Avaboca-SVG_f7bc83c0-99a1-4e2a-89a4-f43866e5596d.otf?v=1756147848&display=swap
+desktop,SVG,West Fox,1,3913,0.0003,https://static1.squarespace.com/static/6123e7a1f6671e13fc96d62d/t/6123f8aafa0d767f53c48185/1629747370532/WestFox.otf
+desktop,SVG,NesathoBeryl,1,3913,0.0003,https://cdn1.sportngin.com/attachments/document/b243-3299336/Nesatho-Beryl.ttf
+desktop,SVG,Filicudi Color Candy,1,3913,0.0003,https://use.typekit.net/af/381295/00000000000000007735edac/30/l?unicode=AAAHTgAAAAeZNhI7nOXAR1DJNvH1N6HHA8_iMzny5lfjEPg_YsYi0ieFbSmy13c-67Xh4mvTwrguZdQT1k2viU09IJRJNxLP2WFjRDqUA1UGH9XqRTLIeirLgK71BiiR9zbtYUs5aX6uDvsKq-HyBpvQ9oAar2Gud67G_jRdrL4A6XzPNazMQtIX7I6-zs3rEk8-42rgwafbkfmp7hmiNm-q32Pfbz4ZtYWYu-G0d5gWOUGwLh35BzVKJgSDGrRv_lJD14yWn0d9ry_Vk_H7bf6qp258nzj2amyU3I4Lo1tQCeXUHGBBp6LoetfxNxn-AAAWPA&features=ALL&v=3
+desktop,SVG,Altenergy Gothic CW,1,3913,0.0003,https://altenergy.co.jp/assets/fonts/altenergy-gothic/AltenergyGothicCW.woff2
+desktop,SVG,OtherSpaceArts Caps,1,3913,0.0003,https://static.wixstatic.com/ufonts/d1a436_b1a78e5e727945489d197c4837bd4d2b/woff2/file.woff2
+desktop,SVG,Quran Surah 1,1,3913,0.0003,https://www.al-adkar.com/fonts/QuranSurah1-mLKO5.ttf
+desktop,SVG,FiniFun,1,3913,0.0003,https://finistore.es/cdn/shop/t/3/assets/FiniFun-Condensed.otf?v=100430407254673895051761036130
+desktop,SVG,RetroNumbers,1,3913,0.0003,https://shop.fcemmen.nl/static/version1784204189/frontend/fcemmen/base/nl_NL/fonts/rugnummers/Thuis.woff2
+desktop,SVG,Houstiq 2,1,3913,0.0003,https://static.wixstatic.com/ufonts/68b8e6_ad6953aec98e470d92b3dddaa07468d3/woff2/file.woff2
+desktop,SVG,Stranger Times,1,3913,0.0003,https://onlinedegrees.sandiego.edu/wp-content/themes/usd/assets/dist/fonts/stranger-times/regular.ttf
+desktop,SVG,Quran Surah 01,1,3913,0.0003,https://www.al-adkar.com/fonts/QuranSurah01-w1yO6.ttf
+desktop,SVG,Mexicali,1,3913,0.0003,https://cdn.bopple.app/assets/mexicali/fonts/Mexicali.otf
+desktop,SVG,RedactRect,1,3913,0.0003,https://scp-wiki-cdn.nyc3.cdn.digitaloceanspaces.com/theme/en/sigma/fonts/RedactRect.woff2
+desktop,SVG,Bamboo,1,3913,0.0003,https://static.wixstatic.com/ufonts/bacf31_e0f8064d8ed54c5c8d57a9cf861e2dec/woff2/file.woff2
+desktop,SVG,砧 きりこ かな Color 2,1,3913,0.0003,https://use.typekit.net/af/fc9945/00000000000000007735f490/30/m?features=ALL&v=4&chunks=0&order=0
+desktop,SVG,DCF Website,1,3913,0.0003,https://shop.degencoinflip.com/static/media/DCFShopFont.2f9925b745735d33ab69.otf
+desktop,SVG,Juma,1,3913,0.0003,https://fonts.fontdue.com/plau/fonts/1ecbdf1ed386e1ed500a425a3afb632c68045483.woff2
+desktop,SVG,California Palms Script SVG,1,3913,0.0003,https://cdn.nitroapps.co/fontify/htwed.myshopify.com/california-palms.otf
+desktop,SVG,social media color,1,3913,0.0003,https://static.wixstatic.com/ufonts/e8fe94_cba6467af24f4474b19b763a34b40d16/woff2/file.woff2
+desktop,SVG,Wall-Painter,1,3913,0.0003,https://fonts.cdnfonts.com/s/82104/Wall-Painter.woff
+desktop,SVG,Wild Irish Rose,1,3913,0.0003,https://activatecdn.azureedge.net/activatedata/35Content/BahamaBreeze/Fonts/Wild-Irish-Rose.otf
+desktop,SVG,Kindness Matters SVG,1,3913,0.0003,https://static.wixstatic.com/ufonts/b23720_5b79e4e2da964d2b88868038510313fc/woff2/file.woff2
+desktop,SVG,Filicudi Color Fire,1,3913,0.0003,https://use.typekit.net/af/7ed059/00000000000000007735edad/30/l?unicode=AAAHTgAAAAeZNhI7nOXAR1DJNvH1N6HHA8_iMzny5lfjEPg_YsYi0ieFbSmy13c-67Xh4mvTwrguZdQT1k2viU09IJRJNxLP2WFjRDqUA1UGH9XqRTLIeirLgK71BiiR9zbtYUs5aX6uDvsKq-HyBpvQ9oAar2Gud67G_jRdrL4A6XzPNazMQtIX7I6-zs3rEk8-42rgwafbkfmp7hmiNm-q32Pfbz4ZtYWYu-G0d5gWOUGwLh35BzVKJgSDGrRv_lJD14yWn0d9ry_Vk_H7bf6qp258nzj2amyU3I4Lo1tQCeXUHGBBp6LoetfxNxn-AAAWPA&features=ALL&v=3
+desktop,SVG,Van Zoggel Icons,1,3913,0.0003,https://vanzoggelcatering.nl/wp-content/uploads/fonts/VanZoggelIcons-Bold.otf
+desktop,SVG,Eloy Sans Logotype Blanc,1,3913,0.0003,https://www.eloy.be/wp-content/themes/ak-eloy-2021/assets/fonts/03-Eloy%20Sans%20Logo%20Blanc/EloySansLogotypeBlanc-Regular.woff2
+desktop,SVG,Grapheine,1,3913,0.0003,https://grapheine.com/wp-content/themes/grapheine/fonts/GrapheineVF.woff2
+desktop,SVG,Mailman,1,3913,0.0003,https://eighteen.bar/fonts/MailmanRegular-R9exe.ttf
+desktop,SVG,HYELM,1,3913,0.0003,https://hyelm.com/wp-content/themes/hyelm-theme/src/fonts/HYELM.otf
+desktop,SVG,QESTERO,1,3913,0.0003,https://revivalclinics.com/wp-content/uploads/2024/04/QESTERO-Regular-SVG.ttf
+desktop,SVG,CEMC-Display,1,3913,0.0003,https://www.cemc.fr/wp-content/uploads/2025/07/CEMC-Bitmap-B-Bold-v5-4.otf
+desktop,SVG,argentina_script,1,3913,0.0003,https://argentinacine.com/wp-content/themes/argentina_cine/fonts/argentinascript-Regular.woff
+desktop,SVG,Filicudi Color Steel,1,3913,0.0003,https://use.typekit.net/af/d529ae/00000000000000007735edb3/30/l?unicode=AAAHTgAAAAeZNhI7nOXAR1DJNvH1N6HHA8_iMzny5lfjEPg_YsYi0ieFbSmy13c-67Xh4mvTwrguZdQT1k2viU09IJRJNxLP2WFjRDqUA1UGH9XqRTLIeirLgK71BiiR9zbtYUs5aX6uDvsKq-HyBpvQ9oAar2Gud67G_jRdrL4A6XzPNazMQtIX7I6-zs3rEk8-42rgwafbkfmp7hmiNm-q32Pfbz4ZtYWYu-G0d5gWOUGwLh35BzVKJgSDGrRv_lJD14yWn0d9ry_Vk_H7bf6qp258nzj2amyU3I4Lo1tQCeXUHGBBp6LoetfxNxn-AAAWPA&features=ALL&v=3
+desktop,SVG,Myanmar Jojar Pro,1,3913,0.0003,https://cvbawrrt6ky4ctvk.public.blob.vercel-storage.com/fonts/k0zwZFlUTtg2DOb2OFGoVERr1O5d1RLP/MyanmarJojarPro/MyanmarJojarPro-Regular.woff2
+desktop,SVG,Glue Font,1,3913,0.0003,https://static1.squarespace.com/static/66aa433f26327363b5459390/t/66aa49fc2e41716185ee11da/1722436094357/GlueFont.otf
+desktop,SVG,Excalibur Old,1,3913,0.0003,https://static1.squarespace.com/static/5d090703bfcf6300017faaa8/t/6722ad2a8c330668e16c10e0/1730325823340/Excalibur+Old.ttf
+desktop,SVG,Baron Font,1,3913,0.0003,https://baron.coffee/fonts/Baron-Regular.woff2
+desktop,SVG,Fabula Ultima icons,1,3913,0.0003,https://chroniclesofaether.com/fonts/FabulaUltimaIcons-Regular.otf
+desktop,SVG,RetroNumbers Gold,1,3913,0.0003,https://shop.fcemmen.nl/static/version1784204189/frontend/fcemmen/base/nl_NL/fonts/rugnummers/Uit.woff2
+desktop,SVG,Verollina Classy Modern,1,3913,0.0003,https://puchimooni.com/wp-content/uploads/2025/12/Verollina-SVG.woff2
+desktop,SVG,Ventennio,1,3913,0.0003,https://earthgreenpaper.com/wp-content/uploads/2023/08/Italico_700-SVG.210115-1841.ttf
+desktop,SVG,G11,1,3913,0.0003,https://static1.squarespace.com/static/61cd89640d29aa30a48ff7f1/t/61cd8f613e640364e3357bee/1640861538391/G11.otf
+desktop,SVG,Quran Surah 02,1,3913,0.0003,https://www.al-adkar.com/fonts/QuranSurah02-d9lVZ.ttf
+desktop,SVG,AFC Champions,1,3913,0.0003,https://www.the-afc.com/fonts/AFCChampions-Chisel.otf?__WB_REVISION__=6d45b9f7e51cb5415149063a98112c70
+desktop,SVG,Record Store Stencil,1,3913,0.0003,https://cdn.prod.website-files.com/644f70cf65fb6d39a7cb223b/646d2e5ceb52688f54a44996_RecordStoreStencil-KR.otf
+desktop,SVG,Filicudi Color Wasp,1,3913,0.0003,https://use.typekit.net/af/fc9144/00000000000000007735edb5/30/l?unicode=AAAHTgAAAAeZNhI7nOXAR1DJNvH1N6HHA8_iMzny5lfjEPg_YsYi0ieFbSmy13c-67Xh4mvTwrguZdQT1k2viU09IJRJNxLP2WFjRDqUA1UGH9XqRTLIeirLgK71BiiR9zbtYUs5aX6uDvsKq-HyBpvQ9oAar2Gud67G_jRdrL4A6XzPNazMQtIX7I6-zs3rEk8-42rgwafbkfmp7hmiNm-q32Pfbz4ZtYWYu-G0d5gWOUGwLh35BzVKJgSDGrRv_lJD14yWn0d9ry_Vk_H7bf6qp258nzj2amyU3I4Lo1tQCeXUHGBBp6LoetfxNxn-AAAWPA&features=ALL&v=3
+desktop,SVG,WILD CHERRY,1,3913,0.0003,https://media-cdn.getbento.com/accounts/809e6e99faa212d4ad7e9947829ddbb1/media/XHmvWDm8RzGSpDm6btxo_p3DVbxnLSYeb6wapvYdr_WILDCHERRY.otf
+desktop,SVG,Filicudi Color TV,1,3913,0.0003,https://use.typekit.net/af/f1e308/00000000000000007735edb4/30/l?unicode=AAAHTgAAAAeZNhI7nOXAR1DJNvH1N6HHA8_iMzny5lfjEPg_YsYi0ieFbSmy13c-67Xh4mvTwrguZdQT1k2viU09IJRJNxLP2WFjRDqUA1UGH9XqRTLIeirLgK71BiiR9zbtYUs5aX6uDvsKq-HyBpvQ9oAar2Gud67G_jRdrL4A6XzPNazMQtIX7I6-zs3rEk8-42rgwafbkfmp7hmiNm-q32Pfbz4ZtYWYu-G0d5gWOUGwLh35BzVKJgSDGrRv_lJD14yWn0d9ry_Vk_H7bf6qp258nzj2amyU3I4Lo1tQCeXUHGBBp6LoetfxNxn-AAAWPA&features=ALL&v=3
+desktop,SVG,Amiri Quran,1,3913,0.0003,https://fonts.gstatic.com/s/amiriquran/v17/_Xmo-Hk0rD6DbUL4_vH8Zq5t.ttf
+desktop,SVG,Filicudi Color Neon,1,3913,0.0003,https://use.typekit.net/af/342cce/00000000000000007735edb0/30/l?unicode=AAAHTgAAAAeZNhI7nOXAR1DJNvH1N6HHA8_iMzny5lfjEPg_YsYi0ieFbSmy13c-67Xh4mvTwrguZdQT1k2viU09IJRJNxLP2WFjRDqUA1UGH9XqRTLIeirLgK71BiiR9zbtYUs5aX6uDvsKq-HyBpvQ9oAar2Gud67G_jRdrL4A6XzPNazMQtIX7I6-zs3rEk8-42rgwafbkfmp7hmiNm-q32Pfbz4ZtYWYu-G0d5gWOUGwLh35BzVKJgSDGrRv_lJD14yWn0d9ry_Vk_H7bf6qp258nzj2amyU3I4Lo1tQCeXUHGBBp6LoetfxNxn-AAAWPA&features=ALL&v=3
+desktop,SVG,Cartier,1,3913,0.0003,https://static.wixstatic.com/ufonts/f55bd9_c5e9a6a2bbfe44e882aca1b2bcdc4293/woff2/file.woff2
+desktop,SVG,NavIcons,1,3913,0.0003,https://sae-static-content-prod.cl.sae.org/fonts/NavIcons.otf
+desktop,SVG,Milk and Wild,1,3913,0.0003,https://www.makeithappenevents.at/wp-content/uploads/dynamic_avia/avia_type_fonts/milk-and-wild/milk%20and%20wild.ttf
+desktop,SVG,Sudz,1,3913,0.0003,https://use.typekit.net/af/4f347d/0000000000000000775ca916/31/l?unicode=AAAHwQAAAAdfLi9xvfIvlzTKfWLmGdL_PmzvrjV1ixY46T9DzdNcR6SQAYXil2sCtaJIda_Pt0_0daMPVIqmLzS7UG4gsNBUOGCpkk88a-qhhduufk4RjSGmdXNb3Y9IU4tO-u7tbv0PRcpyoWR5giUv6Ez2o-GLs-O3W6BcIp-gmIpajQ6gL7kWrzrmB9_wpI5pJiozvsd3xwNVkNDVNnwfkAFiFaLxp9ajR3Or8AYJGYNYKAzbtcx3PRVyKXL-3N4PFCcnCartgFxn92S06_f_apFuYgVjaSxt_kfz9JE9iR_fMimFu1jFDv-T1vIQhKk3732lF4lNbv7HMfTO8wAAAAA&features=ALL&v=3
+desktop,SVG,Hubber Grotesk Md,1,3913,0.0003,https://cdn.prod.website-files.com/68946465e1b6cc76aea6ed74/68947bc33c971e69a874f02d_HubberGroteskMd.otf
+desktop,SVG,FFF-font,1,3913,0.0003,https://teamsport.puma.com/fonts/FFFlocage-Black.otf
+desktop,SVG,BroshK,1,3913,0.0003,https://kaaipop.nl/wp-content/uploads/2025/12/BroshK-1.woff
+desktop,SVG,DK Display Patrol,1,3913,0.0003,https://confiserie-thijs.be/swfiles/body/DK-Display-TwoImpress.otf
+desktop,SVG,Ama-Font,1,3913,0.0003,https://static.wixstatic.com/ufonts/344854_ddc2a0f4329241aead59588242e15095/woff2/file.woff2
+desktop,SVG,BrushBrisk,1,3913,0.0003,https://irp.cdn-website.com/04808c45/fonts/brush-brisk-brush-brisk-svg-400-8576_400.otf
+desktop,SVG,Filicudi Color Ocean,1,3913,0.0003,https://use.typekit.net/af/cf3f28/00000000000000007735edb1/30/l?unicode=AAAHTgAAAAeZNhI7nOXAR1DJNvH1N6HHA8_iMzny5lfjEPg_YsYi0ieFbSmy13c-67Xh4mvTwrguZdQT1k2viU09IJRJNxLP2WFjRDqUA1UGH9XqRTLIeirLgK71BiiR9zbtYUs5aX6uDvsKq-HyBpvQ9oAar2Gud67G_jRdrL4A6XzPNazMQtIX7I6-zs3rEk8-42rgwafbkfmp7hmiNm-q32Pfbz4ZtYWYu-G0d5gWOUGwLh35BzVKJgSDGrRv_lJD14yWn0d9ry_Vk_H7bf6qp258nzj2amyU3I4Lo1tQCeXUHGBBp6LoetfxNxn-AAAWPA&features=ALL&v=3
+desktop,SVG,JD Strangers Rough,1,3913,0.0003,https://static1.squarespace.com/static/55f1f6bae4b0951c27ba2718/t/63e1e6d2301f6934540bb162/1675749077216/JDStrangersRough-Navy.otf
+desktop,SVG,Vastyque,1,3913,0.0003,https://monaphilly.com/wp-content/uploads/fonts/Vastyque.otf
+desktop,SVG,Tortas,1,3913,0.0003,https://media-cdn.getbento.com/accounts/a648ce9bc66858b28a546b5b5115fc55/media/9x5YjNnRtK9Woud1ymlY_Tortas-Regular.ttf
+desktop,SVG,emma,1,3913,0.0003,https://smarts.agency/app/themes/smarts23/public/fonts/emma-regular-SVG.609c79.woff2
+desktop,SVG,Dx Bloop,1,3913,0.0003,https://gigil.com.ph/assets/font/dx-bloop/dxbloop-fullcolor.otf
+desktop,SVG,SAP-icons,1,3913,0.0003,https://learning.sap.com/fonts/SAP-icons-SVG.woff2
+desktop,SVG,Filicudi Color Barber,1,3913,0.0003,https://use.typekit.net/af/ecd179/00000000000000007735edab/30/l?unicode=AAAHTgAAAAeZNhI7nOXAR1DJNvH1N6HHA8_iMzny5lfjEPg_YsYi0ieFbSmy13c-67Xh4mvTwrguZdQT1k2viU09IJRJNxLP2WFjRDqUA1UGH9XqRTLIeirLgK71BiiR9zbtYUs5aX6uDvsKq-HyBpvQ9oAar2Gud67G_jRdrL4A6XzPNazMQtIX7I6-zs3rEk8-42rgwafbkfmp7hmiNm-q32Pfbz4ZtYWYu-G0d5gWOUGwLh35BzVKJgSDGrRv_lJD14yWn0d9ry_Vk_H7bf6qp258nzj2amyU3I4Lo1tQCeXUHGBBp6LoetfxNxn-AAAWPA&features=ALL&v=3
+desktop,SVG,Sundae Hit Personal Use,1,3913,0.0003,https://beydondurma.ru/SundaehitpersonaluseBold.otf
+desktop,SVG,OpenMoji,1,3913,0.0003,https://app.moveyourwine.com/es/OpenMoji-color-colr0_svg.1fc1d4458b10ed2f.woff2
+desktop,SVG,Coastline-SVG,1,3913,0.0003,https://static.wixstatic.com/ufonts/5daac4_9cd471348f544226ab8048eeb474f8a0/woff2/file.woff2
+desktop,SVG,PRINTED,1,3913,0.0003,https://www.plate-factory.co.uk/wp-content/uploads/2023/10/2D-PRINTED.otf
+desktop,SVG,flags color,1,3913,0.0003,https://www.alagod.com/theme/font/FlagsColor-AL4Gx.ttf
+desktop,SVG,CHENAIS,1,3913,0.0003,https://chenaisenergie.com/wp-content/uploads/et-fonts/chenais-SVG.otf
+desktop,SVG,Filicudi Color Nude,1,3913,0.0003,https://use.typekit.net/af/e1d29d/00000000000000007735edae/30/l?unicode=AAAHTgAAAAeZNhI7nOXAR1DJNvH1N6HHA8_iMzny5lfjEPg_YsYi0ieFbSmy13c-67Xh4mvTwrguZdQT1k2viU09IJRJNxLP2WFjRDqUA1UGH9XqRTLIeirLgK71BiiR9zbtYUs5aX6uDvsKq-HyBpvQ9oAar2Gud67G_jRdrL4A6XzPNazMQtIX7I6-zs3rEk8-42rgwafbkfmp7hmiNm-q32Pfbz4ZtYWYu-G0d5gWOUGwLh35BzVKJgSDGrRv_lJD14yWn0d9ry_Vk_H7bf6qp258nzj2amyU3I4Lo1tQCeXUHGBBp6LoetfxNxn-AAAWPA&features=ALL&v=3
+desktop,SVG,PlymouthPress,1,3913,0.0003,https://s0.wp.com/wp-content/themes/pub/punk/assets/fonts/plymouthpress/plymouthpress-400-normal.otf
+desktop,SVG,Beavertown Official,1,3913,0.0003,https://cdn-widgetsrepository.yotpo.com/brandkit/custom-fonts/E73u0RxvBJgJMTGOxSjrefKP1BbvNjzE14rBvsZ2/beavertownofficial/beavertown-official.otf
+desktop,SVG,JobIn-numbers,1,3913,0.0003,https://www.jobin.be/css/files/1c4dbc667c061ec1ecd7d43a02161073.otf
+desktop,SVG,Jeamjit,1,3913,0.0003,https://static.wixstatic.com/ufonts/0fd3e5_237e6e7de84548f583acae0ba3793c0b/woff2/file.woff2
+desktop,SVG,Filicudi Color Pride,1,3913,0.0003,https://use.typekit.net/af/84ac23/00000000000000007735edb2/30/l?unicode=AAAHTgAAAAeZNhI7nOXAR1DJNvH1N6HHA8_iMzny5lfjEPg_YsYi0ieFbSmy13c-67Xh4mvTwrguZdQT1k2viU09IJRJNxLP2WFjRDqUA1UGH9XqRTLIeirLgK71BiiR9zbtYUs5aX6uDvsKq-HyBpvQ9oAar2Gud67G_jRdrL4A6XzPNazMQtIX7I6-zs3rEk8-42rgwafbkfmp7hmiNm-q32Pfbz4ZtYWYu-G0d5gWOUGwLh35BzVKJgSDGrRv_lJD14yWn0d9ry_Vk_H7bf6qp258nzj2amyU3I4Lo1tQCeXUHGBBp6LoetfxNxn-AAAWPA&features=ALL&v=3
+desktop,SVG,Rustic Gold Alt SVG,1,3913,0.0003,https://static.wixstatic.com/ufonts/87d500_35d0b139774b44b5af31dfdd3b5c14f4/woff2/file.woff2
+desktop,SVG,dyrdee_icons,1,3913,0.0003,https://dyrdee.com/wp-content/themes/dyrdee_web/fonts/dyrdee_icons.ttf?i2jorl
+desktop,SVG,Create Star,1,3913,0.0003,https://static1.squarespace.com/static/6310f6ae7d54786b6cc4b74b/t/64849d707e58b601393f6fb5/1686412656827/Create-Star.otf
+desktop,SVG,Roque,1,3913,0.0003,https://www.thesparklebarn.com/uploads/b/2c70c6b4ed6e036db6a8781f38523256cbcb824567327e277e3920f377d2817a/RoqueColored_1708642081.otf
+desktop,SVG,Just,1,3913,0.0003,https://erausa.org/css/fonts/just-subways-03-svg.ttf
+desktop,SVG,Ruefa Iconfont,1,3913,0.0003,https://pauschal.ruefa.at/css/fonts/ricon.woff2
+desktop,sbix,Toss Face Font Mac,30,3913,0.0077,https://mobislive.com/assets/common/fonts/TossFaceFontMac-04.woff2
+desktop,sbix,Grass Touch,2,3913,0.0005,https://grassandco.uk/cdn/shop/t/48/assets/GrassTouch-White.otf?v=151546433469317888281783971004
+desktop,sbix,JoyPixels SBIX,1,3913,0.0003,https://slackdemo.com/_next/static/media/4a1808e1a6934583-s.p.woff2
+desktop,sbix,Wild Irish Rose,1,3913,0.0003,https://activatecdn.azureedge.net/activatedata/35Content/BahamaBreeze/Fonts/Wild-Irish-Rose.otf
+desktop,sbix,CEMC-Display,1,3913,0.0003,https://www.cemc.fr/wp-content/uploads/2025/07/CEMC-Bitmap-B-Bold-v5-4.otf
+desktop,sbix,Coastline-SVG,1,3913,0.0003,https://static.wixstatic.com/ufonts/5daac4_9cd471348f544226ab8048eeb474f8a0/woff2/file.woff2
+desktop,sbix,Roboto Mono,1,3913,0.0003,https://web.vestaboard.com/assets/fonts/RobotoMono-RegularEmojisExpo-sbix.ad15aca8065f698db3c57709beb2553f.ttf
+desktop,sbix,DCF Website,1,3913,0.0003,https://shop.degencoinflip.com/static/media/DCFShopFont.2f9925b745735d33ab69.otf
+desktop,sbix,PRINTED,1,3913,0.0003,https://www.plate-factory.co.uk/wp-content/uploads/2023/10/2D-PRINTED.otf
+desktop,sbix,JD Strangers Rough,1,3913,0.0003,https://static1.squarespace.com/static/55f1f6bae4b0951c27ba2718/t/63e1e6d2301f6934540bb162/1675749077216/JDStrangersRough-Navy.otf
+desktop,sbix,OtherSpaceArts Caps,1,3913,0.0003,https://static.wixstatic.com/ufonts/d1a436_b1a78e5e727945489d197c4837bd4d2b/woff2/file.woff2
+desktop,sbix,HYELM,1,3913,0.0003,https://hyelm.com/wp-content/themes/hyelm-theme/src/fonts/HYELM.otf
+desktop,sbix,Synesthesia,1,3913,0.0003,https://static1.squarespace.com/static/5c8d2b3c7d0c9120c098b900/t/5d532a44316bb40001726908/1565731396072/Synesthesia.otf
+desktop,sbix,HelveticaNeue,1,3913,0.0003,https://web.vestaboard.com/assets/fonts/VestaboardHelveticaNeue-sbix.59c73eb0fcbc3845c56a947889fbc10b.ttf
+mobile,CBDT,Noto Color Emoji,51,4655,0.011,https://emce.app/assets/assets/fonts/NotoColorEmoji.ttf
+mobile,CBDT,,28,4655,0.006,https://retroflow.org/fonts/apple-emoji/AppleColorEmoji[8].ttf
+mobile,CBDT,Fluent Emoji Color,14,4655,0.003,https://tetunori.github.io/fluent-emoji-webfont/dist/FluentEmojiColor011.woff2
+mobile,CBDT,Apple Color Emoji,13,4655,0.0028,https://web-services.shop/assets/fonts/Emoji.woff2
+mobile,CBDT,Noto Color Emoji Flags,10,4655,0.0021,https://www.cert.ssi.gouv.fr/static/fonts/NotoColorEmoji-flagsonly.ttf
+mobile,CBDT,Bagoss Standard,3,4655,0.0006,https://cdn.hallon.se/_next/static/media/BagossStandard_Medium_CBDT-s.p.1g5404vp9j2ya.woff2
+mobile,CBDT,EmbroideryFontBlackDual,2,4655,0.0004,https://assets.useomnia.com/fonts/EmbroideryFontBlack-cbdt.woff2
+mobile,CBDT,EmbroideryFontPinkDual,2,4655,0.0004,https://softbrite.com/_next/static/media/EmbroideryFontPink_cbdt-s.p.0weffauulwef..woff2
+mobile,CBDT,Emoji One,1,4655,0.0002,https://travelquest.xyz/fonts/EmojiOne_2.2.6.bc9cd8b3.ttf
+mobile,CBDT,Apple MFFM Color Emoji,1,4655,0.0002,https://wonderslide.com/static/fonts/emoji.ttf
+mobile,CBDT,Segoe UI Emoji,1,4655,0.0002,https://explorer.syklo.io/assets/emojis.ttf
+mobile,COLRv0,Twemoji Mozilla,239,4655,0.0513,https://lk.v1flux.com/fonts/TwemojiCountryFlags.woff2
+mobile,COLRv0,Material Icons Two Tone,145,4655,0.0311,https://bikersite.cl/cdn/shop/t/3/assets/material-icons-two-tone.woff2?v=14933244408516152561674842842
+mobile,COLRv0,Cairo Play,130,4655,0.0279,https://fonts.gstatic.com/s/cairoplay/v13/wXKEE3QSpo4vpRz_mz6FP-8iaauCLt_Hjopv3miu5IvcJo49mOo1dXEa8C_b0mjjaQ.woff2
+mobile,COLRv0,OpenDyslexic,114,4655,0.0245,https://www.lemansmetropole.fr/_fonts/kLYc5-9CZKxc8tNQWuN1nODNzofxQ2j3YAGyYskqaas-vk3gj9il5rs5chT776_KXOZxgEPg2pdxnzXn-sNGszY.woff2
+mobile,COLRv0,,96,4655,0.0206,https://at.alicdn.com/t/c/font_3178865_0dr92p0o1epi.woff2?t=1665981188626
+mobile,COLRv0,Reem Kufi Fun,60,4655,0.0129,https://kvarnfalletarboga.se/wp-content/uploads/2025/01/ReemKufiFun-Regular.ttf
+mobile,COLRv0,iconfont,58,4655,0.0125,https://jidianvpn.com/dist/css/iconfont.woff2?t=1781446129703
+mobile,COLRv0,icomoon,53,4655,0.0114,https://www.geninterlock.com/wp-content/themes/genint/fonts/icomoon.woff2
+mobile,COLRv0,Untitled,34,4655,0.0073,https://www.hotel-engel-ulm.de/fonts/icomoon.woff
+mobile,COLRv0,iconfont_one,30,4655,0.0064,https://in-kwg.com/assets/assets/fonts/iconfont_one.ttf
+mobile,COLRv0,iconfont_two,30,4655,0.0064,https://kwg-inr.com/assets/assets/fonts/iconfont_two.ttf
+mobile,COLRv0,貂明朝,29,4655,0.0062,https://use.typekit.net/af/d51df7/00000000000000007760856d/31/m?features=ALL&v=4&chunks=1.24.27.104.211.214.236.240&order=0
+mobile,COLRv0,Segoe UI Emoji,23,4655,0.0049,https://static.wixstatic.com/ufonts/82d9e5_5f75cb92cd4f4fecbf372a347a57f6e8/woff2/file.woff2
+mobile,COLRv0,貂明朝テキスト,20,4655,0.0043,https://use.typekit.net/af/2b6ea5/00000000000000007760856f/31/m?features=ALL&v=4&chunks=7.155.161.192.193.199.208&order=0
+mobile,COLRv0,百千鳥,16,4655,0.0034,https://use.typekit.net/af/d03b46/0000000000000000775c069a/31/m?features=ALL&v=4&chunks=1.13.99.103.204.221.243&order=0
+mobile,COLRv0,axafont,15,4655,0.0032,https://www.assicurazione-viaggio.axa-assistance.it/o/neo-travel-axa-theme/fonts/axafont/fonts/axafont.ttf?dsq8nd
+mobile,COLRv0,MZG,12,4655,0.0026,https://app.corporatefitness.app/assets/Activities-BelEs5fU.woff
+mobile,COLRv0,Amiri Quran,10,4655,0.0021,https://www.noor.krd/_next/static/media/cadd9b83717ff97f-s.p.woff2
+mobile,COLRv0,Activities,9,4655,0.0019,https://grc.worldmarathonmajors.com/assets/Activities-D0cPpyGp.woff2
+mobile,COLRv0,Naotypo,8,4655,0.0017,https://naolib.fr/jsp_gppro/styles/fonts/naotypo/Naotypo-ExtraBold.woff
+mobile,COLRv0,Toss Face Font Web,6,4655,0.0013,https://docs.tobesoft.com/resource/font/emoji/TossFaceFontWeb.otf
+mobile,COLRv0,Bungee Tint,6,4655,0.0013,https://pinkslips.app/assets/google-bungee-tint-2.v1-CMcqlAlb.woff2
+mobile,COLRv0,iconjackery,5,4655,0.0011,https://ph.jackery.com/etc.clientlibs/jackery/clientlibs/clientlib-jackerylife/resources/fonts/font_4012115_grv9qnursxn.woff2
+mobile,COLRv0,百千鳥 コンデンス,5,4655,0.0011,https://use.typekit.net/af/a26080/0000000000000000775c069f/31/m?features=ALL&v=4&chunks=3.54.165.178.189.214.226.230.232.244&order=0
+mobile,COLRv0,An Emoji Family,5,4655,0.0011,https://nztcdn.com/static/font/font.ttf?v=
+mobile,COLRv0,BabelStone Flags,5,4655,0.0011,https://ronixtools.com/fonts/font-babelstone/babelstoneflags.woff2
+mobile,COLRv0,jf-kamabit-1.0,4,4655,0.0009,https://cdn-go.justfont.com/file/jfont.ttf?k=975fdb7c0de9f1a6b140f69d46e9247f&n=jf-kamabit&o=https%3A%2F%2Fmaybeits.me&p=65778
+mobile,COLRv0,panynj-icons,4,4655,0.0009,https://www.laguardiaairport.com/fonts/panynj-icons.woff2
+mobile,COLRv0,百千鳥 VF,4,4655,0.0009,https://use.typekit.net/af/4d3540/0000000000000000775c06a9/31/m?features=ALL&v=4&chunks=1.54.192.194.196.206.212.214.224.226.228.229.231.233.236.237&order=0
+mobile,COLRv0,Shlomo semiStam,4,4655,0.0009,https://www.tropetrainer.com/_next/static/media/cfbbc43687267ca9-s.p.ttf
+mobile,COLRv0,flags color world,4,4655,0.0009,https://app.neptune.cloud/lizard_ui/Lizard7/resources/fonts/FlagsColorWorld-6YnRM.ttf?_sw-precache=84822dfd2bc2a83e5248ede4c8c000df
+mobile,COLRv0,Taamey Frank CLM,4,4655,0.0009,https://www.tropetrainer.com/_next/static/media/5a6316ca232c3c79-s.p.ttf
+mobile,COLRv0,sleep,4,4655,0.0009,https://cdn11.bigcommerce.com/s-j35z99636s/stencil/9f761a30-307f-013f-b132-46c95318f050/e/4881dfe0-bfb9-013e-d5fe-3eae7eaa9ed6/fonts/sleep.ttf?r6kybm
+mobile,COLRv0,Eloy Sans Outline,4,4655,0.0009,https://www.eloy.be/wp-content/themes/ak-eloy-2021/assets/fonts/02-Eloy%20Sans%20Outline/EloySansOutline-Blanc.woff2
+mobile,COLRv0,SBL Hebrew,4,4655,0.0009,https://www.tropetrainer.com/_next/static/media/248e83df007f979e-s.p.ttf
+mobile,COLRv0,Ezra SIL SR,4,4655,0.0009,https://www.tropetrainer.com/_next/static/media/b05d9ff9a135ea02-s.p.ttf
+mobile,COLRv0,aalmaghribi svg,3,4655,0.0006,https://azkary-dua.ru/_nuxt/AalmaghribiSvg.cnmGx82L.ttf
+mobile,COLRv0,Coral Pixels,3,4655,0.0006,https://fonts.gstatic.com/s/coralpixels/v1/qWctB66zpZ3zAtrlR8Mb1LyCfxz-mDMouw.woff2
+mobile,COLRv0,Icons Social Media 8,3,4655,0.0006,https://www.zonefranche.com/wp-content/uploads/2023/09/Icons-Social-Media-8.ttf
+mobile,COLRv0,icon,3,4655,0.0006,https://camilaviali.shop/fonts/icon.woff2
+mobile,COLRv0,BCC Purno,3,4655,0.0006,https://spell.bangla.gov.bd/sothik_web/static/media/BCCPurnoRegular.f3a9c416f9e08cb085e0.woff
+mobile,COLRv0,Daily Special,3,4655,0.0006,https://customletterboards.com/fonts/DailySpecial-Black.woff2
+mobile,COLRv0,OpenMoji,3,4655,0.0006,https://www.madrateanga.com/fonts/OpenMoji-color-glyf_colr_0.ttf
+mobile,COLRv0,Catrinity,3,4655,0.0006,https://rune.school/assets/Catrinity.otf
+mobile,COLRv0,LPMQ MSI ISYARAT,3,4655,0.0006,https://quran.nu.or.id/_next/static/media/38b03ec559736a82-s.p.woff2
+mobile,COLRv0,flags color,2,4655,0.0004,https://www.alagod.com/theme/font/FlagsColor-AL4Gx.ttf
+mobile,COLRv0,Twemoji Evengard,2,4655,0.0004,https://l.dm.am/App_Themes/Fonts/Twemoji-Outlined/twemoji.woff2
+mobile,COLRv0,Basetica,2,4655,0.0004,https://cdn.prod.website-files.com/64f04bdab1cb510cfde60f46/64f04bdab1cb510cfde60fa7_Basetica%20Bulb%20Charcoal-COLR.otf
+mobile,COLRv0,ATS Chikkamagaluru,2,4655,0.0004,https://kfl.arunck.com/fonts/ATSChikkamagaluru.otf
+mobile,COLRv0,PV Narasimha Rao,2,4655,0.0004,https://telugufonts.in/uploads/PVNR.woff2
+mobile,COLRv0,GG-Icons,2,4655,0.0004,https://www.greengeeks.in/fonts/GG-Icons.ttf
+mobile,COLRv0,Chaos Stripe,2,4655,0.0004,https://shop.chaos.club/cdn/shop/t/33/assets/ChaosStripe-nightfall.woff2?v=16489564153318353911655715072
+mobile,COLRv0,Uthmanic_Neo-COLOR,2,4655,0.0004,https://quranbn.com/fonts/qcf-uthmanic-digital.woff2
+mobile,COLRv0,hm_emoji,2,4655,0.0004,https://humanmade.co.jp/assets/font/hm_emoji-Bold.woff2
+mobile,COLRv0,Icons Social Media 6,2,4655,0.0004,https://www.tecbasucre.com/css/fonts/rrss.ttf
+mobile,COLRv0,sh-icons,2,4655,0.0004,https://instacasino.com/media/sh-icons-6OFOF2GL.woff2
+mobile,COLRv0,Eloy Sans Rubalise,2,4655,0.0004,https://www.eloy.be/wp-content/themes/ak-eloy-2021/assets/fonts/04-Eloy%20Sans%20Rubalise/EloySansRubalise-Bleu.woff2
+mobile,COLRv0,iconfont2,2,4655,0.0004,https://at.alicdn.com/t/c/font_3683781_sn070rnur6.woff2?t=1739468538120
+mobile,COLRv0,AsapIcons,2,4655,0.0004,https://www.partsasap.com/static/version1784092167/frontend/PartsAsap/asap/default/fonts/AsapIcons/AsapIcons.woff2
+mobile,COLRv0,Amiri Quran Colored,2,4655,0.0004,https://koran.center/fonts/AmiriQuranColored.woff2
+mobile,COLRv0,dali_logo,2,4655,0.0004,https://www.lvdingjia.com/_astro/logo.BKAO_LcV.woff2
+mobile,COLRv0,Icons Font Color 2018,2,4655,0.0004,https://www.hrbackground.com/webfonts/Icons_Font_Color/Icons%20Font%20Color.woff
+mobile,COLRv0,Snowstorm,2,4655,0.0004,https://static.tildacdn.com/tild6563-3033-4735-a364-653738373038/Snowstorm_Black.woff
+mobile,COLRv0,ruicons,2,4655,0.0004,https://patentus.ru/local/templates/main/fonts/ruicons/ruicons.ttf?vnbrz1
+mobile,COLRv0,Rocher Color,2,4655,0.0004,https://zeutanstore.com/font/Rocher.woff2
+mobile,COLRv0,Mingli Flags,2,4655,0.0004,https://www.mingli.info/fonts/Mingli_Flags_Color.ttf
+mobile,COLRv0,GT Maru Emoji,2,4655,0.0004,https://gibson.sfu.ca/_next/static/media/GT_Maru_Emoji_Color-s.p.0scvolg-7ddz9.otf
+mobile,COLRv0,Eloy Sans Tiret,2,4655,0.0004,https://www.eloy.be/wp-content/themes/ak-eloy-2021/assets/fonts/03-Eloy%20Sans%20Tiret/EloySansTiret-Bleu.woff2
+mobile,COLRv0,Apoorva-CLLogo,2,4655,0.0004,https://www.telugufonts.in/fonts1/Apoorva%20CCLogo.woff2
+mobile,COLRv0,twroadfont-1.0,2,4655,0.0004,https://cdn-go.justfont.com/file/jfont.woff?k=e176d26d94d47e25ea0beced7cbc77bd&n=twroadfont&o=https%3A%2F%2Fstore.justfont.com&p=58317&v=20260716
+mobile,COLRv0,MusFrets,2,4655,0.0004,https://theorypractice.abrsm.org/static/fonts/MusFrets.9fc16ef.otf
+mobile,COLRv0,Bitrefill2,2,4655,0.0004,https://cdn.biterfz.com/assets/bitrefill-CTqMSf11.ttf
+mobile,COLRv0,Bradley Initials DJR Web,1,4655,0.0002,https://www.rntz.net/assets/bradleyinitials.woff2
+mobile,COLRv0,MonospaceTypewriter,1,4655,0.0002,https://ivark.github.io/AntimatterDimensions/stylesheets/BlobEmoji-Bold.ttf
+mobile,COLRv0,Pappardelle Party,1,4655,0.0002,https://fonts.typedetail.com/PappardelleParty-VF.woff2
+mobile,COLRv0,teraportfoy,1,4655,0.0002,https://www.teraportfoy.com/fonts/teraportfoy.woff2?v=1.1
+mobile,COLRv0,csiconfont,1,4655,0.0002,https://at.alicdn.com/t/c/font_4792988_8ljey0ckmt3.woff2?t=1761038388124
+mobile,COLRv0,Merit Badge,1,4655,0.0002,https://fonts.typedetail.com/MeritBadge-VF.woff2
+mobile,COLRv0,ardencreativestudio-icons,1,4655,0.0002,https://cdn.gemporiacraft.io/files/fonts/ardencreativestudio/ardencreativestudio-icons/v4.0.0/ardencreativestudio-icons.ttf?iokbzq
+mobile,COLRv0,Altenergy Gothic CB,1,4655,0.0002,https://altenergy.co.jp/assets/fonts/altenergy-gothic/AltenergyGothicCB.woff2
+mobile,COLRv0,Sudz,1,4655,0.0002,https://use.typekit.net/af/4f347d/0000000000000000775ca916/31/l?unicode=AAAHwQAAAAdfLi9xvfIvlzTKfWLmGdL_PmzvrjV1ixY46T9DzdNcR6SQAYXil2sCtaJIda_Pt0_0daMPVIqmLzS7UG4gsNBUOGCpkk88a-qhhduufk4RjSGmdXNb3Y9IU4tO-u7tbv0PRcpyoWR5giUv6Ez2o-GLs-O3W6BcIp-gmIpajQ6gL7kWrzrmB9_wpI5pJiozvsd3xwNVkNDVNnwfkAFiFaLxp9ajR3Or8AYJGYNYKAzbtcx3PRVyKXL-3N4PFCcnCartgFxn92S06_f_apFuYgVjaSxt_kfz9JE9iR_fMimFu1jFDv-T1vIQhKk3732lF4lNbv7HMfTO8wAAAAA&features=ALL&v=3
+mobile,COLRv0,Twemoji Mozilla Freeze,1,4655,0.0002,https://bpstudio.abstreamace.com/static/font/twemoji.484b09e4.woff2
+mobile,COLRv0,Altenergy Gothic CW,1,4655,0.0002,https://altenergy.co.jp/assets/fonts/altenergy-gothic/AltenergyGothicCW.woff2
+mobile,COLRv0,STBIG,1,4655,0.0002,https://cssdoom.wtf/fonts/STBIG.woff2
+mobile,COLRv0,Moolong キャンドル VF,1,4655,0.0002,https://use.typekit.net/af/179d16/0000000000000000775ad915/31/m?features=ALL&v=4&chunks=0&order=0
+mobile,COLRv0,VolareIconFont,1,4655,0.0002,https://esim.holafly.com/_astro/VolareIconFont.TsYcv05j.woff2
+mobile,COLRv0,ls-icon,1,4655,0.0002,https://at.alicdn.com/t/font_2970953_kv8pxct5tu.woff2?t=1638081791123
+mobile,COLRv0,aalmaghribi quran,1,4655,0.0002,https://azkary-dua.ru/_nuxt/AalmaghribiQuran.BbHHemnR.ttf
+mobile,COLRv0,Monaspace Krypton,1,4655,0.0002,https://css.gg/_next/static/media/1ad0459ecf35c3bc-s.p.woff2
+mobile,COLRv0,SSRead,1,4655,0.0002,https://sindhica.org/wp-content/themes/edwom-tech-theme/fonts/ssread/SSRead.woff
+mobile,COLRv0,Myanmar Jojar Pro,1,4655,0.0002,https://cvbawrrt6ky4ctvk.public.blob.vercel-storage.com/fonts/k0zwZFlUTtg2DOb2OFGoVERr1O5d1RLP/MyanmarJojarPro/MyanmarJojarPro-Regular.woff2
+mobile,COLRv0,iconflags,1,4655,0.0002,https://assets.receive-sms.cc/fonts/iconfont/language.woff2?t=1708161574263
+mobile,COLRv0,social media color,1,4655,0.0002,https://static.wixstatic.com/ufonts/e8fe94_cba6467af24f4474b19b763a34b40d16/woff2/file.woff2
+mobile,COLRv0,Chalukya vijaydity,1,4655,0.0002,https://fonts.sanchaya.net/Fonts/Chalukya/Chalukya-Vijayaditya.ttf
+mobile,COLRv0,Tobogani,1,4655,0.0002,https://www.tobogani.com/static/default/webfonts/tobogani/tobogani.woff
+mobile,COLRv0,Feery-Easy-Icons,1,4655,0.0002,https://ferryeasy.ph/ferryeasy.524681a1c8c383ab.woff2
+mobile,COLRv0,Happy Fountain,1,4655,0.0002,http://www.happyfountain.co.uk/HappyFountain.woff2
+mobile,COLRv0,naturgutachter,1,4655,0.0002,https://naturgutachter.de/user/themes/naturgutachter2023/assets/c/naturgutachter-089204bce46a579b60d147220a6742de.woff2
+mobile,COLRv0,icon-branding,1,4655,0.0002,https://at.alicdn.com/t/font_3065075_sjpc4320ra.woff2?t=1650613503659
+mobile,COLRv0,Icons,1,4655,0.0002,https://c-s-k.ru/bitrix/templates/redesign2026/fonts/Icons.woff2
+mobile,COLRv0,Cairo 1,1,4655,0.0002,https://kalak.gg/assets/assets/fonts/CairoExtraBlack.c17a9f95b20c07dea8516bc5a60bd066.ttf?platform=web&hash=c17a9f95b20c07dea8516bc5a60bd066
+mobile,COLRv0,Verajja,1,4655,0.0002,https://static.wixstatic.com/ufonts/a8c775_76aec8f79d6345fa8f3282f2d984517f/woff2/file.woff2
+mobile,COLRv0,orra-icons,1,4655,0.0002,https://cdn.orra.co.in/static/version1784164845/frontend/bs_rubix/ORRA/en_US/fonts/orra-icons/orra-icons.woff2
+mobile,COLRv0,tb_icons_webfont,1,4655,0.0002,https://www.torokbalint.hu/app/cms/webfonts/tb_icons_webfont.woff2
+mobile,COLRv0,Palace Of Sports,1,4655,0.0002,https://artsuite.com/cdn/shop/t/3/assets/font-PalaceOfSports-Regular-v6.2.ttf
+mobile,COLRv0,fantastic-services,1,4655,0.0002,https://cdn.fantasticservices.com/font/fantastic-services.woff2?uqkxam
+mobile,COLRv0,Hoysala,1,4655,0.0002,https://fonts.sanchaya.net/Fonts/Hoysala/Hoysala-Regular.ttf
+mobile,COLRv0,SN2Go-icons,1,4655,0.0002,https://schwerintogo.de/assets/icomoon/fonts/SN2Go-icons.woff2
+mobile,COLRv0,icons,1,4655,0.0002,https://x-spt.com/wp-content/themes/xspt/fonts/icons.woff2
+mobile,COLRv0,Twemoji Flags,1,4655,0.0002,https://nextory.com/fonts/TwemojiCountryFlags-Subset.woff2
+mobile,COLRv0,promo-icons,1,4655,0.0002,https://crowd.mos.ru/static/media/promo-icons.615ac6b562ea10fc3896.woff2
+mobile,COLRv0,KometoSiempre,1,4655,0.0002,https://siempretequila.com/wp-content/uploads/2024/08/KometoSiempre-Fill.ttf
+mobile,COLRv0,Tortas Vector Color,1,4655,0.0002,https://media-cdn.getbento.com/accounts/a648ce9bc66858b28a546b5b5115fc55/media/umwcdQjsRIm2HFfpznlu_Tortas_Vector_Color-Regular%20(1).woff2
+mobile,COLRv0,svgicon,1,4655,0.0002,https://at.alicdn.com/t/c/font_4997546_zfo11yhu5p.woff2?t=1773990592415
+mobile,COLRv0,Terrarum Sans Bitmap,1,4655,0.0002,https://cdn.jsdelivr.net/gh/projectnoonnu/2606-1@1.1/TerrarumSansBitmap.woff2
+mobile,COLRv0,site-icon,1,4655,0.0002,https://www.randolphschool.net/Templates/RandolphSchool/fonts/icon-fonts/site-icon.woff?h
+mobile,COLRv0,ncmfont,1,4655,0.0002,https://www.ncminvest.com.tr/fonts/ncmicon/ncmfont.woff2?v=1.4
+mobile,COLRv0,SwissIcons,1,4655,0.0002,https://app.swissmedical.com.ar/assets/packages/shared_design_system/lib/assets/fonts/Swiss-Icon.ttf
+mobile,COLRv0,모나12,1,4655,0.0002,https://blit.so/_next/static/media/Mona12-s.p.00041f48.woff2
+mobile,COLRv0,Police_Badge_of_China,1,4655,0.0002,https://www.hetong-re4per.com/fonts/Police_Badge_of_China-Regular.woff2
+mobile,COLRv0,ES Symbols,1,4655,0.0002,https://app.getmorebrain.com/assets/fonts/ES%20Symbols.otf
+mobile,COLRv0,Uthmanic_NeoB-COLOR,1,4655,0.0002,https://koran.center/fonts/Uthmanic_NeoBCOLOR-VF.woff2
+mobile,COLRv0,bainicon,1,4655,0.0002,https://www.bain.com/Static/bain.com/v-639192010524073091/fonts/bainicon/bainicon.ttf?iswbmy
+mobile,COLRv0,bfa-icons,1,4655,0.0002,https://fundacaobfa.ao/BFA_Fundacao/bfa-icons.ttf?qpcZxPVpvv+A31aNO5fBSQ
+mobile,COLRv0,itIcon,1,4655,0.0002,https://imgtool.net/_nuxt/fonts/iconfont.c414f40.woff2
+mobile,COLRv0,fontsja,1,4655,0.0002,https://fr.jardins-animes.com/fonts/fontsja.12.woff2
+mobile,COLRv0,Font-Icons-Color 2018,1,4655,0.0002,https://www.jotorrent.com/font_awesome/fonts/FontIconsColor1.ttf
+mobile,COLRv0,yhcsicon,1,4655,0.0002,https://www.pioon.com/static/en/fonts/caise/iconfont.woff2?t=1774259985179
+mobile,COLRv0,kane-icons,1,4655,0.0002,https://kanecarpet.com/wp-content/themes/new/assets/fonts/kane-icons/kane-icons.woff2
+mobile,COLRv0,sbg-fonts,1,4655,0.0002,https://stabilgroup.com/wp-content/themes/stabilgroup/assets/fonts/icomoon/sbg-fonts.woff2
+mobile,COLRv0,IcoMoon-Ultimate,1,4655,0.0002,https://www.gamerguides.com/assets/front/fonts/new-icons/fonts/IcoMoon-Ultimate.woff2
+mobile,COLRv0,scs-icon-thick,1,4655,0.0002,https://cdn.sendcutsend.com/fonts/scs-icon-thick-v1.27/fonts/scs-icon-thick.woff2
+mobile,COLRv0,Lipton High,1,4655,0.0002,https://www.liptonicetea.nl/static/6570992816473ed1d01f251ce2c5de614f94428e32b35e268d6661f92b54e678/resources/fonts/LiptonHighlight-Clean.woff2
+mobile,COLRv0,Ctrl Zsye,1,4655,0.0002,https://fonts.zeoseven.com/_next/static/media/ctrl-zsye.84a411f2.woff2
+mobile,COLRv0,Gilbert Color,1,4655,0.0002,https://pridelondon.ca/wp-content/uploads/fonts/Gilbert-Color_SVGCOLRv0.woff2
+mobile,COLRv0,Pali,1,4655,0.0002,https://static.wixstatic.com/ufonts/a8c775_88c5d2c97592415e939fedb96c2a5fe1/woff2/file.woff2
+mobile,COLRv0,euricons,1,4655,0.0002,https://www.euronics.it/on/demandware.static/Sites-euronics-Site/-/it_IT/v1784188288167/fonts/euricons.ttf?y5vxxl
+mobile,COLRv0,tw-icons,1,4655,0.0002,https://twowombats.com/cdn/shop/t/160/assets/tw-icons.ttf?v=75677744850096382841775484151
+mobile,COLRv0,icomoon-2025,1,4655,0.0002,https://hodi.host/build/assets/fonts/icomoon-2025.woff
+mobile,COLRv0,STYSN,1,4655,0.0002,https://cssdoom.wtf/fonts/STYSN.woff2
+mobile,COLRv0,AC-Blue-Icons,1,4655,0.0002,https://shop-power-technique.atlascopco.com/media/AC-Blue-Icons-4QOQ7ONG.woff2
+mobile,COLRv0,liga-demo,1,4655,0.0002,https://icomoon.io/assets/liga-demo-EBPYMRWC-4cb1ad53a96120d976b6841097bcf508.woff2?vsn=d
+mobile,COLRv0,TajawalColor,1,4655,0.0002,https://barqboxes.com/assets/fonts/tajawal-black-color.woff2
+mobile,COLRv0,Sarem Sindhi Aesthetic,1,4655,0.0002,https://jthsahiwal.com/wp-content/uploads/2025/01/Sarem-Sindhi-Aesthetic-Bold-UrduFonts.com_.ttf
+mobile,COLRv0,Cairo,1,4655,0.0002,https://kalak.gg/assets/assets/fonts/NeoCairo.f32b160ecc47349758c34ab62d2299ec.ttf?platform=web&hash=f32b160ecc47349758c34ab62d2299ec
+mobile,COLRv0,MolnetEmoji,1,4655,0.0002,https://webtty.rtrn.ru/static/media/MolnetEmoji.woff
+mobile,COLRv0,colour-iconfont,1,4655,0.0002,https://p.bstarstatic.com/fe-static/intl-videoup/assets/iconfont.d3683c3a.woff2
+mobile,COLRv0,Lipton Highlight Greek,1,4655,0.0002,https://www.liptonicedtea.com/sites/liptonicedtea-com/themes/custom/lipton_fe/assets/fonts/Lipton-Highlight-Greek-Clean/LiptonHighlightGreek-Clean.woff2
+mobile,COLRv0,Bento-Extras,1,4655,0.0002,https://cerificpedge.com/Includes/fonts/BentoExtras.woff
+mobile,COLRv0,Quran Surah 2,1,4655,0.0002,https://corandemoncoeur.com/wp-content/uploads/2025/09/QuranSurah2-7Bov4.ttf
+mobile,COLRv0,Moolong キャンドル VF Dark,1,4655,0.0002,https://use.typekit.net/af/679921/0000000000000000775ad914/31/m?features=ALL&v=4&chunks=0&order=0
+mobile,COLRv0,ilmify,1,4655,0.0002,https://ilmify.app/wp-content/themes/ilmify/fonts/ilmify.woff2
+mobile,COLRv0,Normal,1,4655,0.0002,https://www.ctm.net/lcs/fonts/seguiemj.8b730fa8.ttf
+mobile,COLRv0,Storm-King-Spa-Icons,1,4655,0.0002,https://stormkingspa.com/wp-content/themes/stormkingspa/assets/fonts/Storm-King-Spa-Icons..woff2
+mobile,COLRv0,16 Segments,1,4655,0.0002,https://yontalabs.io/assets/fonts/LCD.woff2
+mobile,COLRv0,MonaS12,1,4655,0.0002,https://tistory1.daumcdn.net/tistory/8604788/skin/images/Mona12.woff2
+mobile,COLRv0,phoenixicons,1,4655,0.0002,https://cdn.euro4x4parts.com/e4xmedia/prod/fonts/phoenixicons/phoenixicons-v10.3/fonts/phoenixicons.woff2
+mobile,COLRv0,Marelle LIGNES,1,4655,0.0002,https://abiloa.com/_app/immutable/assets/marellelignes.DAzIdYxj.woff2
+mobile,COLRv0,BillIcon,1,4655,0.0002,https://storage.googleapis.com/flutterflow-prod-hosting/builds/BnwYuh6AZdhU6NieIegb/assets/assets/fonts/BillIcon.ttf
+mobile,COLRv0,decorias,1,4655,0.0002,https://virukshaminteriors.in/wp-content/themes/decoria/assets/css/scss/icons/fonts/decorias.ttf?oc95qt
+mobile,COLRv0,gemporia-icons,1,4655,0.0002,https://cdn.gemporia.io/files/fonts/gemporia/gemporia-icons/v3.1.0/gemporia-icons.ttf?iokbzq
+mobile,COLRv0,Icons Social Media 12,1,4655,0.0002,https://michaelyamin.com/img/socialicons.ttf
+mobile,COLRv0,FontWithASyntaxHighlighter,1,4655,0.0002,https://dough.strudel.cc/FontWithASyntaxHighlighter-Regular.woff2
+mobile,COLRv0,Typeface,1,4655,0.0002,https://obkm.mint-kolleg.kit.edu/edmlfont.ttf
+mobile,COLRv0,Flagmoji,1,4655,0.0002,https://www.roster.watch/fonts/flagmoji.woff2
+mobile,COLRv0,Betterstile LT,1,4655,0.0002,https://www.betterbits.de/wp-content/uploads/BetterstileLTBold-Bold.woff2
+mobile,COLRv0,Hugeicons Duotone Rounded,1,4655,0.0002,https://use.hugeicons.com/icon-font/hgi-duotone-rounded.woff2?t=1746104570860
+mobile,COLRv0,cryptoicons,1,4655,0.0002,https://prod-static.dzengi.com/fonts/dz_market_default.woff2?v20260603
+mobile,COLRv0,Misty Sprinkles Font,1,4655,0.0002,https://sunshine.horse/wp-content/uploads/2026/06/MS-Font-v0.1.ttf
+mobile,COLRv0,aalmaghribi color,1,4655,0.0002,https://azkary-dua.ru/_nuxt/AalmaghribiColor.DvY9D2Om.ttf
+mobile,COLRv1,Noto Color Emoji,546,4655,0.1173,https://duyn491kcolsw.cloudfront.net/files/0q/0qn/0qne8t.woff2
+mobile,COLRv1,Aref Ruqaa Ink,79,4655,0.017,https://muebleselegantclass.com/wp-content/uploads/elementor/google-fonts/fonts/arefruqaaink-1q2fy5woguflt84gtokp6kdx71tmxodxgq.woff2
+mobile,COLRv1,Reem Kufi Ink,31,4655,0.0067,https://ediciondeluxe.com/wp-content/uploads/elementor/google-fonts/fonts/reemkufiink-opwj_kjmmu8hcvb9ifumxzsndjlxqyyu.woff2
+mobile,COLRv1,Bungee Spice,31,4655,0.0067,https://themes.fourthwall.com/themes/fonts/woff2/bungee_spice_n4.woff2
+mobile,COLRv1,Honk,22,4655,0.0047,https://waniaction.vyg.re/_next/static/media/68d4f0ca80431ee6-s.p.064-74wfm27lo.woff2
+mobile,COLRv1,Fluent Emoji Color,14,4655,0.003,https://tetunori.github.io/fluent-emoji-webfont/dist/FluentEmojiColor011.woff2
+mobile,COLRv1,Nabla,14,4655,0.003,https://diucampusschedule.app/_next/static/media/e43e94a4a6d3737d-s.woff2
+mobile,COLRv1,An Emoji Family,13,4655,0.0028,https://nonunbub.com/assets/fonts/tossface/tossface-frequent.woff2
+mobile,COLRv1,noto-glyf_colr_1,9,4655,0.0019,https://fonts.gstatic.com/s/notocolremojiglyf/v15/O4ZNFHTymAx3XTz4kzAD12B9_Qi8jS_unlDHTrbbh2W6OgE8KRo.0.woff2
+mobile,COLRv1,Twitter Color Emoji,7,4655,0.0015,https://ubersdr.k3fef.com/fonts/twemoji-flags.woff2
+mobile,COLRv1,Foldit,7,4655,0.0015,https://fonts.gstatic.com/s/foldit/v8/aFTI7PF3Y3c9WdjNrRVE0Rk2b7j8XpAMqa1eYZPnJ8w.woff2
+mobile,COLRv1,Sixtyfour Convergence,4,4655,0.0009,https://fonts.gstatic.com/s/sixtyfourconvergence/v5/m8JljepPf7mIglv5K__zM9srGA7wurbybZMfZsqG2Q6EWlJro5FJSJ4afiVX-OPwGgieaK7zkSpdXPeGrR9Yw9TK4GbDqiEWLQ.woff2
+mobile,COLRv1,JoyPixels,2,4655,0.0004,https://emojicopy.com/assets/fonts/11.0/SVG/902893hdrkdyei36789.woff2
+mobile,COLRv1,Blaka Ink,2,4655,0.0004,https://fonts.gstatic.com/s/blakaink/v10/AlZy_zVVtpj22Znag2cRd335fh4DolH3puM.woff2
+mobile,COLRv1,TeXSynHL,2,4655,0.0004,https://rachana.org.in/style/fonts/TeXSynHL-Regular.woff2
+mobile,COLRv1,Bitcount Grid Double Ink,2,4655,0.0004,https://fonts.gstatic.com/s/bitcountgriddoubleink/v2/55zMcCw3FN_jOGTSZJcl588VlZiMRBEu8MNfAa1hTmcIC-EgZzYwMlaO_awRPudtyc3Y6uQYyaHkeKGSq8TU4RVR7xpYN_MnWZejEGOGrT-NcapoFhvUOhVjLNJ2XCLrbMxtAR6SYY1mL-OvDnjOVsnRj34-p6VMvv549Lg7J4HRX7TqUxwskRMxVR7_3L-QRhDtbv8kM-EDNmBQr1-hsC1tMPJC0vkO2JhzR0_rERpQVDyOlw.woff2
+mobile,COLRv1,Kalnia Glaze,2,4655,0.0004,https://fonts.gstatic.com/s/kalniaglaze/v5/wlpQgwHCBUNjrGrfu-hwowN1YyC-42Lu26VHf2LtOkAod0wTxm2tFYdL6kneI_lLVivM.woff2
+mobile,COLRv1,Bitcount Ink,1,4655,0.0002,https://fonts.gstatic.com/s/bitcountink/v2/CHw3XOqbPlXqZygxqACCMDRlDHEsWMeZ-ply2TQhrGdTTV70MvuSq-hd_83nDPWRtOLnAR0RGYwUI6_l53HbUsPlZt2f_nGD_DNHtMCB7B9hQwZ0b5o6F6iN-beb4rZZL0lJiDukrkTdyFcJaMYOfDmhx95p-j2BlGfR752-BOzpyNMOV-otpEi0LP8lkm2L_v1iV4b0vZlRFNojp-LpjyYyKHpfLNMFdQ.woff2
+mobile,COLRv1,Bitcount Grid Single Ink,1,4655,0.0002,https://archcod.com/wp-content/fonts/bitcount-grid-single-ink/NaN4epOEK_VIyYAuIaZn7FnUAOSVYeI0Ctm5-AxV__OGadlXPkpqc2W3G80KvDvfZJcTBZtOWSEifRuVdQ9MPZtUsYBBEK6cMpFmAx9Xgbn8m7Ha_CUon9Fm0PP1zM05Dnsuyw04ZGzhvlKxYNMYWI3t91IQXOwJRiUJVTErJ5YUW4O8LJCoXjD9tXQjarshNDUf3e0O5j3ZjrZCu23Qd4G0EACUTNK-QKavMlx2JoUc.woff2
+mobile,COLRv1,SerenityOS Emoji,1,4655,0.0002,https://linusg.github.io/serenityos-emoji-font/SerenityOS-Emoji.ttf
+mobile,COLRv1,,1,4655,0.0002,https://skating.tw/assets/fonts/noto-color-emoji-subset.woff2
+mobile,COLRv1,Bitcount Single Ink,1,4655,0.0002,https://fonts.gstatic.com/s/bitcountsingleink/v4/FwbF5OZl6FQz81GlJoqgm6XFwi_b1Oat-linM3eIpWvrZ9yhd874qjc72qi5T1IMgiBoydD3bDjJgnXIJ9Cr_oGr36FB5R5iKLRfpSXGN3dP9opQwU38v-r6dJk-vDaziAhRxAxKG59HJAjcNGNBlalyPEmoi939mIWU-GaeCu-JxR9Tn0k2TuKy0CJqQ-Jyh2beggR6Zmt0ewIod7wvX97mkA.woff2
+mobile,COLRv1,Emoticon,1,4655,0.0002,https://scolnet.app/assets/fonts/ScolnetEmoticons.ttf
+mobile,COLRv1,JoyPixelsSVG,1,4655,0.0002,https://docs.nexustools.io/_next/static/media/79ec87d3cdff1fa5-s.woff
+mobile,COLRv1,Noto Color Emoji SVG,1,4655,0.0002,https://www.netprofit.de/files/themes/netprofit/fonts/noto-emoji/emojis.woff2
+mobile,COLRv1,Segoe UI Emoji,1,4655,0.0002,https://aqtivewater.com/wp-content/uploads/2025/01/seguiemj.ttf
+mobile,COLRv1,Unnamed1,1,4655,0.0002,https://lp-crm.biz/assets/lp-font.woff2
+mobile,COLRv1,twemoji-mosir,1,4655,0.0002,https://beta.mosir.app/fonts/twemoji-mosir.colr_1.woff2
+mobile,COLRv1,Bitcount Prop Double Ink,1,4655,0.0002,https://fonts.gstatic.com/s/bitcountpropdoubleink/v2/Y4EraqgqeCwyoeHYKJOMnRRAOHVHr-2bKnsgKOU1mvV-Vk5S_hxGNApRqvOsLjMS7TL7U6J7vsT0x86f1E_MhJ7Fc8CNp0DtWIOPIdLKGVtyw2WU1OmnzDEO5QVqngZewgsX32-qkruHpLpXeSB4hOOrFaY6I-9oLQWBuD4CtdBkkmqV6mdr8M41Shcr_DYnIqojkFlhekgcGiaIMOm7DY3-ibiJFY5uuJUAz56ODIBSF8CX4Q.woff2
+mobile,SVG,貂明朝,1032,4655,0.2217,https://use.typekit.net/af/d51df7/00000000000000007760856d/31/m?features=ALL&v=4&chunks=1.24.27.104.211.214.236.240&order=0
+mobile,SVG,貂明朝テキスト,626,4655,0.1345,https://use.typekit.net/af/510075/00000000000000007735b791/30/m?features=ALL&v=4&chunks=1.11.108.210.211.224.225.227.232.234.236.238.239.242.244.247&order=0
+mobile,SVG,,399,4655,0.0857,https://www.opelkervan.com/fonts/opel/OpelNextW02-Light.woff2
+mobile,SVG,Noto Color Emoji,103,4655,0.0221,https://beta.firemanager.de/portal/fonts/NotoColorEmoji/NotoColorEmoji-Regular.ttf
+mobile,SVG,HarmonyOS Sans,26,4655,0.0056,https://blinko.space/_next/static/media/30ece39906139d69-s.p.ttf
+mobile,SVG,Source Code Pro,23,4655,0.0049,https://static.wixstatic.com/ufonts/8fdcb2_336400db2f9c4203bcef723678503a36/woff2/file.woff2
+mobile,SVG,Diglu,18,4655,0.0039,https://cdn.prod.website-files.com/698451ee605caf225c4019f7/698451ee605caf225c401b8f_Diglu-Regular.woff
+mobile,SVG,Source Code Variable,15,4655,0.0032,https://turkhousenyc.com/wp-content/uploads/custom-fonts/2023/02/SourceCodeVariable-Roman.otf
+mobile,SVG,MOVE,14,4655,0.003,https://maineetloire.transdev-paysdelaloire.com/themes/custom/transdev/fonts/MOVE-Regular.woff2
+mobile,SVG,Fluent Emoji Color,14,4655,0.003,https://tetunori.github.io/fluent-emoji-webfont/dist/FluentEmojiColor011.woff2
+mobile,SVG,Opel Next,11,4655,0.0024,https://opel-leasingdeals.de/wp-content/uploads/2025/06/OpelNextBold.ttf
+mobile,SVG,Elm,10,4655,0.0021,https://rabet.sa/_app/immutable/assets/Elm-Medium.B_4gOS3G.woff
+mobile,SVG,Aref Ruqaa Ink,10,4655,0.0021,https://fonts.gstatic.com/s/arefruqaaink/v11/1q2cY5WOGUFlt84GTOkP6Kdx71xde5Wmo2Q.ttf
+mobile,SVG,Twitter Color Emoji,8,4655,0.0017,https://ravarcheon.com/fonts/twemoji.ttf
+mobile,SVG,Naotypo,8,4655,0.0017,https://naolib.fr/jsp_gppro/styles/fonts/naotypo/Naotypo-ExtraBold.woff
+mobile,SVG,Bungee Spice,8,4655,0.0017,https://themes.fourthwall.com/themes/fonts/woff2/bungee_spice_n4.woff2
+mobile,SVG,Gilbert Color,7,4655,0.0015,https://use.typekit.net/af/282b2a/00000000000000007735ca3e/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+mobile,SVG,HarmonyOS Sans SC,7,4655,0.0015,https://www.ahbcms.com/application/home/view/default/fonts/HarmonyOS_SansSC_Regular.ttf
+mobile,SVG,Trajan Color,6,4655,0.0013,https://www.cloisonnejewellery.com/catalog/view/theme/cloisonne/stylesheet/fonts/font20383.ttf
+mobile,SVG,Timber Wolf,5,4655,0.0011,https://cindor.com.ar/wp-content/uploads/et-fonts/TimberWolf-Regular.otf
+mobile,SVG,Hasklig,4,4655,0.0009,https://clash-lang.org/media/fonts/Hasklig-Bold.otf
+mobile,SVG,flags color world,4,4655,0.0009,https://app.neptune.cloud/lizard_ui/Lizard7/resources/fonts/FlagsColorWorld-6YnRM.ttf?_sw-precache=84822dfd2bc2a83e5248ede4c8c000df
+mobile,SVG,Reem Kufi Ink,4,4655,0.0009,https://movementors.hu/wp-content/uploads/2022/09/ReemKufiInk-Regular.ttf
+mobile,SVG,BabelStone Flags,4,4655,0.0009,https://ronixtools.com/fonts/font-babelstone/babelstoneflags.woff2
+mobile,SVG,jf-kamabit-1.0,4,4655,0.0009,https://cdn-go.justfont.com/file/jfont.ttf?k=975fdb7c0de9f1a6b140f69d46e9247f&n=jf-kamabit&o=https%3A%2F%2Fmaybeits.me&p=65778
+mobile,SVG,Eloy Sans Outline,4,4655,0.0009,https://www.eloy.be/wp-content/themes/ak-eloy-2021/assets/fonts/02-Eloy%20Sans%20Outline/EloySansOutline-Blanc.woff2
+mobile,SVG,AZ - CAPS - 2025,4,4655,0.0009,https://az.nl/assets/toolkit/fonts/az-shirt-2025.otf
+mobile,SVG,EmojiOne,4,4655,0.0009,https://www.comoquerias.com.uy/assets/fonts/EmojiOneColor.otf
+mobile,SVG,Amiri Quran,3,4655,0.0006,https://www.hardgrindrelic.com/cdn/shop/fonts/Amiri%20Quran:regular_v14.woff
+mobile,SVG,aalmaghribi svg,3,4655,0.0006,https://azkary-dua.ru/_nuxt/AalmaghribiSvg.cnmGx82L.ttf
+mobile,SVG,Nabla,3,4655,0.0006,https://photoai.com/assets/nabla.woff2
+mobile,SVG,Bagoss Standard,3,4655,0.0006,https://cdn.hallon.se/_next/static/media/BagossStandard_Regular-s.p.2yijdq5r7mmwj.woff2
+mobile,SVG,Smile Sans,3,4655,0.0006,https://static.wixstatic.com/ufonts/196563_0765c46d8aa644b694a2964b0227d8d2/woff2/file.woff2
+mobile,SVG,Klarna Text,3,4655,0.0006,https://x.klarnacdn.net/ui/fonts/v1.5/KlarnaText-Bold.woff
+mobile,SVG,Ruefa Iconfont,3,4655,0.0006,https://pauschal.ruefa.at/css/fonts/ricon.woff2
+mobile,SVG,ColorTube,3,4655,0.0006,https://colegiokiryat.edu.mx/fuentes/ColorTube-Regular.otf
+mobile,SVG,LPMQ MSI ISYARAT,3,4655,0.0006,https://quran.nu.or.id/_next/static/media/38b03ec559736a82-s.p.woff2
+mobile,SVG,AtlanticTheatreArts,2,4655,0.0004,https://static.wixstatic.com/ufonts/725af8_b6d61ae3f95f4b6eb721d26789af6bfc/woff2/file.woff2
+mobile,SVG,Oxstars,2,4655,0.0004,https://gaintplay.com/fonts/Oxstars.ttf
+mobile,SVG,Eloy Sans Logotype,2,4655,0.0004,https://www.eloy.be/wp-content/themes/ak-eloy-2021/assets/fonts/01-Eloy%20Sans%20Logo/EloySansLogotype-Regular.woff2
+mobile,SVG,PV Narasimha Rao,2,4655,0.0004,https://telugufonts.in/uploads/PVNR.woff2
+mobile,SVG,Garmani,2,4655,0.0004,https://www.bloomsandblossoms.eu/cdn/shop/files/Garmani-SVG.woff2?v=1750140250
+mobile,SVG,Linetone,2,4655,0.0004,https://pinkslips.app/static-assets/customization-assets/fonts/linetone-400.v1.otf
+mobile,SVG,JB FONT,2,4655,0.0004,https://static1.squarespace.com/static/64aa8c4d86784c5e6ff8d846/t/673739223100052f8728f36b/1731672354352/JBFONT.otf
+mobile,SVG,Chaos Stripe,2,4655,0.0004,https://shop.chaos.club/cdn/shop/t/33/assets/ChaosStripe-nightfall.woff2?v=16489564153318353911655715072
+mobile,SVG,hm_emoji,2,4655,0.0004,https://humanmade.co.jp/assets/font/hm_emoji-Bold.woff2
+mobile,SVG,Jeamjit,2,4655,0.0004,https://static.wixstatic.com/ufonts/0fd3e5_237e6e7de84548f583acae0ba3793c0b/woff2/file.woff2
+mobile,SVG,IBA-SimplonNorm,2,4655,0.0004,https://rmkcdn.successfactors.com/1469b66c/68a40cab-152e-40e9-b0f2-f.otf
+mobile,SVG,B-Belgium-25,2,4655,0.0004,https://myteam.decathlonpro.ch/_next/static/media/ae32c369aef95eab-s.p.otf
+mobile,SVG,Eloy Sans Tiret,2,4655,0.0004,https://www.eloy.be/wp-content/themes/ak-eloy-2021/assets/fonts/03-Eloy%20Sans%20Tiret/EloySansTiret-Bleu.woff2
+mobile,SVG,AccorArena,2,4655,0.0004,https://www.accorarena.com/frontend/assets/fonts/AccorArena-MidnightBlue.woff2
+mobile,SVG,twroadfont-1.0,2,4655,0.0004,https://cdn-go.justfont.com/file/jfont.woff?k=e176d26d94d47e25ea0beced7cbc77bd&n=twroadfont&o=https%3A%2F%2Fstore.justfont.com&p=58317&v=20260716
+mobile,SVG,Cimero Pro,2,4655,0.0004,https://static.wixstatic.com/ufonts/ff1960_c93f78424d6e4be6814868388543faf2/woff2/file.woff2
+mobile,SVG,GT Maru Emoji,2,4655,0.0004,https://gibson.sfu.ca/_next/static/media/GT_Maru_Emoji_Color-s.p.0scvolg-7ddz9.otf
+mobile,SVG,Zyphronix,2,4655,0.0004,https://pinkslips.app/assets/zyphronix-400-CEMyTqOo.otf
+mobile,SVG,Apoorva-CLLogo,2,4655,0.0004,https://www.telugufonts.in/fonts1/Apoorva%20CCLogo.woff2
+mobile,SVG,Edificanto,2,4655,0.0004,https://pinkslips.app/static-assets/customization-assets/fonts/edificanto-400.v1.otf
+mobile,SVG,Grass Touch,2,4655,0.0004,https://fonts.wehateonions.com/assets/app/uploads/697b86d88353d.otf
+mobile,SVG,Eloy Sans Rubalise,2,4655,0.0004,https://www.eloy.be/wp-content/themes/ak-eloy-2021/assets/fonts/04-Eloy%20Sans%20Rubalise/EloySansRubalise-Bleu.woff2
+mobile,SVG,Cappelletto Grotesk,2,4655,0.0004,https://estercare.com/fonts/CappellettoGrotesk.otf
+mobile,SVG,Vastyque,1,4655,0.0002,https://monaphilly.com/wp-content/uploads/fonts/Vastyque.otf
+mobile,SVG,Tagada,1,4655,0.0002,https://eui-goccia.eu/fonts/Tagada-Regular-SVG.woff2
+mobile,SVG,CG Tropical,1,4655,0.0002,https://static.wixstatic.com/ufonts/e38af7_ef80eb009d684e5b8a32f54f3da2bff7/woff2/file.woff2
+mobile,SVG,Ventennio,1,4655,0.0002,https://earthgreenpaper.com/wp-content/uploads/2023/08/Italico_700-SVG.210115-1841.ttf
+mobile,SVG,aalmaghribi quran,1,4655,0.0002,https://azkary-dua.ru/_nuxt/AalmaghribiQuran.BbHHemnR.ttf
+mobile,SVG,Verollina Classy Modern,1,4655,0.0002,https://puchimooni.com/wp-content/uploads/2025/12/Verollina-SVG.woff2
+mobile,SVG,Sudz,1,4655,0.0002,https://use.typekit.net/af/4f347d/0000000000000000775ca916/31/l?unicode=AAAHwQAAAAdfLi9xvfIvlzTKfWLmGdL_PmzvrjV1ixY46T9DzdNcR6SQAYXil2sCtaJIda_Pt0_0daMPVIqmLzS7UG4gsNBUOGCpkk88a-qhhduufk4RjSGmdXNb3Y9IU4tO-u7tbv0PRcpyoWR5giUv6Ez2o-GLs-O3W6BcIp-gmIpajQ6gL7kWrzrmB9_wpI5pJiozvsd3xwNVkNDVNnwfkAFiFaLxp9ajR3Or8AYJGYNYKAzbtcx3PRVyKXL-3N4PFCcnCartgFxn92S06_f_apFuYgVjaSxt_kfz9JE9iR_fMimFu1jFDv-T1vIQhKk3732lF4lNbv7HMfTO8wAAAAA&features=ALL&v=3
+mobile,SVG,Quran Surah 2,1,4655,0.0002,https://corandemoncoeur.com/wp-content/uploads/2025/09/QuranSurah2-7Bov4.ttf
+mobile,SVG,Filicudi Color TV,1,4655,0.0002,https://use.typekit.net/af/f1e308/00000000000000007735edb4/30/l?unicode=AAAHTgAAAAeZNhI7nOXAR1DJNvH1N6HHA8_iMzny5lfjEPg_YsYi0ieFbSmy13c-67Xh4mvTwrguZdQT1k2viU09IJRJNxLP2WFjRDqUA1UGH9XqRTLIeirLgK71BiiR9zbtYUs5aX6uDvsKq-HyBpvQ9oAar2Gud67G_jRdrL4A6XzPNazMQtIX7I6-zs3rEk8-42rgwafbkfmp7hmiNm-q32Pfbz4ZtYWYu-G0d5gWOUGwLh35BzVKJgSDGrRv_lJD14yWn0d9ry_Vk_H7bf6qp258nzj2amyU3I4Lo1tQCeXUHGBBp6LoetfxNxn-AAAWPA&features=ALL&v=3
+mobile,SVG,Wincley Ornich,1,4655,0.0002,https://cdn.website-editor.net/60767f7efcc44cf69d991eec9f330336/fonts/wincley-ornich-wincley-ornich-svg-400-9f51_400.otf
+mobile,SVG,Roque,1,4655,0.0002,https://www.thesparklebarn.com/uploads/b/2c70c6b4ed6e036db6a8781f38523256cbcb824567327e277e3920f377d2817a/RoqueColored_1708642081.otf
+mobile,SVG,Avaboca,1,4655,0.0002,https://heally.com.mx/cdn/shop/files/Avaboca-SVG_f7bc83c0-99a1-4e2a-89a4-f43866e5596d.otf?v=1756147848&display=swap
+mobile,SVG,Filicudi Color Barber,1,4655,0.0002,https://use.typekit.net/af/ecd179/00000000000000007735edab/30/l?unicode=AAAHTgAAAAeZNhI7nOXAR1DJNvH1N6HHA8_iMzny5lfjEPg_YsYi0ieFbSmy13c-67Xh4mvTwrguZdQT1k2viU09IJRJNxLP2WFjRDqUA1UGH9XqRTLIeirLgK71BiiR9zbtYUs5aX6uDvsKq-HyBpvQ9oAar2Gud67G_jRdrL4A6XzPNazMQtIX7I6-zs3rEk8-42rgwafbkfmp7hmiNm-q32Pfbz4ZtYWYu-G0d5gWOUGwLh35BzVKJgSDGrRv_lJD14yWn0d9ry_Vk_H7bf6qp258nzj2amyU3I4Lo1tQCeXUHGBBp6LoetfxNxn-AAAWPA&features=ALL&v=3
+mobile,SVG,Wall-Painter,1,4655,0.0002,https://fonts.cdnfonts.com/s/82104/Wall-Painter.woff
+mobile,SVG,Filicudi Color Fire,1,4655,0.0002,https://use.typekit.net/af/7ed059/00000000000000007735edad/30/l?unicode=AAAHTgAAAAeZNhI7nOXAR1DJNvH1N6HHA8_iMzny5lfjEPg_YsYi0ieFbSmy13c-67Xh4mvTwrguZdQT1k2viU09IJRJNxLP2WFjRDqUA1UGH9XqRTLIeirLgK71BiiR9zbtYUs5aX6uDvsKq-HyBpvQ9oAar2Gud67G_jRdrL4A6XzPNazMQtIX7I6-zs3rEk8-42rgwafbkfmp7hmiNm-q32Pfbz4ZtYWYu-G0d5gWOUGwLh35BzVKJgSDGrRv_lJD14yWn0d9ry_Vk_H7bf6qp258nzj2amyU3I4Lo1tQCeXUHGBBp6LoetfxNxn-AAAWPA&features=ALL&v=3
+mobile,SVG,OtherSpaceArts Caps,1,4655,0.0002,https://static.wixstatic.com/ufonts/d1a436_b1a78e5e727945489d197c4837bd4d2b/woff2/file.woff2
+mobile,SVG,NesathoBeryl,1,4655,0.0002,https://cdn1.sportngin.com/attachments/document/b243-3299336/Nesatho-Beryl.ttf
+mobile,SVG,California Palms Script SVG,1,4655,0.0002,https://cdn.nitroapps.co/fontify/htwed.myshopify.com/california-palms.otf
+mobile,SVG,Mexicali,1,4655,0.0002,https://cdn.bopple.app/assets/mexicali/fonts/Mexicali.otf
+mobile,SVG,Kosmy,1,4655,0.0002,https://static.wixstatic.com/ufonts/db3d3c_c0e1d1ec2aea47279eddcbd15bc92272/woff2/file.woff2
+mobile,SVG,NavIcons,1,4655,0.0002,https://sae-static-content-prod.cl.sae.org/fonts/NavIcons.otf
+mobile,SVG,Beavertown Official,1,4655,0.0002,https://cdn-widgetsrepository.yotpo.com/brandkit/custom-fonts/E73u0RxvBJgJMTGOxSjrefKP1BbvNjzE14rBvsZ2/beavertownofficial/beavertown-official.otf
+mobile,SVG,Ama-Font,1,4655,0.0002,https://static.wixstatic.com/ufonts/344854_ddc2a0f4329241aead59588242e15095/woff2/file.woff2
+mobile,SVG,WILD CHERRY,1,4655,0.0002,https://media-cdn.getbento.com/accounts/809e6e99faa212d4ad7e9947829ddbb1/media/XHmvWDm8RzGSpDm6btxo_p3DVbxnLSYeb6wapvYdr_WILDCHERRY.otf
+mobile,SVG,砧 きりこ かな Color 1,1,4655,0.0002,https://use.typekit.net/af/b618c5/00000000000000007735f491/30/m?features=ALL&v=4&chunks=0&order=0
+mobile,SVG,social media color,1,4655,0.0002,https://static.wixstatic.com/ufonts/e8fe94_cba6467af24f4474b19b763a34b40d16/woff2/file.woff2
+mobile,SVG,Wild Irish Rose,1,4655,0.0002,https://activatecdn.azureedge.net/activatedata/35Content/BahamaBreeze/Fonts/Wild-Irish-Rose.otf
+mobile,SVG,Designiga Handwritting,1,4655,0.0002,https://fonts.sanchaya.net/Fonts/Designiga-Handwriting/DesignigaHandwritting-Regular.260226-1755-SVG.ttf
+mobile,SVG,Filicudi Color Candy,1,4655,0.0002,https://use.typekit.net/af/381295/00000000000000007735edac/30/l?unicode=AAAHTgAAAAeZNhI7nOXAR1DJNvH1N6HHA8_iMzny5lfjEPg_YsYi0ieFbSmy13c-67Xh4mvTwrguZdQT1k2viU09IJRJNxLP2WFjRDqUA1UGH9XqRTLIeirLgK71BiiR9zbtYUs5aX6uDvsKq-HyBpvQ9oAar2Gud67G_jRdrL4A6XzPNazMQtIX7I6-zs3rEk8-42rgwafbkfmp7hmiNm-q32Pfbz4ZtYWYu-G0d5gWOUGwLh35BzVKJgSDGrRv_lJD14yWn0d9ry_Vk_H7bf6qp258nzj2amyU3I4Lo1tQCeXUHGBBp6LoetfxNxn-AAAWPA&features=ALL&v=3
+mobile,SVG,Rustea,1,4655,0.0002,https://static.wixstatic.com/ufonts/d407cc_9dd8c004060542629e53c7f93e63ab9f/woff2/file.woff2
+mobile,SVG,Cartier,1,4655,0.0002,https://static.wixstatic.com/ufonts/f55bd9_c5e9a6a2bbfe44e882aca1b2bcdc4293/woff2/file.woff2
+mobile,SVG,Create Star,1,4655,0.0002,https://static1.squarespace.com/static/6310f6ae7d54786b6cc4b74b/t/64849d707e58b601393f6fb5/1686412656827/Create-Star.otf
+mobile,SVG,flags color,1,4655,0.0002,https://www.alagod.com/theme/font/FlagsColor-AL4Gx.ttf
+mobile,SVG,Sundae Hit Personal Use,1,4655,0.0002,https://beydondurma.ru/SundaehitpersonaluseBold.otf
+mobile,SVG,Altenergy Gothic CB,1,4655,0.0002,https://altenergy.co.jp/assets/fonts/altenergy-gothic/AltenergyGothicCB.woff2
+mobile,SVG,Lipton High,1,4655,0.0002,https://www.liptonicetea.nl/static/6570992816473ed1d01f251ce2c5de614f94428e32b35e268d6661f92b54e678/resources/fonts/LiptonHighlight-Clean.woff2
+mobile,SVG,Hubber Grotesk Md,1,4655,0.0002,https://cdn.prod.website-files.com/68946465e1b6cc76aea6ed74/68947bc33c971e69a874f02d_HubberGroteskMd.otf
+mobile,SVG,CHENAIS,1,4655,0.0002,https://chenaisenergie.com/wp-content/uploads/et-fonts/chenais-SVG.otf
+mobile,SVG,Altenergy Gothic CW,1,4655,0.0002,https://altenergy.co.jp/assets/fonts/altenergy-gothic/AltenergyGothicCW.woff2
+mobile,SVG,Eloy Sans Logotype Blanc,1,4655,0.0002,https://www.eloy.be/wp-content/themes/ak-eloy-2021/assets/fonts/03-Eloy%20Sans%20Logo%20Blanc/EloySansLogotypeBlanc-Regular.woff2
+mobile,SVG,Hey Eloise Watercolor,1,4655,0.0002,https://use.typekit.net/af/5d5513/00000000000000007735fcf0/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+mobile,SVG,JD Strangers Rough,1,4655,0.0002,https://static1.squarespace.com/static/55f1f6bae4b0951c27ba2718/t/63e1e6d2301f6934540bb162/1675749077216/JDStrangersRough-Navy.otf
+mobile,SVG,HYELM,1,4655,0.0002,https://hyelm.com/wp-content/themes/hyelm-theme/src/fonts/HYELM.otf
+mobile,SVG,Kindness Matters SVG,1,4655,0.0002,https://static.wixstatic.com/ufonts/b23720_5b79e4e2da964d2b88868038510313fc/woff2/file.woff2
+mobile,SVG,Rustic Gold Alt SVG,1,4655,0.0002,https://static.wixstatic.com/ufonts/87d500_35d0b139774b44b5af31dfdd3b5c14f4/woff2/file.woff2
+mobile,SVG,Custom Emoji Font,1,4655,0.0002,https://new.expensify.com/fonts/CustomEmojiWebFont.ttf
+mobile,SVG,Synesthesia,1,4655,0.0002,https://static1.squarespace.com/static/5c8d2b3c7d0c9120c098b900/t/5d532a44316bb40001726908/1565731396072/Synesthesia.otf
+mobile,SVG,KindSoul SVG,1,4655,0.0002,https://static.wixstatic.com/ufonts/c2c2f7_64a7f457ee044768b559d6fb7841e009/woff2/file.woff2
+mobile,SVG,Grapheine,1,4655,0.0002,https://grapheine.com/wp-content/themes/grapheine/fonts/GrapheineVF.woff2
+mobile,SVG,PeekaBoo Personal Use,1,4655,0.0002,https://fontsbuddy.com/media/fonts/files/PeekaboopersonaluseBold-OVjDe.otf
+mobile,SVG,Glue Font,1,4655,0.0002,https://static1.squarespace.com/static/66aa433f26327363b5459390/t/66aa49fc2e41716185ee11da/1722436094357/GlueFont.otf
+mobile,SVG,Tortas,1,4655,0.0002,https://media-cdn.getbento.com/accounts/a648ce9bc66858b28a546b5b5115fc55/media/9x5YjNnRtK9Woud1ymlY_Tortas-Regular.ttf
+mobile,SVG,Drawgio Sans,1,4655,0.0002,https://fischbaecker-minden.de/wp-content/uploads/2020/06/Drawgio_Sans.otf
+mobile,SVG,Excalibur Old,1,4655,0.0002,https://static1.squarespace.com/static/5d090703bfcf6300017faaa8/t/6722ad2a8c330668e16c10e0/1730325823340/Excalibur+Old.ttf
+mobile,SVG,Font Awesome,1,4655,0.0002,https://framerusercontent.com/assets/MA1fr1XwmIuaWEeIujUPaFnMQSU.woff2
+mobile,SVG,DK Display Patrol,1,4655,0.0002,https://confiserie-thijs.be/swfiles/body/DK-Display-TwoImpress.otf
+mobile,SVG,FiniFun,1,4655,0.0002,https://finistore.es/cdn/shop/t/3/assets/FiniFun-Condensed.otf?v=100430407254673895051761036130
+mobile,SVG,砧 きりこ かな Color 2,1,4655,0.0002,https://use.typekit.net/af/fc9945/00000000000000007735f490/30/m?features=ALL&v=4&chunks=0&order=0
+mobile,SVG,ヒグミン スムーズ,1,4655,0.0002,https://use.typekit.net/af/89b23a/00000000000000007735ed6e/30/m?features=ALL&v=4&chunks=1&order=0
+mobile,SVG,DCF Website,1,4655,0.0002,https://shop.degencoinflip.com/static/media/DCFShopFont.2f9925b745735d33ab69.otf
+mobile,SVG,ヒグミン にじみ,1,4655,0.0002,https://use.typekit.net/af/443b42/00000000000000007735ed6d/30/m?features=ALL&v=4&chunks=1&order=0
+mobile,SVG,Houstiq 2,1,4655,0.0002,https://static.wixstatic.com/ufonts/68b8e6_ad6953aec98e470d92b3dddaa07468d3/woff2/file.woff2
+mobile,SVG,NUIJAfontFace,1,4655,0.0002,https://nuija.fi/wp-content/uploads/2025/11/NUIJA.otf
+mobile,SVG,Mailman,1,4655,0.0002,https://eighteen.bar/fonts/MailmanRegular-R9exe.ttf
+mobile,SVG,Filicudi Color Pride,1,4655,0.0002,https://use.typekit.net/af/84ac23/00000000000000007735edb2/30/l?unicode=AAAHTgAAAAeZNhI7nOXAR1DJNvH1N6HHA8_iMzny5lfjEPg_YsYi0ieFbSmy13c-67Xh4mvTwrguZdQT1k2viU09IJRJNxLP2WFjRDqUA1UGH9XqRTLIeirLgK71BiiR9zbtYUs5aX6uDvsKq-HyBpvQ9oAar2Gud67G_jRdrL4A6XzPNazMQtIX7I6-zs3rEk8-42rgwafbkfmp7hmiNm-q32Pfbz4ZtYWYu-G0d5gWOUGwLh35BzVKJgSDGrRv_lJD14yWn0d9ry_Vk_H7bf6qp258nzj2amyU3I4Lo1tQCeXUHGBBp6LoetfxNxn-AAAWPA&features=ALL&v=3
+mobile,SVG,Filicudi Color Wasp,1,4655,0.0002,https://use.typekit.net/af/fc9144/00000000000000007735edb5/30/l?unicode=AAAHTgAAAAeZNhI7nOXAR1DJNvH1N6HHA8_iMzny5lfjEPg_YsYi0ieFbSmy13c-67Xh4mvTwrguZdQT1k2viU09IJRJNxLP2WFjRDqUA1UGH9XqRTLIeirLgK71BiiR9zbtYUs5aX6uDvsKq-HyBpvQ9oAar2Gud67G_jRdrL4A6XzPNazMQtIX7I6-zs3rEk8-42rgwafbkfmp7hmiNm-q32Pfbz4ZtYWYu-G0d5gWOUGwLh35BzVKJgSDGrRv_lJD14yWn0d9ry_Vk_H7bf6qp258nzj2amyU3I4Lo1tQCeXUHGBBp6LoetfxNxn-AAAWPA&features=ALL&v=3
+mobile,SVG,BroshK,1,4655,0.0002,https://kaaipop.nl/wp-content/uploads/2025/12/BroshK-1.woff
+mobile,SVG,Filicudi Color Lemon,1,4655,0.0002,https://use.typekit.net/af/567f7b/00000000000000007735edaf/30/l?unicode=AAAHTgAAAAeZNhI7nOXAR1DJNvH1N6HHA8_iMzny5lfjEPg_YsYi0ieFbSmy13c-67Xh4mvTwrguZdQT1k2viU09IJRJNxLP2WFjRDqUA1UGH9XqRTLIeirLgK71BiiR9zbtYUs5aX6uDvsKq-HyBpvQ9oAar2Gud67G_jRdrL4A6XzPNazMQtIX7I6-zs3rEk8-42rgwafbkfmp7hmiNm-q32Pfbz4ZtYWYu-G0d5gWOUGwLh35BzVKJgSDGrRv_lJD14yWn0d9ry_Vk_H7bf6qp258nzj2amyU3I4Lo1tQCeXUHGBBp6LoetfxNxn-AAAWPA&features=ALL&v=3
+mobile,SVG,Van Zoggel Icons,1,4655,0.0002,https://vanzoggelcatering.nl/wp-content/uploads/fonts/VanZoggelIcons-Bold.otf
+mobile,SVG,Baron Font,1,4655,0.0002,https://baron.coffee/fonts/Baron-Regular.woff2
+mobile,SVG,Dx Bloop,1,4655,0.0002,https://gigil.com.ph/assets/font/dx-bloop/dxbloop-fullcolor.otf
+mobile,SVG,G11,1,4655,0.0002,https://static1.squarespace.com/static/61cd89640d29aa30a48ff7f1/t/61cd8f613e640364e3357bee/1640861538391/G11.otf
+mobile,SVG,Houstiq,1,4655,0.0002,https://static.wixstatic.com/ufonts/aca063_9e0cbbc61d50456093bdd8e7e7b21b53/woff2/file.woff2
+mobile,SVG,Filicudi Color Nude,1,4655,0.0002,https://use.typekit.net/af/e1d29d/00000000000000007735edae/30/l?unicode=AAAHTgAAAAeZNhI7nOXAR1DJNvH1N6HHA8_iMzny5lfjEPg_YsYi0ieFbSmy13c-67Xh4mvTwrguZdQT1k2viU09IJRJNxLP2WFjRDqUA1UGH9XqRTLIeirLgK71BiiR9zbtYUs5aX6uDvsKq-HyBpvQ9oAar2Gud67G_jRdrL4A6XzPNazMQtIX7I6-zs3rEk8-42rgwafbkfmp7hmiNm-q32Pfbz4ZtYWYu-G0d5gWOUGwLh35BzVKJgSDGrRv_lJD14yWn0d9ry_Vk_H7bf6qp258nzj2amyU3I4Lo1tQCeXUHGBBp6LoetfxNxn-AAAWPA&features=ALL&v=3
+mobile,SVG,QESTERO,1,4655,0.0002,https://revivalclinics.com/wp-content/uploads/2024/04/QESTERO-Regular-SVG.ttf
+mobile,SVG,Milk and Wild,1,4655,0.0002,https://www.makeithappenevents.at/wp-content/uploads/dynamic_avia/avia_type_fonts/milk-and-wild/milk%20and%20wild.ttf
+mobile,SVG,JobIn-numbers,1,4655,0.0002,https://www.jobin.be/css/files/1c4dbc667c061ec1ecd7d43a02161073.otf
+mobile,SVG,PlymouthPress,1,4655,0.0002,https://s0.wp.com/wp-content/themes/pub/punk/assets/fonts/plymouthpress/plymouthpress-400-normal.otf
+mobile,SVG,Record Store Stencil,1,4655,0.0002,https://cdn.prod.website-files.com/644f70cf65fb6d39a7cb223b/646d2e5ceb52688f54a44996_RecordStoreStencil-KR.otf
+mobile,SVG,RetroNumbers,1,4655,0.0002,https://shop.fcemmen.nl/static/version1784119214/frontend/fcemmen/base/nl_NL/fonts/rugnummers/Thuis.woff2
+mobile,SVG,Filicudi Color Ocean,1,4655,0.0002,https://use.typekit.net/af/cf3f28/00000000000000007735edb1/30/l?unicode=AAAHTgAAAAeZNhI7nOXAR1DJNvH1N6HHA8_iMzny5lfjEPg_YsYi0ieFbSmy13c-67Xh4mvTwrguZdQT1k2viU09IJRJNxLP2WFjRDqUA1UGH9XqRTLIeirLgK71BiiR9zbtYUs5aX6uDvsKq-HyBpvQ9oAar2Gud67G_jRdrL4A6XzPNazMQtIX7I6-zs3rEk8-42rgwafbkfmp7hmiNm-q32Pfbz4ZtYWYu-G0d5gWOUGwLh35BzVKJgSDGrRv_lJD14yWn0d9ry_Vk_H7bf6qp258nzj2amyU3I4Lo1tQCeXUHGBBp6LoetfxNxn-AAAWPA&features=ALL&v=3
+mobile,SVG,ATS Chikkamagaluru,1,4655,0.0002,https://fonts.sanchaya.net/Fonts/ATS-Chikkamagaluru/TTF/ATSChikkamagaluru-ColorRegular.ttf
+mobile,SVG,Elllamafante,1,4655,0.0002,https://cdn.nitroapps.co/fontify/el-llamafante.myshopify.com/el-llamafante.otf
+mobile,SVG,dyrdee_icons,1,4655,0.0002,https://dyrdee.com/wp-content/themes/dyrdee_web/fonts/dyrdee_icons.ttf?i2jorl
+mobile,SVG,PRINTED,1,4655,0.0002,https://www.plate-factory.co.uk/wp-content/uploads/2023/10/2D-PRINTED.otf
+mobile,SVG,Filicudi Color Neon,1,4655,0.0002,https://use.typekit.net/af/342cce/00000000000000007735edb0/30/l?unicode=AAAHTgAAAAeZNhI7nOXAR1DJNvH1N6HHA8_iMzny5lfjEPg_YsYi0ieFbSmy13c-67Xh4mvTwrguZdQT1k2viU09IJRJNxLP2WFjRDqUA1UGH9XqRTLIeirLgK71BiiR9zbtYUs5aX6uDvsKq-HyBpvQ9oAar2Gud67G_jRdrL4A6XzPNazMQtIX7I6-zs3rEk8-42rgwafbkfmp7hmiNm-q32Pfbz4ZtYWYu-G0d5gWOUGwLh35BzVKJgSDGrRv_lJD14yWn0d9ry_Vk_H7bf6qp258nzj2amyU3I4Lo1tQCeXUHGBBp6LoetfxNxn-AAAWPA&features=ALL&v=3
+mobile,SVG,Relief SingleLine,1,4655,0.0002,https://use.typekit.net/af/1bc5c3/00000000000000007735f378/31/l?subset_id=1&fvd=n4&v=3
+mobile,SVG,RetroNumbers Gold,1,4655,0.0002,https://shop.fcemmen.nl/static/version1784119214/frontend/fcemmen/base/nl_NL/fonts/rugnummers/Uit.woff2
+mobile,SVG,Filicudi Color Steel,1,4655,0.0002,https://use.typekit.net/af/d529ae/00000000000000007735edb3/30/l?unicode=AAAHTgAAAAeZNhI7nOXAR1DJNvH1N6HHA8_iMzny5lfjEPg_YsYi0ieFbSmy13c-67Xh4mvTwrguZdQT1k2viU09IJRJNxLP2WFjRDqUA1UGH9XqRTLIeirLgK71BiiR9zbtYUs5aX6uDvsKq-HyBpvQ9oAar2Gud67G_jRdrL4A6XzPNazMQtIX7I6-zs3rEk8-42rgwafbkfmp7hmiNm-q32Pfbz4ZtYWYu-G0d5gWOUGwLh35BzVKJgSDGrRv_lJD14yWn0d9ry_Vk_H7bf6qp258nzj2amyU3I4Lo1tQCeXUHGBBp6LoetfxNxn-AAAWPA&features=ALL&v=3
+mobile,SVG,FFF-font,1,4655,0.0002,https://teamsport.puma.com/fonts/FFFlocage-Black.otf
+mobile,SVG,Tuku Handwriting 1,1,4655,0.0002,https://tetangga.tuku.coffee/_next/static/media/d05d55b02d001a93-s.p.otf
+mobile,SVG,Stranger Times,1,4655,0.0002,https://onlinedegrees.sandiego.edu/wp-content/themes/usd/assets/dist/fonts/stranger-times/regular.ttf
+mobile,SVG,SAP-icons,1,4655,0.0002,https://learning.sap.com/fonts/SAP-icons-SVG.woff2
+mobile,SVG,RedactRect,1,4655,0.0002,https://scp-wiki-cdn.nyc3.cdn.digitaloceanspaces.com/theme/en/sigma/fonts/RedactRect.woff2
+mobile,SVG,CEMC-Display,1,4655,0.0002,https://www.cemc.fr/wp-content/uploads/2025/07/CEMC-Bitmap-B-Bold-v5-4.otf
+mobile,SVG,Mont,1,4655,0.0002,https://www.worldofamrutanjan.com/pub/static/frontend/Neo/amrutanjan/en_US/fonts/Mont-ExtraLightDemo.otf
+mobile,SVG,AFC Champions,1,4655,0.0002,https://www.the-afc.com/fonts/AFCChampions-Chisel.otf?__WB_REVISION__=6d45b9f7e51cb5415149063a98112c70
+mobile,SVG,Myanmar Jojar Pro,1,4655,0.0002,https://cvbawrrt6ky4ctvk.public.blob.vercel-storage.com/fonts/k0zwZFlUTtg2DOb2OFGoVERr1O5d1RLP/MyanmarJojarPro/MyanmarJojarPro-Regular.woff2
+mobile,SVG,Bamboo,1,4655,0.0002,https://static.wixstatic.com/ufonts/bacf31_e0f8064d8ed54c5c8d57a9cf861e2dec/woff2/file.woff2
+mobile,SVG,aalmaghribi color,1,4655,0.0002,https://azkary-dua.ru/_nuxt/AalmaghribiColor.DvY9D2Om.ttf
+mobile,SVG,West Fox,1,4655,0.0002,https://static1.squarespace.com/static/6123e7a1f6671e13fc96d62d/t/6123f8aafa0d767f53c48185/1629747370532/WestFox.otf
+mobile,sbix,Toss Face Font Mac,30,4655,0.0064,https://mobislive.com/assets/common/fonts/TossFaceFontMac-08.woff2
+mobile,sbix,Grass Touch,2,4655,0.0004,https://fonts.wehateonions.com/assets/app/uploads/697b86d88353d.otf
+mobile,sbix,OtherSpaceArts Caps,1,4655,0.0002,https://static.wixstatic.com/ufonts/d1a436_b1a78e5e727945489d197c4837bd4d2b/woff2/file.woff2
+mobile,sbix,Roboto Mono,1,4655,0.0002,https://web.vestaboard.com/assets/fonts/RobotoMono-RegularEmojisExpo-sbix.ad15aca8065f698db3c57709beb2553f.ttf
+mobile,sbix,PRINTED,1,4655,0.0002,https://www.plate-factory.co.uk/wp-content/uploads/2023/10/2D-PRINTED.otf
+mobile,sbix,HYELM,1,4655,0.0002,https://hyelm.com/wp-content/themes/hyelm-theme/src/fonts/HYELM.otf
+mobile,sbix,JD Strangers Rough,1,4655,0.0002,https://static1.squarespace.com/static/55f1f6bae4b0951c27ba2718/t/63e1e6d2301f6934540bb162/1675749077216/JDStrangersRough-Navy.otf
+mobile,sbix,HelveticaNeue,1,4655,0.0002,https://web.vestaboard.com/assets/fonts/VestaboardHelveticaNeue-sbix.59c73eb0fcbc3845c56a947889fbc10b.ttf
+mobile,sbix,Wild Irish Rose,1,4655,0.0002,https://activatecdn.azureedge.net/activatedata/35Content/BahamaBreeze/Fonts/Wild-Irish-Rose.otf
+mobile,sbix,CEMC-Display,1,4655,0.0002,https://www.cemc.fr/wp-content/uploads/2025/07/CEMC-Bitmap-B-Bold-v5-4.otf
+mobile,sbix,Synesthesia,1,4655,0.0002,https://static1.squarespace.com/static/5c8d2b3c7d0c9120c098b900/t/5d532a44316bb40001726908/1565731396072/Synesthesia.otf
+mobile,sbix,,1,4655,0.0002,https://kyc.app.drahim.sa/assets/assets/fonts/apple_emoji_subset.ttf
+mobile,sbix,ARRrrrmoji-Web,1,4655,0.0002,https://cdn.prod.website-files.com/6373a03c7d7cb73ba2df4f8e/66336f2ab00075d329846e52_ARRrrrmoji-Web-Regular.woff2
+mobile,sbix,DCF Website,1,4655,0.0002,https://shop.degencoinflip.com/static/media/DCFShopFont.2f9925b745735d33ab69.otf

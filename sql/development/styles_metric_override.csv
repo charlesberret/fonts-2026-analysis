@@ -1,0 +1,9 @@
+client,property,count,total,proportion
+desktop,size-adjust,332951,11628567,0.0286
+desktop,ascent-override,328882,11628567,0.0283
+desktop,descent-override,324310,11628567,0.0279
+desktop,line-gap-override,315551,11628567,0.0271
+mobile,size-adjust,460202,15539089,0.0296
+mobile,ascent-override,449035,15539089,0.0289
+mobile,descent-override,444373,15539089,0.0286
+mobile,line-gap-override,428686,15539089,0.0276

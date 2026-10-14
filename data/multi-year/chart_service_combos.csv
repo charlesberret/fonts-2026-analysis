@@ -1,0 +1,31 @@
+year,client,services,proportion,source
+2022,desktop,Google,0.1392,sheets
+2022,desktop,"Google, self-hosted",0.4071,sheets
+2022,desktop,self-hosted,0.2199,sheets
+2022,mobile,Google,0.1179,sheets
+2022,mobile,"Google, self-hosted",0.3609,sheets
+2022,mobile,self-hosted,0.2751,sheets
+2023,desktop,Google,0.1251,sheets
+2023,desktop,"Google, self-hosted",0.3813,sheets
+2023,desktop,self-hosted,0.2657,sheets
+2023,mobile,Google,0.1046,sheets
+2023,mobile,"Google, self-hosted",0.3224,sheets
+2023,mobile,self-hosted,0.3331,sheets
+2024,desktop,Google,0.1318,sheets
+2024,desktop,"Google, self-hosted",0.3851,sheets
+2024,desktop,self-hosted,0.2751,sheets
+2024,mobile,Google,0.1124,sheets
+2024,mobile,"Google, self-hosted",0.3265,sheets
+2024,mobile,self-hosted,0.3387,sheets
+2025,desktop,Google,0.1278,sheets
+2025,desktop,"Google, self-hosted",0.3611,sheets
+2025,desktop,self-hosted,0.3148,sheets
+2025,mobile,Google,0.1193,sheets
+2025,mobile,"Google, self-hosted",0.3174,sheets
+2025,mobile,self-hosted,0.3639,sheets
+2026,desktop,Google,0.143,fonts_2026
+2026,desktop,"Google, self-hosted",0.3521,fonts_2026
+2026,desktop,self-hosted,0.3223,fonts_2026
+2026,mobile,Google,0.1446,fonts_2026
+2026,mobile,"Google, self-hosted",0.3397,fonts_2026
+2026,mobile,self-hosted,0.3287,fonts_2026

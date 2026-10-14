@@ -1,0 +1,432 @@
+year,client,format,proportion_request
+2019,desktop,woff2,0.7386
+2019,mobile,woff2,0.7042
+2019,mobile,woff,0.1373
+2019,desktop,woff,0.1286
+2019,desktop,octet-stream,0.0644
+2019,mobile,octet-stream,0.0637
+2019,mobile,ttf,0.050300000000000004
+2019,desktop,ttf,0.026099999999999998
+2019,mobile,plain,0.0195
+2019,desktop,plain,0.0187
+2019,mobile,html,0.0116
+2019,desktop,html,0.0105
+2019,mobile,sfnt,0.0066
+2019,desktop,sfnt,0.0062
+2019,desktop,otf,0.0034000000000000002
+2019,mobile,otf,0.0033
+2019,desktop,opentype,0.0011
+2019,mobile,opentype,0.001
+2019,desktop,vnd.oasis.opendocument.formula-template,0.0009
+2019,mobile,vnd.oasis.opendocument.formula-template,0.0009
+2019,desktop,truetype,0.0007000000000000001
+2019,mobile,truetype,0.0007000000000000001
+2019,desktop,vnd.ms-fontobject,0.0004
+2019,mobile,vnd.ms-fontobject,0.0003
+2019,desktop,unknown,0.0001
+2019,desktop,vnd.ms-opentype,0.0001
+2019,mobile,vnd.ms-opentype,0.0001
+2019,mobile,unknown,0.0001
+2019,desktop,force-download,0.0001
+2019,mobile,force-download,0.0001
+2019,mobile,eot,0.0001
+2019,mobile,gzip,0.0001
+2019,desktop,gzip,0.0
+2019,mobile,font,0.0
+2019,desktop,eot,0.0
+2019,desktop,font,0.0
+2019,desktop,octetstream,0.0
+2019,desktop,troff-man,0.0
+2019,mobile,troff-man,0.0
+2019,mobile,octetstream,0.0
+2019,desktop,www-form-urlencoded,0.0
+2019,desktop,x-woff,0.0
+2019,mobile,www-form-urlencoded,0.0
+2019,mobile,x-woff,0.0
+2019,desktop,unknown-content-type,0.0
+2019,mobile,unknown-content-type,0.0
+2019,desktop,binary,0.0
+2019,desktop,fontwoff2,0.0
+2019,mobile,fontwoff2,0.0
+2019,mobile,binary,0.0
+2019,desktop,*,0.0
+2019,mobile,*,0.0
+2019,mobile,x-woff2,0.0
+2019,desktop,x-woff2,0.0
+2019,desktop,wof,0.0
+2019,mobile,nmmm,0.0
+2019,mobile,collection,0.0
+2019,desktop,collection,0.0
+2019,mobile,wof,0.0
+2019,desktop,file,0.0
+2019,desktop,acad,0.0
+2019,desktop,fontwoff,0.0
+2019,desktop,vnd.msfontobject,0.0
+2019,mobile,httpd-php,0.0
+2019,mobile,fontwoff,0.0
+2019,desktop,ttfâ â â ,0.0
+2019,desktop,application,0.0
+2019,mobile,ttfâ â â ,0.0
+2019,mobile,vnd.msfontobject,0.0
+2019,mobile,file,0.0
+2019,mobile,woff woff2,0.0
+2019,desktop,fonstd-woff2,0.0
+2019,desktop,text,0.0
+2019,desktop,woff\0font/woff,0.0
+2019,desktop,octec-stream,0.0
+2019,mobile,woff\0font/woff,0.0
+2019,desktop,nmmm,0.0
+2019,desktop,wofff,0.0
+2019,desktop,txt,0.0
+2019,mobile,html ,0.0
+2019,desktop,woff woff2,0.0
+2019,desktop,xfont-ttf,0.0
+2019,mobile,text,0.0
+2019,mobile,tff,0.0
+2019,mobile,txt,0.0
+2019,mobile,"",0.0
+2019,desktop,"",0.0
+2019,desktop,httpd-php,0.0
+2019,desktop,octet,0.0
+2019,desktop,text-plain,0.0
+2019,desktop,html ,0.0
+2019,mobile,xfont-ttf,0.0
+2019,desktop,data,0.0
+2019,desktop,woff2 ,0.0
+2019,desktop,wolf,0.0
+2019,desktop,svg,0.0
+2019,mobile,off,0.0
+2019,desktop,tff,0.0
+2019,desktop,fonts,0.0
+2019,mobile,fonts,0.0
+2019,desktop,octect-stream,0.0
+2019,mobile,octect-stream,0.0
+2019,mobile,text-plain,0.0
+2019,mobile,woff-2,0.0
+2019,mobile,octec-stream,0.0
+2019,mobile,directory,0.0
+2019,desktop,octet-stream charset=utf-8,0.0
+2019,mobile,wolf,0.0
+2019,desktop,urlencoded,0.0
+2019,mobile,octet-stream charset=utf-8,0.0
+2019,desktop,off,0.0
+2019,desktop,directory,0.0
+2019,desktop,html; charset=utf-8,0.0
+2019,desktop,application/font-woff2,0.0
+2019,desktop,fonstd-woff,0.0
+2019,desktop,woff-2,0.0
+2019,desktop,font/woff,0.0
+2019,mobile,application,0.0
+2019,desktop,"woff""",0.0
+2019,desktop,font/woff2,0.0
+2019,mobile,data,0.0
+2019,mobile,"woff""",0.0
+2019,desktop,bin,0.0
+2019,desktop,snft,0.0
+2019,desktop,woffs,0.0
+2019,desktop,woff2.,0.0
+2019,desktop,none,0.0
+2019,desktop,css/fonts/social_foundicons.woff,0.0
+2019,mobile,woff2.,0.0
+2019,mobile,font/woff2,0.0
+2019,mobile,css/fonts/social_foundicons.woff,0.0
+2019,mobile,none,0.0
+2019,mobile,wofff,0.0
+2019,mobile,shockwave-flash,0.0
+2019,desktop,woffâ â â â â â â ,0.0
+2019,desktop,mixed,0.0
+2019,mobile,octet,0.0
+2019,mobile,svg,0.0
+2019,mobile,woffâ â â â â â â ,0.0
+2019,mobile,application/font-woff2,0.0
+2019,mobile,mixed,0.0
+2019,desktop,wof2,0.0
+2019,desktop,html/php,0.0
+2019,mobile,octet-string,0.0
+2019,mobile,html/php,0.0
+2019,mobile,woffs,0.0
+2019,desktop,fonts/woff2,0.0
+2019,desktop,application/x-font-woff,0.0
+2019,desktop,font=woff2,0.0
+2019,desktop,woff2.woff2,0.0
+2019,desktop,woff woff,0.0
+2019,desktop,octet-stream\0font/woff2,0.0
+2019,mobile,font=woff2,0.0
+2019,mobile,fonts/woff2,0.0
+2019,mobile,font.woff,0.0
+2019,mobile,application/x-font-woff,0.0
+2019,mobile,bin,0.0
+2019,desktop,fint-woff,0.0
+2019,desktop,octer-stream,0.0
+2019,desktop,font.woff,0.0
+2019,desktop,gont-woff2,0.0
+2019,desktop,shockwave-flash,0.0
+2019,desktop,pdf,0.0
+2019,mobile,css/font/woff,0.0
+2019,mobile,pdf,0.0
+2019,mobile,fint-woff,0.0
+2019,mobile,truetype.ttf,0.0
+2019,mobile,urlencoded,0.0
+2019,mobile,gont-woff2,0.0
+2019,mobile,x-font-opentype,0.0
+2019,mobile,snft,0.0
+2019,mobile,type1,0.0
+2019,desktop,truetype-font,0.0
+2019,desktop,"woff2""",0.0
+2019,desktop,woff2\0font/woff2,0.0
+2019,desktop,webopentype,0.0
+2019,desktop,style,0.0
+2019,desktop,octet-string,0.0
+2019,desktop,woff 2,0.0
+2019,desktop, woff2,0.0
+2019,desktop,css/font/woff,0.0
+2019,desktop,"octet-stream,text/plain",0.0
+2019,mobile,woff2.woff2,0.0
+2019,mobile, woff2,0.0
+2019,mobile,font/woff,0.0
+2019,mobile,truetype-font,0.0
+2019,mobile,woff 2,0.0
+2019,mobile,stream,0.0
+2019,mobile,fon-woff2,0.0
+2019,mobile,woff2\0font/woff2,0.0
+2019,desktop,download,0.0
+2019,desktop,webm,0.0
+2019,desktop,webfonts/woff,0.0
+2019,desktop,subtype,0.0
+2019,desktop,type-woff,0.0
+2019,desktop,raleway-bold.woff,0.0
+2019,desktop,plan,0.0
+2019,desktop,roboto,0.0
+2019,desktop,woffs2,0.0
+2019,desktop,type1,0.0
+2019,desktop,font type,0.0
+2019,desktop,woof,0.0
+2019,mobile,fonts/woff,0.0
+2019,mobile,plan,0.0
+2019,mobile,hxd,0.0
+2019,mobile,woffs2,0.0
+2019,mobile,raleway-bold.woff,0.0
+2019,mobile,webopentype,0.0
+2019,mobile,fonstd-woff2,0.0
+2019,mobile,lato-bold-webfont,0.0
+2019,mobile,type-woff,0.0
+2019,mobile,"woff2""",0.0
+2019,mobile,roboto,0.0
+2019,mobile,html¡¯,0.0
+2019,mobile,download,0.0
+2019,mobile,webfonts/woff,0.0
+2019,desktop,truetype.ttf,0.0
+2019,desktop,a,0.0
+2019,desktop,new,0.0
+2019,desktop,stream,0.0
+2019,desktop,fonts/woff,0.0
+2019,desktop,"otf,entity.file.type",0.0
+2019,desktop,wolf2,0.0
+2019,desktop,webopenfont,0.0
+2019,desktop,html¡¯,0.0
+2019,desktop, style,0.0
+2019,desktop,helveticaneue,0.0
+2019,desktop,x-font-opentype,0.0
+2019,desktop,tex,0.0
+2019,desktop,font/otf,0.0
+2019,desktop,xwoff,0.0
+2019,desktop,font/x-woff,0.0
+2019,desktop,woff.woff,0.0
+2019,desktop,mywoff2,0.0
+2019,mobile,octet-stream\0font/woff,0.0
+2019,mobile,webopenfont,0.0
+2019,mobile,octet-stream\0font/woff2,0.0
+2019,mobile, style,0.0
+2019,mobile,wolf2,0.0
+2019,mobile,xwoff,0.0
+2019,mobile,"otf,entity.file.type",0.0
+2019,mobile,woff2\0font/x-woff2,0.0
+2019,mobile,subtype,0.0
+2019,mobile,fonstd-woff,0.0
+2019,mobile,style,0.0
+2019,mobile,application-x-woff2,0.0
+2019,desktop,application-x-woff2,0.0
+2019,desktop,front-woff2,0.0
+2019,desktop,ttf\0application/x-font-ttf,0.0
+2019,desktop,ttc,0.0
+2019,desktop,webfont-woff2,0.0
+2019,desktop,worff2,0.0
+2019,desktop,woffcontent-type,0.0
+2019,desktop,woff\0font/,0.0
+2019,desktop,axd,0.0
+2019,desktop, font-woff,0.0
+2019,desktop,"woff2,utf-8",0.0
+2019,desktop,perl,0.0
+2019,desktop,opentype2,0.0
+2019,desktop,worff,0.0
+2019,desktop,ocet-stream,0.0
+2019,desktop,woff%0d%0a,0.0
+2019,desktop,-woff2,0.0
+2019,desktop,css/font/otf,0.0
+2019,desktop,woff\0application/x-font-woff,0.0
+2019,desktop,wff,0.0
+2019,desktop,readme,0.0
+2019,desktop,x-wof,0.0
+2019,desktop,off2,0.0
+2019,desktop,octet_stream,0.0
+2019,desktop,openfont,0.0
+2019,desktop,"octet-stream,utf-8",0.0
+2019,desktop,text-html,0.0
+2019,desktop,octeit-stream,0.0
+2019,desktop,"opentype, application/x-font-otf, application/font-sfnt",0.0
+2019,mobile,opentype.,0.0
+2019,mobile,fwoff,0.0
+2019,mobile,ocet-stream,0.0
+2019,mobile,"woff2,utf-8",0.0
+2019,mobile,woff\0application/x-font-woff,0.0
+2019,mobile,x-wof,0.0
+2019,mobile,"opentype, application/x-font-otf, application/font-sfnt",0.0
+2019,mobile,worff,0.0
+2019,mobile,webfont-woff2,0.0
+2019,mobile,readme,0.0
+2019,mobile,-woff2,0.0
+2019,mobile,ttf\0application/x-font-ttf,0.0
+2019,mobile,woff2-font,0.0
+2019,mobile,octeit-stream,0.0
+2019,mobile,octer-stream,0.0
+2019,mobile,"octet-stream,utf-8",0.0
+2019,mobile,icon,0.0
+2019,mobile,text-html,0.0
+2019,mobile,wff,0.0
+2019,mobile, font-woff,0.0
+2019,mobile,openfont,0.0
+2019,mobile,css/font/otf,0.0
+2019,mobile,woff woff,0.0
+2019,mobile,helveticaneue,0.0
+2019,mobile,octet_stream,0.0
+2019,mobile,off2,0.0
+2019,mobile,woff-compressed,0.0
+2019,mobile,woff\0font/,0.0
+2019,mobile,ionicons.ttf,0.0
+2019,mobile,perl,0.0
+2019,mobile,fonts/myriadpro-regular,0.0
+2019,desktop,woffw,0.0
+2019,desktop,mojtype,0.0
+2019,desktop,woff ,0.0
+2019,desktop,ionicons.ttf,0.0
+2019,desktop,/www.gearwrench.com/skin/frontend/enterprise/gearwrench/fonts/helvetica/helvetica-condensed-webfont,0.0
+2019,desktop,octet-strream,0.0
+2019,desktop,fontawesome-webfont.woff2,0.0
+2019,desktop,untitled-font-1.woff,0.0
+2019,desktop,myriadpro-bold.woff2,0.0
+2019,desktop,woff  .woff2,0.0
+2019,desktop,plainm,0.0
+2019,desktop,"woff2, application/font-woff",0.0
+2019,desktop,fontawesome-webfont,0.0
+2019,desktop,opentype otf,0.0
+2019,desktop,fontawesome.otf,0.0
+2019,desktop,ico,0.0
+2019,desktop,vnd.ms-fontobjec,0.0
+2019,desktop,vnd.ms-fontobject .eot,0.0
+2019,desktop,"woff,entity.file.type",0.0
+2019,desktop,"woff,nosniff",0.0
+2019,desktop,raw,0.0
+2019,desktop,php,0.0
+2019,desktop,unix-directory,0.0
+2019,desktop,chdr,0.0
+2019,desktop,woff2â€‚â€‚â€‚â€‚â€‚â€‚â€‚â€‚â€‚â€‚,0.0
+2019,desktop,tar,0.0
+2019,desktop,msdownload,0.0
+2019,desktop, x-woff,0.0
+2019,desktop,ttf .ttf,0.0
+2019,desktop,mimetype,0.0
+2019,desktop,woff charset=utf-8,0.0
+2019,desktop,fnt,0.0
+2019,desktop,all,0.0
+2019,desktop,poseidon-layout/fonts/open-sans-v13-latin-300.woff2,0.0
+2019,desktop,"ttf, application/font-sfnt, application/x-font-truetype, application/x-font-ttf",0.0
+2019,desktop,"woff, application/font-woff",0.0
+2019,desktop,woff2 (proposed by w3c),0.0
+2019,desktop, fonts-woff2,0.0
+2019,desktop,woff2 charset=utf-8,0.0
+2019,desktop,fon-woff,0.0
+2019,desktop,font/opentype,0.0
+2019,desktop,byte-stream,0.0
+2019,desktop,woff2-font,0.0
+2019,desktop,octets-stream,0.0
+2019,desktop,woof2,0.0
+2019,desktop,c,0.0
+2019,desktop,condan,0.0
+2019,desktop,tarzan/themes/base/fonts/tarzan-twentieth-century/webfonts,0.0
+2019,desktop,asm,0.0
+2019,desktop,webopenfont2,0.0
+2019,desktop,wof2f,0.0
+2019,desktop,vnd.unknown.woff2,0.0
+2019,desktop,fwoff,0.0
+2019,desktop,doc,0.0
+2019,desktop,webfonts,0.0
+2019,desktop,html: charset=utf-8,0.0
+2019,desktop,new/css/fonts/gravuconreg.woff,0.0
+2019,desktop,s-fnt,0.0
+2019,desktop,"woff,100",0.0
+2019,desktop,css/font/ttf,0.0
+2019,desktop,vnd.novadigm.ext,0.0
+2019,desktop,nbg,0.0
+2019,desktop,octet-stream<br>accept-ranges: bytes,0.0
+2019,mobile,php,0.0
+2019,mobile,webm,0.0
+2019,mobile,condan,0.0
+2019,mobile,"ttf, application/font-sfnt, application/x-font-truetype, application/x-font-ttf",0.0
+2019,mobile,vnd.ms-fontobject .eot,0.0
+2019,mobile,"woff,100",0.0
+2019,mobile,ico,0.0
+2019,mobile,font/x-woff,0.0
+2019,mobile,html: charset=utf-8,0.0
+2019,mobile,raw,0.0
+2019,mobile,chdr,0.0
+2019,mobile,woff2â€‚â€‚â€‚â€‚â€‚â€‚â€‚â€‚â€‚â€‚,0.0
+2019,mobile,fontawesome.otf,0.0
+2019,mobile,octet-streamwoff,0.0
+2019,mobile,"octet-stream,charset=utf-8",0.0
+2019,mobile,webopenfont2,0.0
+2019,mobile,"woff2, application/font-woff",0.0
+2019,mobile,vnd.novadigm.ext,0.0
+2019,mobile,tar,0.0
+2019,mobile,font/otf,0.0
+2019,mobile,"woff, application/font-woff",0.0
+2019,mobile,fontawesome-webfont.woff2,0.0
+2019,mobile,woff  .woff2,0.0
+2019,mobile,a,0.0
+2019,mobile,s-fnt,0.0
+2019,mobile,plainm,0.0
+2019,mobile,woof2,0.0
+2019,mobile,mojtype,0.0
+2019,mobile,opentype2,0.0
+2019,mobile,octet-stream<br>accept-ranges: bytes,0.0
+2019,mobile,poseidon-layout/fonts/open-sans-v13-latin-300.woff2,0.0
+2019,mobile,/www.gearwrench.com/skin/frontend/enterprise/gearwrench/fonts/helvetica/helvetica-condensed-webfont,0.0
+2019,mobile,axd,0.0
+2019,mobile,css/font/ttf,0.0
+2019,mobile,woff.woff,0.0
+2019,mobile,ttc,0.0
+2019,mobile,mimetype,0.0
+2019,mobile,octets-stream,0.0
+2019,mobile,woff2 (proposed by w3c),0.0
+2019,mobile,myriadpro-bold.woff2,0.0
+2019,mobile,untitled-font-1.woff,0.0
+2019,mobile,octet-strream,0.0
+2019,mobile,fontawesome-webfont,0.0
+2019,mobile,wof2f,0.0
+2019,mobile,tarzan/themes/base/fonts/tarzan-twentieth-century/webfonts,0.0
+2019,mobile, x-woff,0.0
+2019,mobile,c,0.0
+2019,mobile,font/opentype,0.0
+2019,mobile,vnd.ms-fontobjec,0.0
+2019,mobile,nbg,0.0
+2019,mobile,"woff,entity.file.type",0.0
+2019,mobile,opentype otf,0.0
+2019,mobile,type,0.0
+2019,mobile,unix-directory,0.0
+2019,mobile,all,0.0
+2019,mobile,ttf .ttf,0.0
+2019,mobile, fonts-woff2,0.0
+2019,mobile,fnt,0.0
+2019,mobile,asm,0.0
+2019,mobile,fon-woff,0.0
+2019,mobile,byte-stream,0.0
+2019,mobile,woffw,0.0

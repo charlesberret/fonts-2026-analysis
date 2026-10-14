@@ -1,0 +1,9 @@
+year,client,format,proportion_request,proportion_unique
+2025,desktop,woff2,0.8235,0.6504
+2025,desktop,woff,0.0707,0.1597
+2025,desktop,octet-stream,0.0471,0.0665
+2025,desktop,ttf,0.0327,0.0667
+2025,mobile,woff2,0.8103,0.6525
+2025,mobile,woff,0.077,0.158
+2025,mobile,octet-stream,0.0501,0.0655
+2025,mobile,ttf,0.0354,0.0675

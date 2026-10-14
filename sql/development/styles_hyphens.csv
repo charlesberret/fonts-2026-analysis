@@ -1,0 +1,592 @@
+client,property,count,total,proportion
+desktop,hyphens: auto,765848,11628567,0.0659
+desktop,hyphens: none,373091,11628567,0.0321
+desktop,hyphens: manual,361573,11628567,0.0311
+desktop,hyphens: initial,6488,11628567,0.0006
+desktop,hyphens: unset,2538,11628567,0.0002
+desktop,hyphens: inherit,1530,11628567,0.0001
+desktop,hyphens: var(--button-hyphens),101,11628567,0.0
+desktop,hyphens: var(--content-body-hyphens),89,11628567,0.0
+desktop,hyphens: var(--headings-subheading-hyphens),88,11628567,0.0
+desktop,hyphens: var(--headings-heading-hyphens),88,11628567,0.0
+desktop,hyphens: var(--headings-title-hyphens),88,11628567,0.0
+desktop,hyphens: var(--footer-body-hyphens),78,11628567,0.0
+desktop,hyphens: var(--menu-main-hyphens),77,11628567,0.0
+desktop,hyphens: var(--menu-sub-hyphens),77,11628567,0.0
+desktop,hyphens: var(--header-body-hyphens),76,11628567,0.0
+desktop,hyphens: var(--pull-quote-hyphens),67,11628567,0.0
+desktop,"hyphens: var(--c7-tile-title-hyphens, none)",67,11628567,0.0
+desktop,hyphens: var(--h6-hyphens-default),59,11628567,0.0
+desktop,hyphens: var(--h3-hyphens-default),59,11628567,0.0
+desktop,hyphens: var(--p-hyphens-default),58,11628567,0.0
+desktop,hyphens: var(--h2-hyphens-default),58,11628567,0.0
+desktop,hyphens: var(--h4-hyphens-default),58,11628567,0.0
+desktop,hyphens: var(--h5-hyphens-default),58,11628567,0.0
+desktop,hyphens: var(--h1-hyphens-default),57,11628567,0.0
+desktop,hyphens: normal,52,11628567,0.0
+desktop,hyphens: break-all,51,11628567,0.0
+desktop,hyphens: ,36,11628567,0.0
+desktop,hyphens: var(--global-hyphens),26,11628567,0.0
+desktop,"hyphens: var(--h1-hyphens--mobile, none)",25,11628567,0.0
+desktop,hyphens: revert,24,11628567,0.0
+desktop,hyphens: var(--burger-menu-toplink-hyphens-default),23,11628567,0.0
+desktop,hyphens: var(--top-menu-link-hyphens-default),23,11628567,0.0
+desktop,hyphens: var(--highlight-button-text-1-hyphens-default),23,11628567,0.0
+desktop,hyphens: var(--marquee-hyphens-default),23,11628567,0.0
+desktop,hyphens: var(--burger-menu-sublink-hyphens-default),23,11628567,0.0
+desktop,hyphens: var(--mega-menu-title-hyphens-default),23,11628567,0.0
+desktop,hyphens: var(--sub-menu-link-hyphens-default),23,11628567,0.0
+desktop,hyphens: var(--highlight-button-text-2-hyphens-default),22,11628567,0.0
+desktop,hyphens: var(--header-mainmenu-hyphens),22,11628567,0.0
+desktop,hyphens: var(--header-site-title-hyphens),22,11628567,0.0
+desktop,hyphens: var(--nav-burgermenu-1-hyphens-normal),22,11628567,0.0
+desktop,hyphens: var(--footer-nav-hyphens-default),22,11628567,0.0
+desktop,hyphens: var(--sl-hyphens-default),20,11628567,0.0
+desktop,"hyphens: var(--ch-teaser-hyphen-mode,manual)",19,11628567,0.0
+desktop,hyphens: var(--hyphens),17,11628567,0.0
+desktop,hyphens: Auto,16,11628567,0.0
+desktop,hyphens: break-word,16,11628567,0.0
+desktop,"hyphens: var(--hypens, auto)",14,11628567,0.0
+desktop,hyphens: all,13,11628567,0.0
+desktop,hyphens: var(--h1-hyphens),12,11628567,0.0
+desktop,hyphens: var(--headings-heading-4-hyphens),12,11628567,0.0
+desktop,hyphens: var(--focus-area-hyphens),10,11628567,0.0
+desktop,hyphens: none !Important,10,11628567,0.0
+desktop,hyphens: var(--footer-hyphens),10,11628567,0.0
+desktop,hyphens: var(--h3-hyphens),10,11628567,0.0
+desktop,hyphens: var(--h2-hyphens),10,11628567,0.0
+desktop,hyphens: var(--content-submenu-hyphens),10,11628567,0.0
+desktop,"hyphens: var(--content-hyphens,none)",10,11628567,0.0
+desktop,hyphens: var(--blog-list-title-hyphens),10,11628567,0.0
+desktop,hyphens: var(--content-hyphens),10,11628567,0.0
+desktop,hyphens: var(--site-hyphens),10,11628567,0.0
+desktop,hyphens: var(--content-title-hyphens),10,11628567,0.0
+desktop,"hyphens: var(--menu-item-hyphens,none)",9,11628567,0.0
+desktop,hyphens: manual !Important,9,11628567,0.0
+desktop,hyphens: true,8,11628567,0.0
+desktop,hyphens: var(--overlay-title-hyphens),7,11628567,0.0
+desktop,hyphens: var(--onscreen-question-hyphens),7,11628567,0.0
+desktop,hyphens: var(--overlay-hyphens),7,11628567,0.0
+desktop,hyphens: var(--overlay-sequence-hyphens),7,11628567,0.0
+desktop,hyphens: var(--overlay-description-hyphens),7,11628567,0.0
+desktop,hyphens: var(--choice-hyphens),7,11628567,0.0
+desktop,hyphens: var(--chat-message-hyphens),6,11628567,0.0
+desktop,hyphens: var(--h-16-1Wdy7T),5,11628567,0.0
+desktop,hyphens: no,5,11628567,0.0
+desktop,hyphens: var(--h-27-1bFlFs),5,11628567,0.0
+desktop,"hyphens: var(--b-hyphens, auto)",5,11628567,0.0
+desktop,hyphens: var(--hyphens-style),5,11628567,0.0
+desktop,hyphens: auto-flow,4,11628567,0.0
+desktop,"hyphens: var(--heading-hyphens,var(--all-hyphens,manual))",4,11628567,0.0
+desktop,hyphens: auto ! important,4,11628567,0.0
+desktop,hyphens: auto !Important,4,11628567,0.0
+desktop,hyphens: false,4,11628567,0.0
+desktop,hyphens: manuel,4,11628567,0.0
+desktop,hyphens: var(--base-heading-hyphens),4,11628567,0.0
+desktop,hyphens: var(--error-message-login-hyphens),4,11628567,0.0
+desktop,hyphens: 100%,4,11628567,0.0
+desktop,hyphens: var(--error-message-header-hyphens),4,11628567,0.0
+desktop,hyphens: none ! important,4,11628567,0.0
+desktop,"hyphens: var(--all-hyphens,manual)",4,11628567,0.0
+desktop,hyphens: none !important,4,11628567,0.0
+desktop,hyphens: 100px,4,11628567,0.0
+desktop,hyphens: var(--burger-menu-desktop-sublink-hyphens-default),4,11628567,0.0
+desktop,"hyphens: ""auto""",4,11628567,0.0
+desktop,hyphens: var(--burger-menu-desktop-toplink-hyphens-default),4,11628567,0.0
+desktop,hyphens: ato,3,11628567,0.0
+desktop,hyphens: 'none',3,11628567,0.0
+desktop,"hyphens: var(--page-wrapper-hyphens, auto)",3,11628567,0.0
+desktop,hyphens: var(--blockTableThHyphens),3,11628567,0.0
+desktop,hyphens: var(--title-hyphens),3,11628567,0.0
+desktop,hyphens: var(--hyphenation),3,11628567,0.0
+desktop,hyphens: var(--ei10-global-hyphens),3,11628567,0.0
+desktop,"hyphens: var(--h2-font-hyphens, auto)",3,11628567,0.0
+desktop,"hyphens: var(--h1-font-hyphens, auto)",3,11628567,0.0
+desktop,hyphens: var(--SiteNavItemBodyHyphens),3,11628567,0.0
+desktop,"hyphens: var(--h3-font-hyphens, auto)",3,11628567,0.0
+desktop,hyphens: none!importantimportant,3,11628567,0.0
+desktop,hyphens: overflow,2,11628567,0.0
+desktop,hyphens: auto 2,2,11628567,0.0
+desktop,hyphens: 30px,2,11628567,0.0
+desktop,hyphens: 350px,2,11628567,0.0
+desktop,hyphens: var(--highlightsmall-hyphens-default),2,11628567,0.0
+desktop,hyphens: var(--tycfnlh-0),2,11628567,0.0
+desktop,"hyphens: var(--szde-mosaik-teaser-headline-hyphens, manual)",2,11628567,0.0
+desktop,hyphens: 45px,2,11628567,0.0
+desktop,"hyphens: var(--h1-hyphens, var(--h-hyphens, manual))",2,11628567,0.0
+desktop,"hyphens: var(--h4-hyphens, var(--h-hyphens, manual))",2,11628567,0.0
+desktop,hyphens: var(--tag-hyphens-default),2,11628567,0.0
+desktop,hyphens: var(--bl-hyphens-default),2,11628567,0.0
+desktop,hyphens: var(--body-hyphens),2,11628567,0.0
+desktop,"hyphens: var(--h5-hyphens, var(--h-hyphens, manual))",2,11628567,0.0
+desktop,"hyphens: var(--pwd--hyphens,auto)",2,11628567,0.0
+desktop,"hyphens: none,-webkit-hyphens:none",2,11628567,0.0
+desktop,hyphens: automatic,2,11628567,0.0
+desktop,"hyphens: var(--h6-hyphens, var(--h-hyphens, manual))",2,11628567,0.0
+desktop,hyphens: var(--burger-menu-infobar-hyphens-default),2,11628567,0.0
+desktop,hyphens: var(--map-overview-classic-label-narrow-hyphens),2,11628567,0.0
+desktop,hyphens: var(--htag-hyphens-default),2,11628567,0.0
+desktop,"hyphens: ""..""",2,11628567,0.0
+desktop,hyphens: None,2,11628567,0.0
+desktop,hyphens: var(--breaker-hyphens-default),2,11628567,0.0
+desktop,"hyphens: var(--h3-hyphens, var(--h-hyphens, manual))",2,11628567,0.0
+desktop,hyphens: 0,2,11628567,0.0
+desktop,hyphens: nowrap,2,11628567,0.0
+desktop,hyphens: none | manual | auto,2,11628567,0.0
+desktop,hyphens: var(--teaser-hyphens),2,11628567,0.0
+desktop,hyphens: none! important,2,11628567,0.0
+desktop,hyphens: NONE,2,11628567,0.0
+desktop,"hyphens: var(--paragraph-hyphens,none)",2,11628567,0.0
+desktop,hyphens: a,2,11628567,0.0
+desktop,hyphens: var(--ps-hyphens-default),2,11628567,0.0
+desktop,hyphens: always,2,11628567,0.0
+desktop,hyphens: var(--rf10-popup-global-hyphens),2,11628567,0.0
+desktop,"hyphens: var(--h2-hyphens, var(--h-hyphens, manual))",2,11628567,0.0
+desktop,"hyphens: var(--teaser-headline-hyphens, auto)",2,11628567,0.0
+desktop,hyphens: var(--hl-hyphens),2,11628567,0.0
+desktop,hyphens: on,2,11628567,0.0
+desktop,hyphens: var(--text-hyphenation),1,11628567,0.0
+desktop,"hyphens: var(--paragraph-hyphens,unset)",1,11628567,0.0
+desktop,hyphens: disable,1,11628567,0.0
+desktop,hyphens: manuall,1,11628567,0.0
+desktop,hyphens: auto line-height:1.2em,1,11628567,0.0
+desktop,hyphens: off,1,11628567,0.0
+desktop,hyphens: var(--headline-3-hyphens),1,11628567,0.0
+desktop,"hyphens: var(--heading-hyphens, none)",1,11628567,0.0
+desktop,hyphens: 80%,1,11628567,0.0
+desktop,"hyphens: var(--section-element-title-hyphens, manual)",1,11628567,0.0
+desktop,hyphens: var(--h3-font-2-hyphens-default),1,11628567,0.0
+desktop,"hyphens: var(--section-header-title-hyphens, var(--headers-hyphens))",1,11628567,0.0
+desktop,"hyphens: var(--ctd-rich-text-child-hyphens, auto)",1,11628567,0.0
+desktop,hyphens: var(--env-custom-hyphens),1,11628567,0.0
+desktop,hyphens: var(--subline-hyphens-default),1,11628567,0.0
+desktop,hyphens: var(--hf-hyphens-default),1,11628567,0.0
+desktop,"hyphens: auto,width:30%",1,11628567,0.0
+desktop,hyphens: var(--sp-hyphens-default),1,11628567,0.0
+desktop,"hyphens: var(--Button-hyphens,auto)",1,11628567,0.0
+desktop,hyphens: auto -webkit-hyphens:auto,1,11628567,0.0
+desktop,hyphens: var(--heading-4-hyphens),1,11628567,0.0
+desktop,hyphens: var(--hagebau-small-hyphens-default),1,11628567,0.0
+desktop,"hyphens: var(--jsidea-hyphens--mobile , var(--jsidea-hyphens--landscape, var(--jsidea-hyphens--tablet, var(--jsidea-hyphens--desktop, inherit))))",1,11628567,0.0
+desktop,hyphens: var(--headline-4-hyphens),1,11628567,0.0
+desktop,hyphens: auto */,1,11628567,0.0
+desktop,hyphens: var(--heading-2-hyphens),1,11628567,0.0
+desktop,hyphens: autok,1,11628567,0.0
+desktop,hyphens: var(--header-content-hyphens),1,11628567,0.0
+desktop,hyphens: var(--h-6-5P3Cr),1,11628567,0.0
+desktop,"hyphens: var(--headline-hyphens,unset)",1,11628567,0.0
+desktop,"hyphens: var(--typography-hyphens, none)",1,11628567,0.0
+desktop,"hyphens: var(--pformright-forminput-hyphen, inherit)",1,11628567,0.0
+desktop,hyphens: var(--breaker-heading-hyphens-default),1,11628567,0.0
+desktop,hyphens: AUTO,1,11628567,0.0
+desktop,hyphens: inherit !IMPORTANT,1,11628567,0.0
+desktop,hyphens: var(--img-box-main-hyphens),1,11628567,0.0
+desktop,hyphens: var(--special-heading-hyphens-default),1,11628567,0.0
+desktop,"hyphens: var(--every-text-paragraph-hyphens,none)",1,11628567,0.0
+desktop,hyphens: 300px,1,11628567,0.0
+desktop,"hyphens: var(--intro-hyphens, manual)",1,11628567,0.0
+desktop,hyphens: none -moz-hyphens: none,1,11628567,0.0
+desktop,"hyphens: var(--pformstrip-forminput-hyphen, inherit)",1,11628567,0.0
+desktop,hyphens: 600px,1,11628567,0.0
+desktop,hyphens: hyphen,1,11628567,0.0
+desktop,hyphens: var(--p-bold-hyphens-default),1,11628567,0.0
+desktop,hyphens: var(--text-hyphens),1,11628567,0.0
+desktop,"hyphens: var(--headline-hyphens,auto)",1,11628567,0.0
+desktop,hyphens: 18px margin-right: 5px,1,11628567,0.0
+desktop,hyphens: auto /* Silbentrennung in der Pipeline an */,1,11628567,0.0
+desktop,hyphens: autp,1,11628567,0.0
+desktop,"hyphens: var(--jsidea-hyphens--desktop, inherit)",1,11628567,0.0
+desktop,hyphens: none/*,1,11628567,0.0
+desktop,hyphens: non,1,11628567,0.0
+desktop,"hyphens: var(--tester-hyphens,none)",1,11628567,0.0
+desktop,hyphens: var(--heading-1-hyphens),1,11628567,0.0
+desktop,hyphens: var(--p-medium-hyphens-default),1,11628567,0.0
+desktop,hyphens: /*none*/unset,1,11628567,0.0
+desktop,hyphens: var(--p-small-hyphens-default),1,11628567,0.0
+desktop,hyphens: none!important,1,11628567,0.0
+desktop,"hyphens: var(--pformright-before-hyphen, inherit)",1,11628567,0.0
+desktop,hyphens: var(--h3-word-switch-hyphens-default),1,11628567,0.0
+desktop,hyphens: hard,1,11628567,0.0
+desktop,hyphens: word-wrap,1,11628567,0.0
+desktop,hyphens: var(--headline-1-hyphens),1,11628567,0.0
+desktop,"hyphens: var(--typography-hyphens,none)",1,11628567,0.0
+desktop,hyphens: one,1,11628567,0.0
+desktop,hyphens: var(--product-title-hyphens),1,11628567,0.0
+desktop,hyphens: var(--tone-hyphenation),1,11628567,0.0
+desktop,hyphens: manual !important margin: 0,1,11628567,0.0
+desktop,"hyphens: var(--jsidea-hyphens--landscape , var(--jsidea-hyphens--tablet, var(--jsidea-hyphens--desktop, inherit)))",1,11628567,0.0
+desktop,"hyphens: var(--lists-hyphens,auto)",1,11628567,0.0
+desktop,"hyphens: var(--pformleft-after-hyphen, inherit)",1,11628567,0.0
+desktop,"hyphens: var(--pformleft-hyphen, inherit)",1,11628567,0.0
+desktop,hyphens: word,1,11628567,0.0
+desktop,"hyphens: var(--pformright-after-hyphen, inherit)",1,11628567,0.0
+desktop,hyphens: var(--editor-hyphens),1,11628567,0.0
+desktop,hyphens: no-hyphens,1,11628567,0.0
+desktop,"hyphens: var(--grid-hyphens,auto)",1,11628567,0.0
+desktop,hyphens: var(--text-xs-hyphens-default),1,11628567,0.0
+desktop,hyphens: var(--highlight-hyphens-default),1,11628567,0.0
+desktop,hyphens: none\9,1,11628567,0.0
+desktop,"hyphens: var(--pform-el-1-hyphen, inherit)",1,11628567,0.0
+desktop,"hyphens: var(--heading-hyphens, auto)",1,11628567,0.0
+desktop,hyphens: mannual,1,11628567,0.0
+desktop,hyphens: var(--font-title-xl-hyphens),1,11628567,0.0
+desktop,hyphens: Initial,1,11628567,0.0
+desktop,hyphens: -webkit-hyphens: auto,1,11628567,0.0
+desktop,hyphens: var(--hero-info-title-hyphens),1,11628567,0.0
+desktop,hyphens: auto !important!,1,11628567,0.0
+desktop,hyphens: var(--h4-h5-hyphens-default),1,11628567,0.0
+desktop,"hyphens: var(--pformleft-label-before-hyphen, inherit)",1,11628567,0.0
+desktop,"hyphens: var(--p-hyphens, auto)",1,11628567,0.0
+desktop,hyphens: none!imprtant,1,11628567,0.0
+desktop,"hyphens: var(--pformleft-before-hyphen, inherit)",1,11628567,0.0
+desktop,"hyphens: var(--p-hyphens,auto)",1,11628567,0.0
+desktop,"hyphens: var(--pformright-hyphen, inherit)",1,11628567,0.0
+desktop,hyphens: auto:,1,11628567,0.0
+desktop,"hyphens: var(--pformleft-label-after-hyphen, inherit)",1,11628567,0.0
+desktop,hyphens: var(--h1-h2-hyphens-default),1,11628567,0.0
+desktop,hyphens: auto text-align: justify,1,11628567,0.0
+desktop,hyphens: var(--ams-hyphenation-hyphens),1,11628567,0.0
+desktop,"hyphens: var(--heading-hyphens,none)",1,11628567,0.0
+desktop,hyphens: none important!,1,11628567,0.0
+desktop,"hyphens: var(--headline-hyphens,manual)",1,11628567,0.0
+desktop,hyphens: var(--headline-2-hyphens),1,11628567,0.0
+desktop,hyphens: 3,1,11628567,0.0
+desktop,"hyphens: var(--pform-el-2-hyphen, inherit)",1,11628567,0.0
+desktop,hyphens: var(--p-big-hyphens-default),1,11628567,0.0
+desktop,"hyphens: var(--hyphens,auto)",1,11628567,0.0
+desktop,hyphens: visible,1,11628567,0.0
+desktop,hyphens: var(--product-description-hyphens),1,11628567,0.0
+desktop,hyphens: @mode,1,11628567,0.0
+desktop,hyphens: auto margin: 0,1,11628567,0.0
+desktop,"hyphens: var(--pformstrip-after-hyphen, inherit)",1,11628567,0.0
+desktop,hyphens: 50%,1,11628567,0.0
+desktop,"hyphens: var(--pformleft-label-hyphen, inherit)",1,11628567,0.0
+desktop,hyphens: var(--hagebau-large-hyphens-default),1,11628567,0.0
+desktop,hyphens: var(--slider-hyphens-default),1,11628567,0.0
+desktop,hyphens: var(--_1jpioc47),1,11628567,0.0
+desktop,"hyphens: var(--hyphens, manual)",1,11628567,0.0
+desktop,hyphens: var(--er-justify-hyphens),1,11628567,0.0
+desktop,hyphens: var(--scipio-hyphens),1,11628567,0.0
+desktop,hyphens: var(--p2-hyphens-default),1,11628567,0.0
+desktop,hyphens: none important,1,11628567,0.0
+desktop,"hyphens: var(--pformstrip-before-hyphen, inherit)",1,11628567,0.0
+desktop,hyphens: keep-all,1,11628567,0.0
+desktop,hyphens: var(--h2-word-switch-hyphens-default),1,11628567,0.0
+desktop,hyphens: auto!Important,1,11628567,0.0
+desktop,hyphens: 1.6rem,1,11628567,0.0
+desktop,hyphens: var(--heading-3-hyphens),1,11628567,0.0
+desktop,"hyphens: ""manual""",1,11628567,0.0
+desktop,hyphens: var(--h2-font-2-hyphens-default),1,11628567,0.0
+desktop,hyphens: var(--hintro-hyphens-default),1,11628567,0.0
+desktop,hyphens: var(--h7-hyphens-default),1,11628567,0.0
+desktop,hyphens: 75px,1,11628567,0.0
+desktop,hyphens: '-',1,11628567,0.0
+desktop,hyphens: var(--wp--custom--eeca--title--hyphens),1,11628567,0.0
+desktop,hyphens: var(--headers-hyphens),1,11628567,0.0
+desktop,"hyphens: var(--jsidea-hyphens--tablet , var(--jsidea-hyphens--desktop, inherit))",1,11628567,0.0
+desktop,hyphens: none!Important,1,11628567,0.0
+desktop,"hyphens: var(--pformstrip-hyphen, inherit)",1,11628567,0.0
+desktop,hyphens: var(--headline-hyphens),1,11628567,0.0
+mobile,hyphens: auto,984584,15539089,0.0634
+mobile,hyphens: manual,468461,15539089,0.0301
+mobile,hyphens: none,460226,15539089,0.0296
+mobile,hyphens: initial,8648,15539089,0.0006
+mobile,hyphens: unset,3438,15539089,0.0002
+mobile,hyphens: inherit,1787,15539089,0.0001
+mobile,"hyphens: var(--c7-tile-title-hyphens, none)",151,15539089,0.0
+mobile,hyphens: var(--button-hyphens),117,15539089,0.0
+mobile,hyphens: var(--content-body-hyphens),101,15539089,0.0
+mobile,hyphens: var(--headings-subheading-hyphens),100,15539089,0.0
+mobile,hyphens: var(--headings-heading-hyphens),100,15539089,0.0
+mobile,hyphens: var(--headings-title-hyphens),100,15539089,0.0
+mobile,hyphens: var(--footer-body-hyphens),89,15539089,0.0
+mobile,hyphens: var(--menu-sub-hyphens),88,15539089,0.0
+mobile,hyphens: var(--menu-main-hyphens),88,15539089,0.0
+mobile,hyphens: var(--header-body-hyphens),87,15539089,0.0
+mobile,hyphens: var(--h6-hyphens-default),76,15539089,0.0
+mobile,hyphens: var(--h3-hyphens-default),76,15539089,0.0
+mobile,hyphens: var(--h4-hyphens-default),75,15539089,0.0
+mobile,hyphens: var(--h2-hyphens-default),75,15539089,0.0
+mobile,hyphens: var(--p-hyphens-default),75,15539089,0.0
+mobile,hyphens: var(--h5-hyphens-default),75,15539089,0.0
+mobile,hyphens: var(--h1-hyphens-default),74,15539089,0.0
+mobile,hyphens: break-all,66,15539089,0.0
+mobile,hyphens: normal,65,15539089,0.0
+mobile,"hyphens: var(--h1-hyphens--mobile, none)",44,15539089,0.0
+mobile,hyphens: ,40,15539089,0.0
+mobile,hyphens: break-word,38,15539089,0.0
+mobile,hyphens: var(--burger-menu-sublink-hyphens-default),31,15539089,0.0
+mobile,hyphens: revert,31,15539089,0.0
+mobile,hyphens: var(--highlight-button-text-1-hyphens-default),31,15539089,0.0
+mobile,hyphens: var(--burger-menu-toplink-hyphens-default),31,15539089,0.0
+mobile,hyphens: var(--sub-menu-link-hyphens-default),30,15539089,0.0
+mobile,hyphens: var(--top-menu-link-hyphens-default),30,15539089,0.0
+mobile,hyphens: var(--highlight-button-text-2-hyphens-default),30,15539089,0.0
+mobile,hyphens: var(--mega-menu-title-hyphens-default),30,15539089,0.0
+mobile,hyphens: var(--marquee-hyphens-default),29,15539089,0.0
+mobile,"hyphens: var(--menu-item-hyphens,none)",29,15539089,0.0
+mobile,hyphens: var(--footer-nav-hyphens-default),28,15539089,0.0
+mobile,hyphens: var(--sl-hyphens-default),28,15539089,0.0
+mobile,hyphens: var(--nav-burgermenu-1-hyphens-normal),28,15539089,0.0
+mobile,hyphens: var(--header-site-title-hyphens),27,15539089,0.0
+mobile,hyphens: var(--header-mainmenu-hyphens),27,15539089,0.0
+mobile,"hyphens: var(--ch-teaser-hyphen-mode,manual)",22,15539089,0.0
+mobile,hyphens: Auto,21,15539089,0.0
+mobile,hyphens: manual !Important,20,15539089,0.0
+mobile,"hyphens: var(--hypens, auto)",19,15539089,0.0
+mobile,hyphens: var(--h1-hyphens),16,15539089,0.0
+mobile,hyphens: var(--content-title-hyphens),14,15539089,0.0
+mobile,hyphens: var(--focus-area-hyphens),14,15539089,0.0
+mobile,hyphens: var(--site-hyphens),14,15539089,0.0
+mobile,hyphens: var(--footer-hyphens),14,15539089,0.0
+mobile,hyphens: var(--blog-list-title-hyphens),14,15539089,0.0
+mobile,hyphens: var(--h3-hyphens),14,15539089,0.0
+mobile,hyphens: var(--h2-hyphens),14,15539089,0.0
+mobile,hyphens: var(--content-submenu-hyphens),14,15539089,0.0
+mobile,hyphens: var(--content-hyphens),14,15539089,0.0
+mobile,hyphens: var(--headings-heading-4-hyphens),13,15539089,0.0
+mobile,hyphens: var(--global-hyphens),13,15539089,0.0
+mobile,hyphens: all,13,15539089,0.0
+mobile,hyphens: var(--pull-quote-hyphens),13,15539089,0.0
+mobile,hyphens: keep-all,11,15539089,0.0
+mobile,hyphens: none !Important,11,15539089,0.0
+mobile,hyphens: var(--error-message-header-hyphens),10,15539089,0.0
+mobile,hyphens: var(--hyphens),10,15539089,0.0
+mobile,hyphens: var(--error-message-login-hyphens),10,15539089,0.0
+mobile,"hyphens: var(--content-hyphens,none)",9,15539089,0.0
+mobile,hyphens: true,8,15539089,0.0
+mobile,hyphens: var(--overlay-sequence-hyphens),8,15539089,0.0
+mobile,hyphens: var(--overlay-description-hyphens),8,15539089,0.0
+mobile,hyphens: var(--overlay-hyphens),8,15539089,0.0
+mobile,hyphens: var(--overlay-title-hyphens),8,15539089,0.0
+mobile,hyphens: var(--onscreen-question-hyphens),8,15539089,0.0
+mobile,hyphens: var(--choice-hyphens),8,15539089,0.0
+mobile,"hyphens: var(--b-hyphens, auto)",7,15539089,0.0
+mobile,hyphens: var(--hyphens-style),6,15539089,0.0
+mobile,hyphens: no,6,15539089,0.0
+mobile,"hyphens: ""auto""",5,15539089,0.0
+mobile,hyphens: 100%,5,15539089,0.0
+mobile,hyphens: var(--h-27-1bFlFs),4,15539089,0.0
+mobile,hyphens: var(--burger-menu-desktop-sublink-hyphens-default),4,15539089,0.0
+mobile,hyphens: auto-flow,4,15539089,0.0
+mobile,hyphens: none !important,4,15539089,0.0
+mobile,hyphens: none!importantimportant,4,15539089,0.0
+mobile,hyphens: auto ! important,4,15539089,0.0
+mobile,hyphens: auto !Important,4,15539089,0.0
+mobile,hyphens: none ! important,4,15539089,0.0
+mobile,hyphens: var(--burger-menu-desktop-toplink-hyphens-default),4,15539089,0.0
+mobile,hyphens: var(--h-16-1Wdy7T),4,15539089,0.0
+mobile,hyphens: none | manual | auto,4,15539089,0.0
+mobile,hyphens: var(--blockTableThHyphens),4,15539089,0.0
+mobile,hyphens: manuel,4,15539089,0.0
+mobile,hyphens: var(--base-heading-hyphens),4,15539089,0.0
+mobile,hyphens: nowrap,4,15539089,0.0
+mobile,"hyphens: var(--heading-hyphens,var(--all-hyphens,manual))",3,15539089,0.0
+mobile,hyphens: 0,3,15539089,0.0
+mobile,"hyphens: var(--h2-font-hyphens, auto)",3,15539089,0.0
+mobile,hyphens: NONE,3,15539089,0.0
+mobile,"hyphens: var(--h1-font-hyphens, auto)",3,15539089,0.0
+mobile,"hyphens: var(--all-hyphens,manual)",3,15539089,0.0
+mobile,hyphens: var(--map-overview-classic-label-narrow-hyphens),3,15539089,0.0
+mobile,hyphens: ato,3,15539089,0.0
+mobile,hyphens: var(--hyphenation),3,15539089,0.0
+mobile,hyphens: 'none',3,15539089,0.0
+mobile,hyphens: false,3,15539089,0.0
+mobile,hyphens: 3,3,15539089,0.0
+mobile,hyphens: 100px,3,15539089,0.0
+mobile,"hyphens: var(--page-wrapper-hyphens, auto)",3,15539089,0.0
+mobile,hyphens: var(--ei10-global-hyphens),3,15539089,0.0
+mobile,"hyphens: var(--h3-font-hyphens, auto)",3,15539089,0.0
+mobile,hyphens: autol,3,15539089,0.0
+mobile,hyphens: var(--SiteNavItemBodyHyphens),3,15539089,0.0
+mobile,"hyphens: var(--h2-hyphens, var(--h-hyphens, manual))",2,15539089,0.0
+mobile,hyphens: auto!Important,2,15539089,0.0
+mobile,hyphens: var(--p-big-hyphens-default),2,15539089,0.0
+mobile,"hyphens: var(--jsidea-hyphens--tablet , var(--jsidea-hyphens--desktop, inherit))",2,15539089,0.0
+mobile,"hyphens: var(--h4-hyphens, var(--h-hyphens, manual))",2,15539089,0.0
+mobile,"hyphens: var(--jsidea-hyphens--mobile , var(--jsidea-hyphens--landscape, var(--jsidea-hyphens--tablet, var(--jsidea-hyphens--desktop, inherit))))",2,15539089,0.0
+mobile,hyphens: none/*,2,15539089,0.0
+mobile,hyphens: var(--tycfnlh-0),2,15539089,0.0
+mobile,hyphens: auto 2,2,15539089,0.0
+mobile,"hyphens: var(--szde-mosaik-teaser-headline-hyphens, manual)",2,15539089,0.0
+mobile,hyphens: automatic,2,15539089,0.0
+mobile,"hyphens: var(--paragraph-hyphens,none)",2,15539089,0.0
+mobile,"hyphens: var(--h5-hyphens, var(--h-hyphens, manual))",2,15539089,0.0
+mobile,"hyphens: var(--pwd--hyphens,auto)",2,15539089,0.0
+mobile,hyphens: 250px,2,15539089,0.0
+mobile,"hyphens: var(--jsidea-hyphens--landscape , var(--jsidea-hyphens--tablet, var(--jsidea-hyphens--desktop, inherit)))",2,15539089,0.0
+mobile,hyphens: 45px,2,15539089,0.0
+mobile,"hyphens: var(--h6-hyphens, var(--h-hyphens, manual))",2,15539089,0.0
+mobile,hyphens: var(--htag-hyphens-default),2,15539089,0.0
+mobile,hyphens: var(--highlightsmall-hyphens-default),2,15539089,0.0
+mobile,hyphens: a,2,15539089,0.0
+mobile,"hyphens: var(--jsidea-hyphens--desktop, inherit)",2,15539089,0.0
+mobile,hyphens: var(--bl-hyphens-default),2,15539089,0.0
+mobile,hyphens: None,2,15539089,0.0
+mobile,hyphens: var(--breaker-hyphens-default),2,15539089,0.0
+mobile,hyphens: var(--burger-menu-infobar-hyphens-default),2,15539089,0.0
+mobile,hyphens: always,2,15539089,0.0
+mobile,hyphens: on,2,15539089,0.0
+mobile,"hyphens: var(--heading-hyphens, none)",2,15539089,0.0
+mobile,"hyphens: var(--h3-hyphens, var(--h-hyphens, manual))",2,15539089,0.0
+mobile,"hyphens: var(--h1-hyphens, var(--h-hyphens, manual))",2,15539089,0.0
+mobile,hyphens: var(--tag-hyphens-default),2,15539089,0.0
+mobile,hyphens: 350px,2,15539089,0.0
+mobile,hyphens: var(--body-hyphens),2,15539089,0.0
+mobile,"hyphens: var(--teaser-headline-hyphens, auto)",2,15539089,0.0
+mobile,hyphens: var(--hl-hyphens),2,15539089,0.0
+mobile,hyphens: none! important,2,15539089,0.0
+mobile,hyphens: var(--rf10-popup-global-hyphens),2,15539089,0.0
+mobile,hyphens: overflow,2,15539089,0.0
+mobile,hyphens: 0 auto,2,15539089,0.0
+mobile,hyphens: var(--ps-hyphens-default),2,15539089,0.0
+mobile,hyphens: var(--subline-hyphens-default),1,15539089,0.0
+mobile,hyphens: auto !important!,1,15539089,0.0
+mobile,hyphens: none important,1,15539089,0.0
+mobile,"hyphens: var(--heading-hyphens,none)",1,15539089,0.0
+mobile,hyphens: var(--product-title-hyphens),1,15539089,0.0
+mobile,hyphens: 75px,1,15539089,0.0
+mobile,hyphens: none!important,1,15539089,0.0
+mobile,hyphens: auto:,1,15539089,0.0
+mobile,"hyphens: var(--p-hyphens,auto)",1,15539089,0.0
+mobile,"hyphens: var(--pformleft-before-hyphen, inherit)",1,15539089,0.0
+mobile,hyphens: none !IMPORTANT,1,15539089,0.0
+mobile,"hyphens: var(--pformleft-after-hyphen, inherit)",1,15539089,0.0
+mobile,hyphens: 50px,1,15539089,0.0
+mobile,hyphens: one,1,15539089,0.0
+mobile,"hyphens: var(--every-text-paragraph-hyphens,none)",1,15539089,0.0
+mobile,hyphens: 80px,1,15539089,0.0
+mobile,hyphens: var(--headline-3-hyphens),1,15539089,0.0
+mobile,hyphens: var(--heading-2-hyphens),1,15539089,0.0
+mobile,hyphens: auto line-height:1.2em,1,15539089,0.0
+mobile,hyphens: var(--h4-h5-hyphens-default),1,15539089,0.0
+mobile,hyphens: var(--text-hyphenation),1,15539089,0.0
+mobile,hyphens: var(--jsidea-hyphens--tablet),1,15539089,0.0
+mobile,hyphens: AUTO,1,15539089,0.0
+mobile,hyphens: inherit !IMPORTANT,1,15539089,0.0
+mobile,hyphens: var(--headline-4-hyphens),1,15539089,0.0
+mobile,hyphens: var(--h1-h2-hyphens-default),1,15539089,0.0
+mobile,"hyphens: var(--pformstrip-before-hyphen, inherit)",1,15539089,0.0
+mobile,hyphens: auton,1,15539089,0.0
+mobile,hyphens: var(--_1jpioc47),1,15539089,0.0
+mobile,hyphens: var(--slider-hyphens-default),1,15539089,0.0
+mobile,hyphens: none !important:,1,15539089,0.0
+mobile,hyphens: var(--text-xs-hyphens-default),1,15539089,0.0
+mobile,hyphens: auto */,1,15539089,0.0
+mobile,hyphens: var(--title-hyphens),1,15539089,0.0
+mobile,hyphens: var(--env-custom-hyphens),1,15539089,0.0
+mobile,hyphens: 400px,1,15539089,0.0
+mobile,hyphens: var(--header-content-hyphens),1,15539089,0.0
+mobile,"hyphens: var(--headline-hyphens,unset)",1,15539089,0.0
+mobile,hyphens: var(--text-hyphens--default),1,15539089,0.0
+mobile,hyphens: @mode,1,15539089,0.0
+mobile,hyphens: var(--btw-hyphens-locale),1,15539089,0.0
+mobile,hyphens: var(--hf-hyphens-default),1,15539089,0.0
+mobile,hyphens: autok,1,15539089,0.0
+mobile,"hyphens: var(--hyphens, manual)",1,15539089,0.0
+mobile,hyphens: var(--p2-hyphens-default),1,15539089,0.0
+mobile,hyphens: auto none,1,15539089,0.0
+mobile,hyphens: var(--sp-hyphens-default),1,15539089,0.0
+mobile,"hyphens: var(--typography-hyphens, none)",1,15539089,0.0
+mobile,"hyphens: auto,",1,15539089,0.0
+mobile,hyphens: var(--wp--custom--eeca--title--hyphens),1,15539089,0.0
+mobile,hyphens: var(--h-h5yphens-default),1,15539089,0.0
+mobile,hyphens: none\9,1,15539089,0.0
+mobile,hyphens: none!imprtant,1,15539089,0.0
+mobile,hyphens: var(--special-heading-hyphens-default),1,15539089,0.0
+mobile,hyphens: manunal,1,15539089,0.0
+mobile,"hyphens: var(--grid-hyphens,auto)",1,15539089,0.0
+mobile,hyphens: var(--bm-hyphens),1,15539089,0.0
+mobile,hyphens: auto -webkit-hyphens:auto,1,15539089,0.0
+mobile,hyphens: 1.6rem,1,15539089,0.0
+mobile,hyphens: manua,1,15539089,0.0
+mobile,hyphens: none!Important,1,15539089,0.0
+mobile,hyphens: 18px margin-right: 5px,1,15539089,0.0
+mobile,hyphens: var(--headline-hyphens),1,15539089,0.0
+mobile,"hyphens: var(--typography-hyphens,none)",1,15539089,0.0
+mobile,hyphens: var(--heading-4-hyphens),1,15539089,0.0
+mobile,hyphens: var(--p-hyphens),1,15539089,0.0
+mobile,hyphens: hard,1,15539089,0.0
+mobile,hyphens: -moz-hyphens: auto,1,15539089,0.0
+mobile,hyphens: var(--tone-hyphenation),1,15539089,0.0
+mobile,"hyphens: var(--pformleft-hyphen, inherit)",1,15539089,0.0
+mobile,hyphens: /*none*/unset,1,15539089,0.0
+mobile,hyphens: word-wrap,1,15539089,0.0
+mobile,hyphens: var(--headline-2-hyphens),1,15539089,0.0
+mobile,hyphens: var(--jsidea-hyphens--landscape),1,15539089,0.0
+mobile,hyphens: var(--heading-3-hyphens),1,15539089,0.0
+mobile,hyphens: 30px,1,15539089,0.0
+mobile,hyphens: au,1,15539089,0.0
+mobile,hyphens: var(--h2-font-2-hyphens-default),1,15539089,0.0
+mobile,hyphens: var(--editor-hyphens),1,15539089,0.0
+mobile,hyphens: var(--jsidea-hyphens--desktop),1,15539089,0.0
+mobile,hyphens: var(--teaser-hyphens),1,15539089,0.0
+mobile,hyphens: var(--h3-word-switch-hyphens-default),1,15539089,0.0
+mobile,"hyphens: var(--heading-hyphens, auto)",1,15539089,0.0
+mobile,"hyphens: auto !important,overflow-wrap:break-word",1,15539089,0.0
+mobile,hyphens: var(--p-small-hyphens-default),1,15539089,0.0
+mobile,hyphens: var(--product-description-hyphens),1,15539089,0.0
+mobile,"hyphens: var(--paragraph-hyphens,unset)",1,15539089,0.0
+mobile,hyphens: var(--theme-headings-hypens),1,15539089,0.0
+mobile,hyphens: manual !important margin: 0,1,15539089,0.0
+mobile,hyphens: var(--hintro-hyphens-default),1,15539089,0.0
+mobile,hyphens: 40px,1,15539089,0.0
+mobile,hyphens: auto /* Silbentrennung in der Pipeline an */,1,15539089,0.0
+mobile,hyphens: var(--headline-1-hyphens),1,15539089,0.0
+mobile,hyphens: mannual,1,15539089,0.0
+mobile,hyphens: disable,1,15539089,0.0
+mobile,hyphens: var(--breaker-heading-hyphens-default),1,15539089,0.0
+mobile,hyphens: 58px,1,15539089,0.0
+mobile,"hyphens: var(--lists-hyphens,auto)",1,15539089,0.0
+mobile,hyphens: var(--hagebau-small-hyphens-default),1,15539089,0.0
+mobile,hyphens: var(--h7-hyphens-default),1,15539089,0.0
+mobile,hyphens: 600px,1,15539089,0.0
+mobile,hyphens: var(--img-box-main-hyphens),1,15539089,0.0
+mobile,hyphens: word,1,15539089,0.0
+mobile,hyphens: var(--jsidea-hyphens--mobile),1,15539089,0.0
+mobile,hyphens: var(--h-hyphens),1,15539089,0.0
+mobile,hyphens: manuall,1,15539089,0.0
+mobile,hyphens: auto!important!,1,15539089,0.0
+mobile,hyphens: var(--p-large-hyphens-default),1,15539089,0.0
+mobile,hyphens: 80%,1,15539089,0.0
+mobile,"hyphens: var(--btw-surface-prose-hyphens,var(--btw-hyphens-locale))",1,15539089,0.0
+mobile,hyphens: Initial,1,15539089,0.0
+mobile,hyphens: var(--font-title-xl-hyphens),1,15539089,0.0
+mobile,"hyphens: ""manual""",1,15539089,0.0
+mobile,hyphens: var(--p-medium-hyphens-default),1,15539089,0.0
+mobile,hyphens: var(--scipio-hyphens),1,15539089,0.0
+mobile,hyphens: visible,1,15539089,0.0
+mobile,hyphens: var(--er-justify-hyphens),1,15539089,0.0
+mobile,hyphens: 50%,1,15539089,0.0
+mobile,hyphens: auto margin: 0,1,15539089,0.0
+mobile,"hyphens: var(--p-hyphens, auto)",1,15539089,0.0
+mobile,"hyphens: var(--intro-hyphens, manual)",1,15539089,0.0
+mobile,hyphens: var(--h3-font-2-hyphens-default),1,15539089,0.0
+mobile,"hyphens: var(--pformstrip-hyphen, inherit)",1,15539089,0.0
+mobile,"hyphens: var(--headline-hyphens,auto)",1,15539089,0.0
+mobile,hyphens: var(--h-6-5P3Cr),1,15539089,0.0
+mobile,hyphens: var(--heading-1-hyphens),1,15539089,0.0
+mobile,"hyphens: var(--ctd-rich-text-child-hyphens, auto)",1,15539089,0.0
+mobile,"hyphens: var(--Button-hyphens,auto)",1,15539089,0.0
+mobile,hyphens: none -moz-hyphens: none,1,15539089,0.0
+mobile,hyphens: autp,1,15539089,0.0
+mobile,"hyphens: none,",1,15539089,0.0
+mobile,"hyphens: var(--hyphens,auto)",1,15539089,0.0
+mobile,hyphens: no-hyphens,1,15539089,0.0
+mobile,hyphens: auto !impprtant,1,15539089,0.0
+mobile,hyphens: border-box,1,15539089,0.0
+mobile,"hyphens: auto,width:30%",1,15539089,0.0
+mobile,hyphens: 34px,1,15539089,0.0
+mobile,"hyphens: var(--pformstrip-after-hyphen, inherit)",1,15539089,0.0
+mobile,"hyphens: var(--assistHyphens,auto)",1,15539089,0.0
+mobile,"hyphens: none,-webkit-hyphens:none",1,15539089,0.0
+mobile,hyphens: var(--p-bold-hyphens-default),1,15539089,0.0
+mobile,hyphens: var(--hero-info-title-hyphens),1,15539089,0.0
+mobile,"hyphens: var(--pformstrip-forminput-hyphen, inherit)",1,15539089,0.0
+mobile,hyphens: var(--hagebau-large-hyphens-default),1,15539089,0.0
+mobile,hyphens: none important!,1,15539089,0.0
+mobile,hyphens: var(--h2-word-switch-hyphens-default),1,15539089,0.0
+mobile,hyphens: 300px,1,15539089,0.0
+mobile,hyphens: '-',1,15539089,0.0
+mobile,hyphens: non,1,15539089,0.0
+mobile,hyphens: off,1,15539089,0.0

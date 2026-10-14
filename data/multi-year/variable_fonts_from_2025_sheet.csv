@@ -1,0 +1,9 @@
+year,client,proportion,metric,crawl_date
+2022,desktop,0.2836,pages_with_vf,2022-07-01
+2022,mobile,0.2913,pages_with_vf,2022-07-01
+2023,desktop,0.2875,pages_with_vf,2023-07-01
+2023,mobile,0.3004,pages_with_vf,2023-07-01
+2024,desktop,0.3277,pages_with_vf,2024-07-01
+2024,mobile,0.3399,pages_with_vf,2024-07-01
+2025,desktop,0.3943,pages_with_vf,2025-07-01
+2025,mobile,0.413,pages_with_vf,2025-07-01

@@ -1,0 +1,13 @@
+client,reason,gated_stylesheets,total_stylesheets,share_of_stylesheets,gated_pages,css_pages,root_pages,share_of_css_pages,share_of_root_pages,pages_all_css_gated,share_of_css_pages_all_gated,examples
+desktop,any,7800565,272587431,0.0286,5123129,11193885,11628567,0.4577,0.4406,40287,0.0036,
+desktop,size_gate,7800565,272587431,0.0286,5123129,11193885,11628567,0.4577,0.4406,,,too_large_bytes
+desktop,rule_count_gate,0,272587431,0.0,0,11193885,11628567,0.0,0.0,,,
+desktop,no_rules,0,272587431,0.0,0,11193885,11628567,0.0,0.0,,,
+desktop,error,0,272587431,0.0,0,11193885,11628567,0.0,0.0,,,
+desktop,inline_style_unmarked,0,272587431,0.0,0,11193885,11628567,0.0,0.0,,,
+mobile,any,9936635,350416254,0.0284,6765582,14982042,15539089,0.4516,0.4354,52052,0.0035,
+mobile,size_gate,9936635,350416254,0.0284,6765582,14982042,15539089,0.4516,0.4354,,,too_large_bytes
+mobile,rule_count_gate,0,350416254,0.0,0,14982042,15539089,0.0,0.0,,,
+mobile,no_rules,0,350416254,0.0,0,14982042,15539089,0.0,0.0,,,
+mobile,error,0,350416254,0.0,0,14982042,15539089,0.0,0.0,,,
+mobile,inline_style_unmarked,0,350416254,0.0,0,14982042,15539089,0.0,0.0,,,

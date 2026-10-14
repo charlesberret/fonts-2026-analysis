@@ -1,0 +1,5 @@
+date,client,format,count,total,proportion
+2026-07-01,desktop,glyf,2443964,2450960,0.9971
+2026-07-01,desktop,CFF2,6996,2450960,0.0029
+2026-07-01,mobile,glyf,3338274,3346597,0.9975
+2026-07-01,mobile,CFF2,8323,3346597,0.0025

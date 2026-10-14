@@ -1,0 +1,5 @@
+date,client,emoji,count,total,proportion
+2026-07-01,desktop,False,9391,14729,0.6376
+2026-07-01,desktop,True,5338,14729,0.3624
+2026-07-01,mobile,False,11167,16834,0.6634
+2026-07-01,mobile,True,5667,16834,0.3366

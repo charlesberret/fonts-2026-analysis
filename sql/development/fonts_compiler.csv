@@ -1,0 +1,201 @@
+client,compiler,count,total,proportion,rank
+desktop,,14679611,19534422,0.7515,1
+desktop,makeotf,1840847,19534422,0.0942,2
+desktop,2024,390450,19534422,0.02,3
+desktop,fontmake,375872,19534422,0.0192,4
+desktop,2017,280471,19534422,0.0144,5
+desktop,Western+Polish opensource,269860,19534422,0.0138,6
+desktop,git-66647c0bb,263374,19534422,0.0135,7
+desktop,ttfautohint (v1.8.3),185291,19534422,0.0095,8
+desktop,Glyphs.app,174192,19534422,0.0089,9
+desktop,2026,118286,19534422,0.0061,10
+desktop,git-0a5106e0b,104000,19534422,0.0053,11
+desktop,ttfautohint (v1.6),61416,19534422,0.0031,12
+desktop,ttfautohint (v1.8.4.7-5d5b),48338,19534422,0.0025,13
+desktop,2014,37460,19534422,0.0019,14
+desktop,2015-08-06; http://www.latofonts.com/,33776,19534422,0.0017,15
+desktop,2023,32865,19534422,0.0017,16
+desktop,2013,31120,19534422,0.0016,17
+desktop,ttfautohint (v1.8.1.43-b0c9),29430,19534422,0.0015,18
+desktop,ttfautohint (v1.5) -l 8 -r 28 -G 28 -x 14 -D lat,27126,19534422,0.0014,19
+desktop,FontCreator,26409,19534422,0.0014,20
+desktop,Fontself Maker,24026,19534422,0.0012,21
+desktop,git-9221beed3,17687,19534422,0.0009,22
+desktop,build 0002,16765,19534422,0.0009,23
+desktop,git-a52131595,13730,19534422,0.0007,24
+desktop,2011,11235,19534422,0.0006,25
+desktop,git-06b166889,11034,19534422,0.0006,26
+desktop,ttfautohint (v1.8.4),10847,19534422,0.0006,27
+desktop,[b76b70a41],10813,19534422,0.0006,28
+desktop,ttfautohint (v1.8.2),10507,19534422,0.0005,29
+desktop,"ttfautohint (v0.93) -l 8 -r 50 -G 200 -x 14 -w ""G",8820,19534422,0.0005,30
+desktop,ttfautohint (v1.8.2.53-6de2),8758,19534422,0.0004,31
+desktop,ttfautohint (v1.5),7419,19534422,0.0004,32
+desktop,2013; ttfautohint (v0.94.20-1c74) -l 8 -r 12 -,7320,19534422,0.0004,33
+desktop,git-2c0637eac,6914,19534422,0.0004,34
+desktop,ttfautohint (v1.8),6737,19534422,0.0003,35
+desktop,GOOG;noto-source:20170915:90ef993387c0,6416,19534422,0.0003,36
+desktop,internal build,5535,19534422,0.0003,37
+desktop,ttfautohint (v1.4.1),5428,19534422,0.0003,38
+desktop,ttfautohint (v0.8) -G 200 -r 50,5391,19534422,0.0003,39
+desktop,ttfautohint (v0.93.3-1d66) -l 8 -,5352,19534422,0.0003,40
+desktop,git-aca7606f2,5067,19534422,0.0003,41
+desktop,2005; Build 1020,4927,19534422,0.0003,42
+desktop,build 0003,4746,19534422,0.0002,43
+desktop,ttfautohint (v1.3),4686,19534422,0.0002,44
+desktop,2017; ttfautohint (v1.6),4620,19534422,0.0002,45
+desktop,git-f93a4a705,4558,19534422,0.0002,46
+desktop,2002,3997,19534422,0.0002,47
+desktop,20b39288a,3956,19534422,0.0002,48
+desktop,ttfautohint (v1.5.14-ce02) -l 8 -r 50 -G 200 -x 1,3953,19534422,0.0002,49
+desktop,Fonts for Free; vk.com/fontsforfree,3900,19534422,0.0002,50
+desktop,git-7f5c04026,3801,19534422,0.0002,51
+desktop,ttfautohint (v1.1) -l 5 -r 5 -G 72 -x 0 -D latn -,3412,19534422,0.0002,52
+desktop,ttfautohint (v0.93.3-1d66) -l 8 -r 50 -G,3312,19534422,0.0002,53
+desktop,2014-09-01; http://www.latofonts.com/,3286,19534422,0.0002,54
+desktop,"ttfautohint (v0.95) -l 8 -r 50 -G 200 -x 0 -w ""G"" -W -c",2992,19534422,0.0002,55
+desktop,git-588b23468,2867,19534422,0.0001,56
+desktop,2014-02-27,2835,19534422,0.0001,57
+desktop,ttfautohint (v1.00rc1.6-4cba) -l 8 -r 50 -G 200 -x 0,2788,19534422,0.0001,58
+desktop,ttfautohint (v0.97) -l 8 -r 50 -G 200 -x 14 -f df,2619,19534422,0.0001,59
+desktop,ttfautohint (v1.8.1),2578,19534422,0.0001,60
+desktop,"ttfautohint (v0.96) -l 8 -r 28 -G 28 -x 14 -w ""G""",2575,19534422,0.0001,61
+desktop,ttfautohint (v0.8) -f -G 200 -r 50 -s,2521,19534422,0.0001,62
+desktop,GOOG;noto-source:20170915:90ef993387c0; ttfautohin,2508,19534422,0.0001,63
+desktop,ttfautohint (v1.8.4.16-eb64),2469,19534422,0.0001,64
+desktop,build 0001,2468,19534422,0.0001,65
+desktop,"ttfautohint (v0.95) -l 8 -r 50 -G 200 -x 14 -w """,2446,19534422,0.0001,66
+desktop,2007,2436,19534422,0.0001,67
+desktop,Build Release,2338,19534422,0.0001,68
+desktop,2005; Build 1021,2242,19534422,0.0001,69
+desktop,com.myfonts.marksimonson.proxima-nova.regular.wfki,2099,19534422,0.0001,70
+desktop,build 0005,2080,19534422,0.0001,71
+desktop,2006,2040,19534422,0.0001,72
+desktop,ttfautohint (v1.5.33-1714) -l 8 -r 50 -G 200 -x 0,1988,19534422,0.0001,73
+desktop,git-d82f67bfa,1966,19534422,0.0001,74
+desktop,240513210638;O365,1927,19534422,0.0001,75
+desktop,Unlicensed Trial,1927,19534422,0.0001,76
+desktop,ttfautohint (v0.92.18-e454-dirty) -l 8 -r 50 -G 2,1925,19534422,0.0001,77
+desktop,build 0004,1905,19534422,0.0001,78
+desktop,build 0006,1894,19534422,0.0001,79
+desktop,ttfautohint (v1.6) -l 8 -r 50 -G 200 -x 14 -D lat,1884,19534422,0.0001,80
+desktop,for Adobe Fonts,1834,19534422,0.0001,81
+desktop,O365,1824,19534422,0.0001,82
+desktop,ttfautohint (v1.4.1.8-43bc),1781,19534422,0.0001,83
+desktop,DELV;Overpass; ttfautohint (v1.5),1745,19534422,0.0001,84
+desktop,ttfautohint (v1.8.3.10-c5d8),1737,19534422,0.0001,85
+desktop,[9b76f496a],1716,19534422,0.0001,86
+desktop,ttfautohint (v1.5.65-e2d9),1599,19534422,0.0001,87
+desktop,YWFTv17,1597,19534422,0.0001,88
+desktop,ATK150911JP M001,1544,19534422,0.0001,89
+desktop,"2012 Latin, Cyrillic and Greek",1543,19534422,0.0001,90
+desktop,,1498,19534422,0.0001,91
+desktop,2015,1480,19534422,0.0001,92
+desktop,wf-rip,1480,19534422,0.0001,93
+desktop,DELV;Overpass,1479,19534422,0.0001,94
+desktop,2014-09-01; http://www.latofonts.com/; ttfautohin,1449,19534422,0.0001,95
+desktop,ttfautohint (v1.00) -l 8 -r 50 -G 200 -x 14 -D la,1432,19534422,0.0001,96
+desktop,ttfautohint (v1.8.2) -l 8 -r 50 -G 200 -x 14 -D l,1386,19534422,0.0001,97
+desktop,addfeatures 5.0.0b21,1375,19534422,0.0001,98
+desktop,2016,1355,19534422,0.0001,99
+desktop,build 0007,1344,19534422,0.0001,100
+mobile,,19679320,25875765,0.7605,1
+mobile,makeotf,2229803,25875765,0.0862,2
+mobile,2024,560913,25875765,0.0217,3
+mobile,fontmake,504634,25875765,0.0195,4
+mobile,2017,375268,25875765,0.0145,5
+mobile,Western+Polish opensource,363760,25875765,0.0141,6
+mobile,git-66647c0bb,340736,25875765,0.0132,7
+mobile,ttfautohint (v1.8.3),231515,25875765,0.0089,8
+mobile,Glyphs.app,188399,25875765,0.0073,9
+mobile,2026,161037,25875765,0.0062,10
+mobile,git-0a5106e0b,135134,25875765,0.0052,11
+mobile,ttfautohint (v1.6),87720,25875765,0.0034,12
+mobile,ttfautohint (v1.8.4.7-5d5b),64089,25875765,0.0025,13
+mobile,2014,49474,25875765,0.0019,14
+mobile,FontCreator,46941,25875765,0.0018,15
+mobile,2023,43933,25875765,0.0017,16
+mobile,2015-08-06; http://www.latofonts.com/,43005,25875765,0.0017,17
+mobile,2013,38538,25875765,0.0015,18
+mobile,ttfautohint (v1.5) -l 8 -r 28 -G 28 -x 14 -D lat,38226,25875765,0.0015,19
+mobile,ttfautohint (v1.8.1.43-b0c9),37916,25875765,0.0015,20
+mobile,Fontself Maker,31547,25875765,0.0012,21
+mobile,git-9221beed3,21801,25875765,0.0008,22
+mobile,build 0002,19115,25875765,0.0007,23
+mobile,2011,16158,25875765,0.0006,24
+mobile,git-a52131595,15294,25875765,0.0006,25
+mobile,[b76b70a41],14792,25875765,0.0006,26
+mobile,ttfautohint (v1.8.2),14346,25875765,0.0006,27
+mobile,git-06b166889,13941,25875765,0.0005,28
+mobile,ttfautohint (v1.8.4),13602,25875765,0.0005,29
+mobile,"ttfautohint (v0.93) -l 8 -r 50 -G 200 -x 14 -w ""G",12379,25875765,0.0005,30
+mobile,ttfautohint (v1.8.2.53-6de2),10611,25875765,0.0004,31
+mobile,git-2c0637eac,9994,25875765,0.0004,32
+mobile,2013; ttfautohint (v0.94.20-1c74) -l 8 -r 12 -,9770,25875765,0.0004,33
+mobile,ttfautohint (v1.4.1),9271,25875765,0.0004,34
+mobile,ttfautohint (v1.5),9247,25875765,0.0004,35
+mobile,ttfautohint (v1.8),8433,25875765,0.0003,36
+mobile,git-aca7606f2,7437,25875765,0.0003,37
+mobile,ttfautohint (v0.8) -G 200 -r 50,7407,25875765,0.0003,38
+mobile,GOOG;noto-source:20170915:90ef993387c0,7394,25875765,0.0003,39
+mobile,ttfautohint (v0.93.3-1d66) -l 8 -,7316,25875765,0.0003,40
+mobile,2017; ttfautohint (v1.6),6366,25875765,0.0002,41
+mobile,ttfautohint (v1.3),6284,25875765,0.0002,42
+mobile,2005; Build 1020,6270,25875765,0.0002,43
+mobile,20b39288a,5987,25875765,0.0002,44
+mobile,Fonts for Free; vk.com/fontsforfree,5974,25875765,0.0002,45
+mobile,internal build,5618,25875765,0.0002,46
+mobile,build 0003,5509,25875765,0.0002,47
+mobile,git-f93a4a705,5332,25875765,0.0002,48
+mobile,ttfautohint (v1.5.14-ce02) -l 8 -r 50 -G 200 -x 1,4913,25875765,0.0002,49
+mobile,2002,4867,25875765,0.0002,50
+mobile,ttfautohint (v1.1) -l 5 -r 5 -G 72 -x 0 -D latn -,4608,25875765,0.0002,51
+mobile,2014-02-27,4409,25875765,0.0002,52
+mobile,ttfautohint (v0.93.3-1d66) -l 8 -r 50 -G,4354,25875765,0.0002,53
+mobile,ttfautohint (v1.8.1),4132,25875765,0.0002,54
+mobile,git-7f5c04026,4123,25875765,0.0002,55
+mobile,2014-09-01; http://www.latofonts.com/,4084,25875765,0.0002,56
+mobile,ttfautohint (v0.97) -l 8 -r 50 -G 200 -x 14 -f df,4030,25875765,0.0002,57
+mobile,"ttfautohint (v0.95) -l 8 -r 50 -G 200 -x 0 -w ""G"" -W -c",3914,25875765,0.0002,58
+mobile,"ttfautohint (v0.96) -l 8 -r 28 -G 28 -x 14 -w ""G""",3582,25875765,0.0001,59
+mobile,ttfautohint (v0.8) -f -G 200 -r 50 -s,3509,25875765,0.0001,60
+mobile,ttfautohint (v1.00rc1.6-4cba) -l 8 -r 50 -G 200 -x 0,3483,25875765,0.0001,61
+mobile,2014-09-01; http://www.latofonts.com/; ttfautohin,3243,25875765,0.0001,62
+mobile,ttfautohint (v1.4.1.8-43bc),3157,25875765,0.0001,63
+mobile,2007,3128,25875765,0.0001,64
+mobile,"ttfautohint (v0.95) -l 8 -r 50 -G 200 -x 14 -w """,3108,25875765,0.0001,65
+mobile,git-588b23468,3071,25875765,0.0001,66
+mobile,ttfautohint (v1.5.33-1714) -l 8 -r 50 -G 200 -x 0,2976,25875765,0.0001,67
+mobile,GOOG;noto-source:20170915:90ef993387c0; ttfautohin,2857,25875765,0.0001,68
+mobile,2005; Build 1021,2779,25875765,0.0001,69
+mobile,ttfautohint (v1.8.4.16-eb64),2596,25875765,0.0001,70
+mobile,2006,2586,25875765,0.0001,71
+mobile,ttfautohint (v1.6) -l 8 -r 50 -G 200 -x 14 -D lat,2578,25875765,0.0001,72
+mobile,build 0001,2544,25875765,0.0001,73
+mobile,ATK150911JP M001,2519,25875765,0.0001,74
+mobile,ttfautohint (v0.92.18-e454-dirty) -l 8 -r 50 -G 2,2435,25875765,0.0001,75
+mobile,build 0005,2305,25875765,0.0001,76
+mobile,240513210638;O365,2198,25875765,0.0001,77
+mobile,[9b76f496a],2182,25875765,0.0001,78
+mobile,ttfautohint (v1.00) -l 8 -r 50 -G 200 -x 14 -D la,2178,25875765,0.0001,79
+mobile,com.myfonts.marksimonson.proxima-nova.regular.wfki,2172,25875765,0.0001,80
+mobile,"2012 Latin, Cyrillic and Greek",2172,25875765,0.0001,81
+mobile,git-d82f67bfa,2136,25875765,0.0001,82
+mobile,for Adobe Fonts,2133,25875765,0.0001,83
+mobile,DELV;Overpass; ttfautohint (v1.5),2107,25875765,0.0001,84
+mobile,build 0004,2104,25875765,0.0001,85
+mobile,Unlicensed Trial,2087,25875765,0.0001,86
+mobile,O365,2050,25875765,0.0001,87
+mobile,ttfautohint (v1.8.3.10-c5d8),2047,25875765,0.0001,88
+mobile,2016; ttfautohint (v1.4.1),2018,25875765,0.0001,89
+mobile,YWFTv17,1989,25875765,0.0001,90
+mobile,build 0006,1961,25875765,0.0001,91
+mobile,ttfautohint (v1.5.65-e2d9),1919,25875765,0.0001,92
+mobile,2016,1881,25875765,0.0001,93
+mobile,ttfautohint (v1.8.2) -l 8 -r 50 -G 200 -x 14 -D l,1873,25875765,0.0001,94
+mobile,git-4146feb,1871,25875765,0.0001,95
+mobile,DELV;Overpass,1784,25875765,0.0001,96
+mobile,Build Release,1739,25875765,0.0001,97
+mobile,,1715,25875765,0.0001,98
+mobile,2015,1659,25875765,0.0001,99
+mobile,addfeatures 5.0.0b21,1643,25875765,0.0001,100

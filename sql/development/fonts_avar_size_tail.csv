@@ -1,0 +1,3 @@
+row_type,client,rank,parsed_fonts,fonts_with_avar,avar_gt_100,avar_gt_200,avar_gt_1000,avar_gt_10000,avar_max,avar_p99,avar_p99_9,avar_p99_99,avar_size,url,host,service,family,fvar_axes,example_page
+summary,desktop,,19534422,2094240,2832,0,0,0,200,72,108,198,,,,,,,
+summary,mobile,,25875765,2863512,3503,0,0,0,200,72,108,198,,,,,,,

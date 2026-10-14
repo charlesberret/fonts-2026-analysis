@@ -1,0 +1,121 @@
+client,property,family,count,total,proportion
+desktop,,Roboto,633,11628567,0.0001
+desktop,,Open Sans,305,11628567,0.0
+desktop,,Roboto Slab,293,11628567,0.0
+desktop,,Montserrat,210,11628567,0.0
+desktop,,Poppins,176,11628567,0.0
+desktop,,Lato,123,11628567,0.0
+desktop,,Raleway,91,11628567,0.0
+desktop,,Inter,70,11628567,0.0
+desktop,,Playfair Display,62,11628567,0.0
+desktop,,Oswald,51,11628567,0.0
+desktop,auto,Font Awesome,243044,11628567,0.0209
+desktop,auto,proxima-nova,88428,11628567,0.0076
+desktop,auto,futura-pt,52785,11628567,0.0045
+desktop,auto,entypo-fontello,33219,11628567,0.0029
+desktop,auto,Line Awesome Brands,22093,11628567,0.0019
+desktop,auto,Line Awesome Free,22009,11628567,0.0019
+desktop,auto,brandon-grotesque,20097,11628567,0.0017
+desktop,auto,adobe-garamond-pro,19324,11628567,0.0017
+desktop,auto,entypo-fontello-enfold,16892,11628567,0.0015
+desktop,auto,acumin-pro,14996,11628567,0.0013
+desktop,block,Font Awesome,1709635,11628567,0.147
+desktop,block,ETmodules,166404,11628567,0.0143
+desktop,block,bootstrap-icons,105548,11628567,0.0091
+desktop,block,icomoon,85645,11628567,0.0074
+desktop,block,fl-icons,62127,11628567,0.0053
+desktop,block,gform-icons-theme,42289,11628567,0.0036
+desktop,block,dearflip,39786,11628567,0.0034
+desktop,block,Google Symbols,30457,11628567,0.0026
+desktop,block,,28965,11628567,0.0025
+desktop,block,Material Icons,28616,11628567,0.0025
+desktop,fallback,Inter,91987,11628567,0.0079
+desktop,fallback,GTStandard-M,71390,11628567,0.0061
+desktop,fallback,Cardo,65077,11628567,0.0056
+desktop,fallback,Montserrat,31537,11628567,0.0027
+desktop,fallback,Roboto,27981,11628567,0.0024
+desktop,fallback,Open Sans,26824,11628567,0.0023
+desktop,fallback,Astra,26085,11628567,0.0022
+desktop,fallback,Poppins,23796,11628567,0.002
+desktop,fallback,Lato,15551,11628567,0.0013
+desktop,fallback,Spectral,15199,11628567,0.0013
+desktop,optional,YS Text Variable,23336,11628567,0.002
+desktop,optional,Inter,3431,11628567,0.0003
+desktop,optional,Roboto,2188,11628567,0.0002
+desktop,optional,Montserrat,1939,11628567,0.0002
+desktop,optional,Poppins,1747,11628567,0.0002
+desktop,optional,Open Sans,1403,11628567,0.0001
+desktop,optional,Kanit,928,11628567,0.0001
+desktop,optional,RSU,877,11628567,0.0001
+desktop,optional,Lato,653,11628567,0.0001
+desktop,optional,Oxygen,612,11628567,0.0001
+desktop,swap,Roboto,1350011,11628567,0.1161
+desktop,swap,Open Sans,827910,11628567,0.0712
+desktop,swap,Poppins,824628,11628567,0.0709
+desktop,swap,Montserrat,819107,11628567,0.0704
+desktop,swap,Inter,796021,11628567,0.0685
+desktop,swap,Lato,452363,11628567,0.0389
+desktop,swap,Roboto Slab,375790,11628567,0.0323
+desktop,swap,Font Awesome,368968,11628567,0.0317
+desktop,swap,Playfair Display,236983,11628567,0.0204
+desktop,swap,Raleway,225904,11628567,0.0194
+mobile,,Roboto,1157,15539089,0.0001
+mobile,,Roboto Slab,608,15539089,0.0
+mobile,,Open Sans,574,15539089,0.0
+mobile,,Montserrat,386,15539089,0.0
+mobile,,Poppins,309,15539089,0.0
+mobile,,Lato,231,15539089,0.0
+mobile,,Raleway,177,15539089,0.0
+mobile,,Playfair Display,119,15539089,0.0
+mobile,,Inter,104,15539089,0.0
+mobile,,Oswald,90,15539089,0.0
+mobile,auto,Font Awesome,336828,15539089,0.0217
+mobile,auto,proxima-nova,92725,15539089,0.006
+mobile,auto,futura-pt,57231,15539089,0.0037
+mobile,auto,entypo-fontello,44138,15539089,0.0028
+mobile,auto,Line Awesome Brands,32466,15539089,0.0021
+mobile,auto,Line Awesome Free,32314,15539089,0.0021
+mobile,auto,brandon-grotesque,22833,15539089,0.0015
+mobile,auto,entypo-fontello-enfold,21876,15539089,0.0014
+mobile,auto,adobe-garamond-pro,20731,15539089,0.0013
+mobile,auto,acumin-pro,16048,15539089,0.001
+mobile,block,Font Awesome,2346116,15539089,0.151
+mobile,block,ETmodules,223960,15539089,0.0144
+mobile,block,bootstrap-icons,160546,15539089,0.0103
+mobile,block,icomoon,124105,15539089,0.008
+mobile,block,fl-icons,82594,15539089,0.0053
+mobile,block,dearflip,49685,15539089,0.0032
+mobile,block,gform-icons-theme,45223,15539089,0.0029
+mobile,block,,38963,15539089,0.0025
+mobile,block,Material Icons,36670,15539089,0.0024
+mobile,block,Google Symbols,35550,15539089,0.0023
+mobile,fallback,Inter,133605,15539089,0.0086
+mobile,fallback,Cardo,94360,15539089,0.0061
+mobile,fallback,GTStandard-M,85198,15539089,0.0055
+mobile,fallback,Montserrat,43915,15539089,0.0028
+mobile,fallback,Astra,37968,15539089,0.0024
+mobile,fallback,Open Sans,37734,15539089,0.0024
+mobile,fallback,Roboto,37328,15539089,0.0024
+mobile,fallback,Poppins,33624,15539089,0.0022
+mobile,fallback,Manrope,24971,15539089,0.0016
+mobile,fallback,Lato,22529,15539089,0.0014
+mobile,optional,YS Text Variable,43631,15539089,0.0028
+mobile,optional,Inter,4052,15539089,0.0003
+mobile,optional,Roboto,3519,15539089,0.0002
+mobile,optional,Poppins,2568,15539089,0.0002
+mobile,optional,Montserrat,2417,15539089,0.0002
+mobile,optional,Open Sans,1782,15539089,0.0001
+mobile,optional,Oxygen,1096,15539089,0.0001
+mobile,optional,Encode Sans,1086,15539089,0.0001
+mobile,optional,Kanit,1011,15539089,0.0001
+mobile,optional,RSU,959,15539089,0.0001
+mobile,swap,Roboto,1881272,15539089,0.1211
+mobile,swap,Poppins,1132809,15539089,0.0729
+mobile,swap,Montserrat,1100675,15539089,0.0708
+mobile,swap,Inter,1076877,15539089,0.0693
+mobile,swap,Open Sans,1071653,15539089,0.069
+mobile,swap,Lato,584311,15539089,0.0376
+mobile,swap,Roboto Slab,562997,15539089,0.0362
+mobile,swap,Font Awesome,472627,15539089,0.0304
+mobile,swap,Playfair Display,339097,15539089,0.0218
+mobile,swap,Raleway,305616,15539089,0.0197

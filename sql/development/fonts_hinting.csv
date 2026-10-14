@@ -1,0 +1,7 @@
+client,autohinted,count,total,proportion
+desktop,,483553,11628567,0.0416
+desktop,False,7866737,11628567,0.6765
+desktop,True,630290,11628567,0.0542
+mobile,,618288,15539089,0.0398
+mobile,False,5414322,15539089,0.3484
+mobile,True,421743,15539089,0.0271

@@ -1,0 +1,21 @@
+client,property,count,total,proportion
+desktop,-webkit-font-smoothing: antialiased,7575464,11628567,0.6515
+desktop,-moz-osx-font-smoothing: grayscale,6778874,11628567,0.583
+desktop,-webkit-font-smoothing: subpixel-antialiased,827640,11628567,0.0712
+desktop,-webkit-font-smoothing: auto,492058,11628567,0.0423
+desktop,-webkit-font-smoothing: inherit,332182,11628567,0.0286
+desktop,-moz-osx-font-smoothing: inherit,271214,11628567,0.0233
+desktop,-moz-osx-font-smoothing: auto,100925,11628567,0.0087
+desktop,-webkit-font-smoothing: none,44175,11628567,0.0038
+desktop,font-smooth: always,29925,11628567,0.0026
+desktop,-moz-osx-font-smoothing: antialiased,27663,11628567,0.0024
+mobile,-webkit-font-smoothing: antialiased,10033914,15539089,0.6457
+mobile,-moz-osx-font-smoothing: grayscale,9017470,15539089,0.5803
+mobile,-webkit-font-smoothing: subpixel-antialiased,1083093,15539089,0.0697
+mobile,-webkit-font-smoothing: auto,670100,15539089,0.0431
+mobile,-webkit-font-smoothing: inherit,422869,15539089,0.0272
+mobile,-moz-osx-font-smoothing: inherit,348960,15539089,0.0225
+mobile,-moz-osx-font-smoothing: auto,128562,15539089,0.0083
+mobile,-webkit-font-smoothing: none,65392,15539089,0.0042
+mobile,-webkit-font-smoothing: initial,63551,15539089,0.0041
+mobile,font-smooth: always,36764,15539089,0.0024

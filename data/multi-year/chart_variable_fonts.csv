@@ -1,0 +1,17 @@
+year,client,proportion,source
+2019,desktop,0.0182,2019_sheet
+2019,mobile,0.0187,2019_sheet
+2020,desktop,0.1054,2020_chapter_fixed_swap
+2020,mobile,0.11,2020_chapter_fixed_swap
+2021,desktop,0.1266,2022_sheet_historical
+2021,mobile,0.1285,2022_sheet_historical
+2022,desktop,0.2836,sheets
+2022,mobile,0.2913,sheets
+2023,desktop,0.2875,sheets
+2023,mobile,0.3004,sheets
+2024,desktop,0.3277,sheets
+2024,mobile,0.3399,sheets
+2025,desktop,0.3943,sheets
+2025,mobile,0.413,sheets
+2026,desktop,0.4869,fonts_2026
+2026,mobile,0.5021,fonts_2026

@@ -1,0 +1,13 @@
+client,source,count,total,proportion
+desktop,any_unicode_range,7191956,11628567,0.6185
+desktop,first_party,1192194,11628567,0.1025
+desktop,google_css,5500421,11628567,0.473
+desktop,google_css_only,4388804,11628567,0.3774
+desktop,non_google_any,2803152,11628567,0.2411
+desktop,other_third_party,1725179,11628567,0.1484
+mobile,any_unicode_range,9582027,15539089,0.6166
+mobile,first_party,1639341,15539089,0.1055
+mobile,google_css,7215388,15539089,0.4643
+mobile,google_css_only,5767931,15539089,0.3712
+mobile,non_google_any,3814096,15539089,0.2455
+mobile,other_third_party,2324370,15539089,0.1496

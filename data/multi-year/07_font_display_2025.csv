@@ -1,0 +1,13 @@
+year,client,property,proportion
+2025,desktop,swap,0.4955
+2025,desktop,block,0.2467
+2025,desktop,auto,0.0905
+2025,desktop,fallback,0.0505
+2025,desktop,optional,0.0037
+2025,desktop,,0.0002
+2025,mobile,swap,0.5007
+2025,mobile,block,0.2494
+2025,mobile,auto,0.0852
+2025,mobile,fallback,0.0505
+2025,mobile,optional,0.0046
+2025,mobile,,0.0003

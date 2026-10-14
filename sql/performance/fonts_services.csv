@@ -1,0 +1,176 @@
+date,client,services,count,total,proportion
+2026-07-01,desktop,"Google, self-hosted",4094347,11628567,0.3521
+2026-07-01,desktop,self-hosted,3747534,11628567,0.3223
+2026-07-01,desktop,Google,1662510,11628567,0.143
+2026-07-01,desktop,"Google, fontawesome.com, self-hosted",137461,11628567,0.0118
+2026-07-01,desktop,"Adobe, Google, self-hosted",127376,11628567,0.011
+2026-07-01,desktop,"Adobe, self-hosted",126506,11628567,0.0109
+2026-07-01,desktop,"Google, fontawesome.com",107649,11628567,0.0093
+2026-07-01,desktop,"Adobe, Google",93698,11628567,0.0081
+2026-07-01,desktop,Adobe,91193,11628567,0.0078
+2026-07-01,desktop,"fontawesome.com, self-hosted",51489,11628567,0.0044
+2026-07-01,desktop,fontawesome.com,23098,11628567,0.002
+2026-07-01,desktop,"Adobe, Google, fontawesome.com, self-hosted",6877,11628567,0.0006
+2026-07-01,desktop,"Adobe, fontawesome.com",6789,11628567,0.0006
+2026-07-01,desktop,"Adobe, Google, fontawesome.com",6113,11628567,0.0005
+2026-07-01,desktop,"Adobe, fontawesome.com, self-hosted",5198,11628567,0.0004
+2026-07-01,desktop,"fontplus.jp, self-hosted",3899,11628567,0.0003
+2026-07-01,desktop,"Google, fontplus.jp",1374,11628567,0.0001
+2026-07-01,desktop,fontplus.jp,1135,11628567,0.0001
+2026-07-01,desktop,"Google, fontplus.jp, self-hosted",1128,11628567,0.0001
+2026-07-01,desktop,"Google, self-hosted, typesquare.com",805,11628567,0.0001
+2026-07-01,desktop,"Google, typesquare.com",449,11628567,0.0
+2026-07-01,desktop,"self-hosted, typesquare.com",445,11628567,0.0
+2026-07-01,desktop,typesquare.com,329,11628567,0.0
+2026-07-01,desktop,"self-hosted, typenetwork.com",192,11628567,0.0
+2026-07-01,desktop,"Adobe, self-hosted, typesquare.com",97,11628567,0.0
+2026-07-01,desktop,"Google, self-hosted, typenetwork.com",88,11628567,0.0
+2026-07-01,desktop,"fontawesome.com, fontplus.jp",87,11628567,0.0
+2026-07-01,desktop,typenetwork.com,86,11628567,0.0
+2026-07-01,desktop,"Adobe, typesquare.com",84,11628567,0.0
+2026-07-01,desktop,"Adobe, Google, self-hosted, typesquare.com",81,11628567,0.0
+2026-07-01,desktop,"Adobe, Google, typesquare.com",71,11628567,0.0
+2026-07-01,desktop,"Google, fontawesome.com, fontplus.jp",63,11628567,0.0
+2026-07-01,desktop,"Adobe, fontplus.jp",54,11628567,0.0
+2026-07-01,desktop,"Adobe, fontplus.jp, self-hosted",51,11628567,0.0
+2026-07-01,desktop,"Adobe, Google, fontplus.jp",41,11628567,0.0
+2026-07-01,desktop,"Google, typenetwork.com",36,11628567,0.0
+2026-07-01,desktop,"Google, fontawesome.com, self-hosted, typesquare.com",33,11628567,0.0
+2026-07-01,desktop,"Adobe, Google, fontplus.jp, self-hosted",31,11628567,0.0
+2026-07-01,desktop,"Adobe, fontawesome.com, fontplus.jp",31,11628567,0.0
+2026-07-01,desktop,typotheque.com,30,11628567,0.0
+2026-07-01,desktop,"Google, fontawesome.com, typesquare.com",29,11628567,0.0
+2026-07-01,desktop,"Google, fontawesome.com, fontplus.jp, self-hosted",28,11628567,0.0
+2026-07-01,desktop,"self-hosted, typotheque.com",28,11628567,0.0
+2026-07-01,desktop,"fontawesome.com, typesquare.com",24,11628567,0.0
+2026-07-01,desktop,"fontawesome.com, fontplus.jp, self-hosted",23,11628567,0.0
+2026-07-01,desktop,"Google, self-hosted, typotheque.com",21,11628567,0.0
+2026-07-01,desktop,"Adobe, Google, fontawesome.com, typesquare.com",15,11628567,0.0
+2026-07-01,desktop,"fontawesome.com, self-hosted, typesquare.com",15,11628567,0.0
+2026-07-01,desktop,"Google, typotheque.com",11,11628567,0.0
+2026-07-01,desktop,"Google, fontawesome.com, typenetwork.com",11,11628567,0.0
+2026-07-01,desktop,"Adobe, self-hosted, typenetwork.com",10,11628567,0.0
+2026-07-01,desktop,"Google, fontplus.jp, typesquare.com",10,11628567,0.0
+2026-07-01,desktop,"Adobe, Google, self-hosted, typenetwork.com",10,11628567,0.0
+2026-07-01,desktop,"Google, fontstand.com, self-hosted",8,11628567,0.0
+2026-07-01,desktop,"fontplus.jp, typesquare.com",8,11628567,0.0
+2026-07-01,desktop,"fontstand.com, self-hosted",7,11628567,0.0
+2026-07-01,desktop,"Adobe, fontawesome.com, typesquare.com",7,11628567,0.0
+2026-07-01,desktop,"Adobe, Google, fontawesome.com, fontplus.jp",7,11628567,0.0
+2026-07-01,desktop,"Google, fontstand.com",6,11628567,0.0
+2026-07-01,desktop,"fontawesome.com, self-hosted, typenetwork.com",6,11628567,0.0
+2026-07-01,desktop,fontstand.com,5,11628567,0.0
+2026-07-01,desktop,"Adobe, typenetwork.com",5,11628567,0.0
+2026-07-01,desktop,"Adobe, Google, typenetwork.com",5,11628567,0.0
+2026-07-01,desktop,"fontplus.jp, self-hosted, typesquare.com",5,11628567,0.0
+2026-07-01,desktop,"fontawesome.com, typenetwork.com",4,11628567,0.0
+2026-07-01,desktop,"Google, fontawesome.com, self-hosted, typenetwork.com",4,11628567,0.0
+2026-07-01,desktop,"Adobe, fontawesome.com, fontplus.jp, self-hosted",4,11628567,0.0
+2026-07-01,desktop,"Adobe, Google, fontplus.jp, self-hosted, typesquare.com",4,11628567,0.0
+2026-07-01,desktop,"Google, fontplus.jp, self-hosted, typesquare.com",4,11628567,0.0
+2026-07-01,desktop,"Adobe, Google, fontawesome.com, fontplus.jp, self-hosted",4,11628567,0.0
+2026-07-01,desktop,"Adobe, fontstand.com, self-hosted",3,11628567,0.0
+2026-07-01,desktop,"fontawesome.com, fontplus.jp, typesquare.com",2,11628567,0.0
+2026-07-01,desktop,"Adobe, Google, fontawesome.com, self-hosted, typenetwork.com",2,11628567,0.0
+2026-07-01,desktop,"Adobe, Google, fontstand.com, self-hosted",2,11628567,0.0
+2026-07-01,desktop,"Google, fontawesome.com, fontstand.com, self-hosted",2,11628567,0.0
+2026-07-01,desktop,"fontawesome.com, self-hosted, typotheque.com",2,11628567,0.0
+2026-07-01,desktop,"Adobe, self-hosted, typotheque.com",2,11628567,0.0
+2026-07-01,desktop,"Adobe, fontawesome.com, self-hosted, typesquare.com",1,11628567,0.0
+2026-07-01,desktop,"Adobe, typotheque.com",1,11628567,0.0
+2026-07-01,desktop,"Adobe, fontawesome.com, self-hosted, typotheque.com",1,11628567,0.0
+2026-07-01,desktop,"Adobe, Google, fontplus.jp, typesquare.com",1,11628567,0.0
+2026-07-01,desktop,"Adobe, fontstand.com",1,11628567,0.0
+2026-07-01,desktop,"Adobe, fontawesome.com, typenetwork.com",1,11628567,0.0
+2026-07-01,desktop,"Adobe, Google, fontawesome.com, self-hosted, typesquare.com",1,11628567,0.0
+2026-07-01,desktop,"Adobe, fontplus.jp, self-hosted, typesquare.com",1,11628567,0.0
+2026-07-01,desktop,"Google, fontawesome.com, fontplus.jp, typesquare.com",1,11628567,0.0
+2026-07-01,mobile,"Google, self-hosted",5279107,15539089,0.3397
+2026-07-01,mobile,self-hosted,5106934,15539089,0.3287
+2026-07-01,mobile,Google,2246504,15539089,0.1446
+2026-07-01,mobile,"Google, fontawesome.com, self-hosted",156430,15539089,0.0101
+2026-07-01,mobile,"Adobe, self-hosted",141398,15539089,0.0091
+2026-07-01,mobile,"Adobe, Google, self-hosted",135967,15539089,0.0087
+2026-07-01,mobile,"Google, fontawesome.com",130946,15539089,0.0084
+2026-07-01,mobile,"Adobe, Google",100952,15539089,0.0065
+2026-07-01,mobile,Adobe,98863,15539089,0.0064
+2026-07-01,mobile,"fontawesome.com, self-hosted",59745,15539089,0.0038
+2026-07-01,mobile,fontawesome.com,31518,15539089,0.002
+2026-07-01,mobile,"Adobe, fontawesome.com",7209,15539089,0.0005
+2026-07-01,mobile,"Adobe, Google, fontawesome.com, self-hosted",6899,15539089,0.0004
+2026-07-01,mobile,"Adobe, Google, fontawesome.com",6392,15539089,0.0004
+2026-07-01,mobile,"Adobe, fontawesome.com, self-hosted",5418,15539089,0.0003
+2026-07-01,mobile,"fontplus.jp, self-hosted",4979,15539089,0.0003
+2026-07-01,mobile,fontplus.jp,1593,15539089,0.0001
+2026-07-01,mobile,"Google, fontplus.jp",1472,15539089,0.0001
+2026-07-01,mobile,"Google, fontplus.jp, self-hosted",1296,15539089,0.0001
+2026-07-01,mobile,"Google, self-hosted, typesquare.com",1012,15539089,0.0001
+2026-07-01,mobile,"self-hosted, typesquare.com",663,15539089,0.0
+2026-07-01,mobile,"Google, typesquare.com",426,15539089,0.0
+2026-07-01,mobile,typesquare.com,351,15539089,0.0
+2026-07-01,mobile,"self-hosted, typenetwork.com",189,15539089,0.0
+2026-07-01,mobile,"Adobe, self-hosted, typesquare.com",172,15539089,0.0
+2026-07-01,mobile,"Adobe, Google, self-hosted, typesquare.com",125,15539089,0.0
+2026-07-01,mobile,"fontawesome.com, fontplus.jp",108,15539089,0.0
+2026-07-01,mobile,"Adobe, Google, typesquare.com",100,15539089,0.0
+2026-07-01,mobile,typenetwork.com,86,15539089,0.0
+2026-07-01,mobile,"Google, self-hosted, typenetwork.com",83,15539089,0.0
+2026-07-01,mobile,"Google, fontawesome.com, fontplus.jp",82,15539089,0.0
+2026-07-01,mobile,"Adobe, fontplus.jp, self-hosted",65,15539089,0.0
+2026-07-01,mobile,"Adobe, typesquare.com",58,15539089,0.0
+2026-07-01,mobile,"Adobe, fontawesome.com, fontplus.jp",49,15539089,0.0
+2026-07-01,mobile,"Google, fontawesome.com, typesquare.com",49,15539089,0.0
+2026-07-01,mobile,"Adobe, Google, fontplus.jp, self-hosted",49,15539089,0.0
+2026-07-01,mobile,"Adobe, fontplus.jp",44,15539089,0.0
+2026-07-01,mobile,"Adobe, Google, fontplus.jp",40,15539089,0.0
+2026-07-01,mobile,typotheque.com,37,15539089,0.0
+2026-07-01,mobile,"self-hosted, typotheque.com",35,15539089,0.0
+2026-07-01,mobile,"Google, typenetwork.com",35,15539089,0.0
+2026-07-01,mobile,"fontawesome.com, typesquare.com",32,15539089,0.0
+2026-07-01,mobile,"fontawesome.com, fontplus.jp, self-hosted",30,15539089,0.0
+2026-07-01,mobile,"Google, fontawesome.com, self-hosted, typesquare.com",29,15539089,0.0
+2026-07-01,mobile,"Google, fontawesome.com, fontplus.jp, self-hosted",23,15539089,0.0
+2026-07-01,mobile,"Google, self-hosted, typotheque.com",21,15539089,0.0
+2026-07-01,mobile,"Adobe, Google, fontawesome.com, typesquare.com",21,15539089,0.0
+2026-07-01,mobile,"Google, fontplus.jp, self-hosted, typesquare.com",18,15539089,0.0
+2026-07-01,mobile,"fontawesome.com, self-hosted, typesquare.com",16,15539089,0.0
+2026-07-01,mobile,"Google, typotheque.com",13,15539089,0.0
+2026-07-01,mobile,"Adobe, Google, fontplus.jp, self-hosted, typesquare.com",12,15539089,0.0
+2026-07-01,mobile,"Adobe, Google, fontawesome.com, fontplus.jp",11,15539089,0.0
+2026-07-01,mobile,"Adobe, fontawesome.com, typesquare.com",11,15539089,0.0
+2026-07-01,mobile,"Adobe, Google, self-hosted, typenetwork.com",11,15539089,0.0
+2026-07-01,mobile,"Google, fontawesome.com, typenetwork.com",10,15539089,0.0
+2026-07-01,mobile,"Google, fontstand.com, self-hosted",9,15539089,0.0
+2026-07-01,mobile,"Google, fontplus.jp, typesquare.com",8,15539089,0.0
+2026-07-01,mobile,"fontstand.com, self-hosted",8,15539089,0.0
+2026-07-01,mobile,"Adobe, self-hosted, typenetwork.com",8,15539089,0.0
+2026-07-01,mobile,"fontplus.jp, typesquare.com",7,15539089,0.0
+2026-07-01,mobile,"Adobe, fontawesome.com, fontplus.jp, self-hosted",6,15539089,0.0
+2026-07-01,mobile,"Adobe, fontplus.jp, self-hosted, typesquare.com",6,15539089,0.0
+2026-07-01,mobile,"fontawesome.com, self-hosted, typenetwork.com",5,15539089,0.0
+2026-07-01,mobile,"Adobe, typenetwork.com",5,15539089,0.0
+2026-07-01,mobile,"Google, fontstand.com",5,15539089,0.0
+2026-07-01,mobile,"fontplus.jp, self-hosted, typesquare.com",5,15539089,0.0
+2026-07-01,mobile,fontstand.com,5,15539089,0.0
+2026-07-01,mobile,"Adobe, Google, typenetwork.com",4,15539089,0.0
+2026-07-01,mobile,"fontawesome.com, typenetwork.com",4,15539089,0.0
+2026-07-01,mobile,"Google, fontawesome.com, self-hosted, typenetwork.com",4,15539089,0.0
+2026-07-01,mobile,"Adobe, self-hosted, typotheque.com",3,15539089,0.0
+2026-07-01,mobile,"Adobe, Google, fontawesome.com, fontplus.jp, self-hosted",3,15539089,0.0
+2026-07-01,mobile,"Adobe, Google, fontawesome.com, self-hosted, typesquare.com",3,15539089,0.0
+2026-07-01,mobile,"Adobe, fontstand.com, self-hosted",3,15539089,0.0
+2026-07-01,mobile,"Adobe, fontawesome.com, self-hosted, typesquare.com",2,15539089,0.0
+2026-07-01,mobile,"Google, fontawesome.com, fontplus.jp, typesquare.com",2,15539089,0.0
+2026-07-01,mobile,"Google, fontawesome.com, fontstand.com, self-hosted",2,15539089,0.0
+2026-07-01,mobile,"Adobe, Google, fontstand.com, self-hosted",2,15539089,0.0
+2026-07-01,mobile,"Adobe, Google, fontawesome.com, self-hosted, typenetwork.com",2,15539089,0.0
+2026-07-01,mobile,"fontawesome.com, self-hosted, typotheque.com",1,15539089,0.0
+2026-07-01,mobile,"Adobe, fontplus.jp, typesquare.com",1,15539089,0.0
+2026-07-01,mobile,"Adobe, Google, fontplus.jp, typesquare.com",1,15539089,0.0
+2026-07-01,mobile,"Adobe, Google, fontawesome.com, fontplus.jp, self-hosted, typesquare.com",1,15539089,0.0
+2026-07-01,mobile,"Adobe, Google, self-hosted, typotheque.com",1,15539089,0.0
+2026-07-01,mobile,"Adobe, fontstand.com",1,15539089,0.0
+2026-07-01,mobile,"fontawesome.com, fontplus.jp, self-hosted, typesquare.com",1,15539089,0.0
+2026-07-01,mobile,"fontawesome.com, fontplus.jp, typesquare.com",1,15539089,0.0
+2026-07-01,mobile,"Adobe, fontawesome.com, self-hosted, typotheque.com",1,15539089,0.0
+2026-07-01,mobile,"Adobe, fontawesome.com, typenetwork.com",1,15539089,0.0
