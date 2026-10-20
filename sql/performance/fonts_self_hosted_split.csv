@@ -1,0 +1,103 @@
+client,bucket,host_label,pages,requests,share_of_root_pages
+desktop,ALL self-hosted,,8303836,31140937,0.7141
+desktop,cdnjs,,375396,590739,0.0323
+desktop,first-party,,6331878,21278943,0.5445
+desktop,google-mirror-or-cn,,305,2224,0.0
+desktop,jsdelivr,,154428,407796,0.0133
+desktop,other-third-party,,1827778,5608707,0.1572
+desktop,other-third-party host,maxcdn.bootstrapcdn.com,147108,150050,0.0127
+desktop,other-third-party host,fonts.bunny.net,60702,166658,0.0052
+desktop,other-third-party host,cdn.prod.website-files.com,54824,176310,0.0047
+desktop,other-third-party host,static.cdn-website.com,51225,130370,0.0044
+desktop,other-third-party host,irp.cdn-website.com,47341,242562,0.0041
+desktop,other-third-party host,img1.wsimg.com,40325,219274,0.0035
+desktop,other-third-party host,yastatic.net,33837,43269,0.0029
+desktop,other-third-party host,t1.daumcdn.net,30153,50376,0.0026
+desktop,other-third-party host,static.wikia.nocookie.net,27313,134055,0.0023
+desktop,other-third-party host,cdn2.editmysite.com,27111,125787,0.0023
+desktop,other-third-party host,netdna.bootstrapcdn.com,23433,23553,0.002
+desktop,other-third-party host,stackpath.bootstrapcdn.com,20900,20979,0.0018
+desktop,other-third-party host,code.tidio.co,20481,41293,0.0018
+desktop,other-third-party host,framerusercontent.com,19329,81953,0.0017
+desktop,other-third-party host,fonts.jimstatic.com,18639,91767,0.0016
+desktop,other-third-party host,assets.sftcdn.net,17693,53079,0.0015
+desktop,other-third-party host,static.tildacdn.com,16897,43642,0.0015
+desktop,other-third-party host,cdn3.editmysite.com,15923,57105,0.0014
+desktop,other-third-party host,js.smile.io,15582,17742,0.0013
+desktop,other-third-party host,cdn.trustindex.io,15359,33156,0.0013
+desktop,other-third-party host,storage.googleapis.com,14794,28126,0.0013
+desktop,other-third-party host,maps.yastatic.net,14666,58741,0.0013
+desktop,other-third-party host,cdngeneralmvc.rentcafe.com,13819,32862,0.0012
+desktop,other-third-party host,fonts.mailerlite.com,13741,45132,0.0012
+desktop,other-third-party host,cdn.myshoptet.com,12292,58351,0.0011
+desktop,other-third-party host,fonts.cdnfonts.com,12023,27847,0.001
+desktop,other-third-party host,css.zohocdn.com,11381,13367,0.001
+desktop,other-third-party host,static.spotapps.co,10650,11613,9.0E-4
+desktop,other-third-party host,static.klaviyo.com,10394,18338,9.0E-4
+desktop,other-third-party host,assets.jimstatic.com,9695,9695,8.0E-4
+desktop,other-third-party host,encore.scdn.co,9668,26212,8.0E-4
+desktop,other-third-party host,public.powrcdn.com,9646,11449,8.0E-4
+desktop,other-third-party host,at.alicdn.com,9156,10935,8.0E-4
+desktop,other-third-party host,connect.podium.com,9088,26888,8.0E-4
+desktop,other-third-party host,stcdn.leadconnectorhq.com,8997,10478,8.0E-4
+desktop,other-third-party host,fonts.loox.io,8477,10466,7.0E-4
+desktop,other-third-party host,stc.utdstc.com,8467,16934,7.0E-4
+desktop,other-third-party host,cdn.zyrosite.com,8395,40171,7.0E-4
+desktop,other-third-party host,assets.brevo.com,8202,11041,7.0E-4
+desktop,other-third-party host,code.ionicframework.com,7455,8681,6.0E-4
+desktop,shopify,,218252,526036,0.0188
+desktop,squarespace,,110935,322417,0.0095
+desktop,unpkg,,9011,11609,8.0E-4
+desktop,wix,,306950,2095081,0.0264
+desktop,wordpress.com,,63800,297385,0.0055
+mobile,ALL self-hosted,,10900802,39636873,0.7015
+mobile,cdnjs,,517105,805928,0.0333
+mobile,first-party,,8224093,27033617,0.5293
+mobile,google-mirror-or-cn,,193,1436,0.0
+mobile,jsdelivr,,188037,402767,0.0121
+mobile,other-third-party,,2412617,7328105,0.1553
+mobile,other-third-party host,maxcdn.bootstrapcdn.com,187458,191468,0.0121
+mobile,other-third-party host,fonts.bunny.net,73882,208849,0.0048
+mobile,other-third-party host,static.cdn-website.com,71229,179889,0.0046
+mobile,other-third-party host,yastatic.net,67752,94526,0.0044
+mobile,other-third-party host,irp.cdn-website.com,63406,314099,0.0041
+mobile,other-third-party host,img1.wsimg.com,56618,307641,0.0036
+mobile,other-third-party host,cdn.prod.website-files.com,55471,175955,0.0036
+mobile,other-third-party host,assets.sftcdn.net,42465,127398,0.0027
+mobile,other-third-party host,static.tildacdn.com,42046,97298,0.0027
+mobile,other-third-party host,fonts.jimstatic.com,36208,162613,0.0023
+mobile,other-third-party host,maps.yastatic.net,35516,142267,0.0023
+mobile,other-third-party host,cdn2.editmysite.com,34133,156169,0.0022
+mobile,other-third-party host,stc.utdstc.com,30993,61987,0.002
+mobile,other-third-party host,static.wikia.nocookie.net,30473,125007,0.002
+mobile,other-third-party host,stackpath.bootstrapcdn.com,30039,30129,0.0019
+mobile,other-third-party host,netdna.bootstrapcdn.com,28109,28230,0.0018
+mobile,other-third-party host,cdn3.editmysite.com,22862,82019,0.0015
+mobile,other-third-party host,code.tidio.co,22613,45296,0.0015
+mobile,other-third-party host,framerusercontent.com,19590,83570,0.0013
+mobile,other-third-party host,t1.daumcdn.net,19367,23070,0.0012
+mobile,other-third-party host,cdn.blog.st-hatena.com,18414,18536,0.0012
+mobile,other-third-party host,cdn.zyrosite.com,17252,81755,0.0011
+mobile,other-third-party host,storage.googleapis.com,16910,31244,0.0011
+mobile,other-third-party host,assets.jimstatic.com,16657,16657,0.0011
+mobile,other-third-party host,fonts.mailerlite.com,16028,53695,0.001
+mobile,other-third-party host,fonts.cdnfonts.com,15912,34346,0.001
+mobile,other-third-party host,cdn.trustindex.io,15143,31145,0.001
+mobile,other-third-party host,cdn.myshoptet.com,14633,68670,9.0E-4
+mobile,other-third-party host,js.smile.io,14598,16890,9.0E-4
+mobile,other-third-party host,cdngeneralmvc.rentcafe.com,14579,34146,9.0E-4
+mobile,other-third-party host,stcdn.leadconnectorhq.com,13906,16264,9.0E-4
+mobile,other-third-party host,static.spotapps.co,13622,14742,9.0E-4
+mobile,other-third-party host,cdn.salla.network,12426,28507,8.0E-4
+mobile,other-third-party host,static.klaviyo.com,12185,21556,8.0E-4
+mobile,other-third-party host,css.zohocdn.com,11738,14194,8.0E-4
+mobile,other-third-party host,public.powrcdn.com,11395,11962,7.0E-4
+mobile,other-third-party host,duyn491kcolsw.cloudfront.net,11161,43603,7.0E-4
+mobile,other-third-party host,at.alicdn.com,11058,12844,7.0E-4
+mobile,other-third-party host,code.ionicframework.com,10181,10620,7.0E-4
+mobile,other-third-party host,fonts.loox.io,10008,12044,6.0E-4
+mobile,shopify,,256647,605485,0.0165
+mobile,squarespace,,124858,366553,0.008
+mobile,unpkg,,11698,15009,8.0E-4
+mobile,wix,,424725,2679912,0.0273
+mobile,wordpress.com,,84657,398061,0.0054

@@ -1,0 +1,93 @@
+year,client,tool,pages,font_pages,share_of_font_pages
+2022,desktop,ANY fingerprint,193906,6179311,0.0314
+2023,desktop,ANY fingerprint,490004,10614182,0.0462
+2024,desktop,ANY fingerprint,580354,10884408,0.0533
+2025,desktop,ANY fingerprint,1221921,10686195,0.1143
+2026,desktop,ANY fingerprint,1292371,10298910,0.1255
+2022,mobile,ANY fingerprint,261112,8492451,0.0307
+2023,mobile,ANY fingerprint,642743,13538673,0.0475
+2024,mobile,ANY fingerprint,752743,13571755,0.0555
+2025,mobile,ANY fingerprint,1558933,13358201,0.1167
+2026,mobile,ANY fingerprint,1720860,13527859,0.1272
+2023,desktop,astro-fonts path,8,10614182,0.0
+2024,desktop,astro-fonts path,15,10884408,0.0
+2025,desktop,astro-fonts path,90,10686195,0.0
+2026,desktop,astro-fonts path,2108,10298910,2.0E-4
+2023,mobile,astro-fonts path,7,13538673,0.0
+2024,mobile,astro-fonts path,27,13571755,0.0
+2025,mobile,astro-fonts path,102,13358201,0.0
+2026,mobile,astro-fonts path,3184,13527859,2.0E-4
+2022,desktop,fontsource path,209,6179311,0.0
+2023,desktop,fontsource path,1485,10614182,1.0E-4
+2024,desktop,fontsource path,2016,10884408,2.0E-4
+2025,desktop,fontsource path,2734,10686195,3.0E-4
+2026,desktop,fontsource path,3446,10298910,3.0E-4
+2022,mobile,fontsource path,233,8492451,0.0
+2023,mobile,fontsource path,1574,13538673,1.0E-4
+2024,mobile,fontsource path,2122,13571755,2.0E-4
+2025,mobile,fontsource path,2786,13358201,2.0E-4
+2026,mobile,fontsource path,3705,13527859,3.0E-4
+2022,desktop,google-webfonts-helper naming,127263,6179311,0.0206
+2023,desktop,google-webfonts-helper naming,286059,10614182,0.027
+2024,desktop,google-webfonts-helper naming,304502,10884408,0.028
+2025,desktop,google-webfonts-helper naming,315574,10686195,0.0295
+2026,desktop,google-webfonts-helper naming,300596,10298910,0.0292
+2022,mobile,google-webfonts-helper naming,167229,8492451,0.0197
+2023,mobile,google-webfonts-helper naming,365426,13538673,0.027
+2024,mobile,google-webfonts-helper naming,394061,13571755,0.029
+2025,mobile,google-webfonts-helper naming,399029,13358201,0.0299
+2026,mobile,google-webfonts-helper naming,390181,13527859,0.0288
+2022,desktop,next/font path,7912,6179311,0.0013
+2023,desktop,next/font path,34569,10614182,0.0033
+2024,desktop,next/font path,86722,10884408,0.008
+2025,desktop,next/font path,153715,10686195,0.0144
+2026,desktop,next/font path,292128,10298910,0.0284
+2022,mobile,next/font path,9960,8492451,0.0012
+2023,mobile,next/font path,41418,13538673,0.0031
+2024,mobile,next/font path,101411,13571755,0.0075
+2025,mobile,next/font path,186373,13358201,0.014
+2026,mobile,next/font path,393552,13527859,0.0291
+2022,desktop,nuxt-fonts path,15974,6179311,0.0026
+2023,desktop,nuxt-fonts path,27510,10614182,0.0026
+2024,desktop,nuxt-fonts path,26721,10884408,0.0025
+2025,desktop,nuxt-fonts path,21975,10686195,0.0021
+2026,desktop,nuxt-fonts path,21046,10298910,0.002
+2022,mobile,nuxt-fonts path,21868,8492451,0.0026
+2023,mobile,nuxt-fonts path,38541,13538673,0.0028
+2024,mobile,nuxt-fonts path,35610,13571755,0.0026
+2025,mobile,nuxt-fonts path,27683,13358201,0.0021
+2026,mobile,nuxt-fonts path,27642,13527859,0.002
+2025,desktop,wp elementor local google fonts,585642,10686195,0.0548
+2026,desktop,wp elementor local google fonts,535514,10298910,0.052
+2025,mobile,wp elementor local google fonts,748343,13358201,0.056
+2026,mobile,wp elementor local google fonts,708079,13527859,0.0523
+2022,desktop,wp omgf,6430,6179311,0.001
+2023,desktop,wp omgf,26905,10614182,0.0025
+2024,desktop,wp omgf,29157,10884408,0.0027
+2025,desktop,wp omgf,25458,10686195,0.0024
+2026,desktop,wp omgf,24916,10298910,0.0024
+2022,mobile,wp omgf,8604,8492451,0.001
+2023,mobile,wp omgf,41121,13538673,0.003
+2024,mobile,wp omgf,43215,13571755,0.0032
+2025,mobile,wp omgf,38400,13358201,0.0029
+2026,mobile,wp omgf,39383,13527859,0.0029
+2022,desktop,wp uploads/fonts,3264,6179311,5.0E-4
+2023,desktop,wp uploads/fonts,12903,10614182,0.0012
+2024,desktop,wp uploads/fonts,16332,10884408,0.0015
+2025,desktop,wp uploads/fonts,19659,10686195,0.0018
+2026,desktop,wp uploads/fonts,26072,10298910,0.0025
+2022,mobile,wp uploads/fonts,4459,8492451,5.0E-4
+2023,mobile,wp uploads/fonts,18739,13538673,0.0014
+2024,mobile,wp uploads/fonts,22709,13571755,0.0017
+2025,mobile,wp uploads/fonts,26246,13358201,0.002
+2026,mobile,wp uploads/fonts,35120,13527859,0.0026
+2022,desktop,wp-content/fonts,33743,6179311,0.0055
+2023,desktop,wp-content/fonts,104965,10614182,0.0099
+2024,desktop,wp-content/fonts,119926,10884408,0.011
+2025,desktop,wp-content/fonts,127025,10686195,0.0119
+2026,desktop,wp-content/fonts,113747,10298910,0.011
+2022,mobile,wp-content/fonts,50055,8492451,0.0059
+2023,mobile,wp-content/fonts,142222,13538673,0.0105
+2024,mobile,wp-content/fonts,160439,13571755,0.0118
+2025,mobile,wp-content/fonts,168455,13358201,0.0126
+2026,mobile,wp-content/fonts,156813,13527859,0.0116

@@ -13,3 +13,5 @@
 **Years are never backfilled.** A category only appears for years it was actually measured (unique-URL format mix starts 2024; `font-display` uses 2022 / 2025 / 2026). Missing years are left out, not interpolated. F5 puts a marker on every measured year so the 2021 and 2023 gaps read as gaps.
 
 **Environment.** `.venv/` is a local virtualenv (matplotlib + pandas). Rebuild with `python3 -m venv .venv && ./.venv/bin/pip install -r requirements.lock.txt`.
+
+**Numbering.** Figures are numbered 1 to 9 in the order they appear in the chapter. Output files are `fNN-<slug>` from that number. After a renumbering, delete the old `out/f*` files before rendering, or a stale `f02-…` will be picked up for the wrong chart.

@@ -7,9 +7,9 @@ from PIL import Image
 
 OUT = Path(__file__).resolve().parent / "out"
 STEMS = [
-    "f01-font-usage-over-time", "f02-variable-font-adoption", "f04-hosting-combinations",
-    "f05-woff2-request-share", "f06-format-mix-unique-urls", "f07-resource-hints",
-    "f08-font-display", "f09-size-percentiles", "f10-script-coverage",
+    "f01-font-usage-over-time", "f02-hosting-combinations", "f03-woff2-request-share",
+    "f04-format-mix-unique-urls", "f05-size-percentiles", "f06-resource-hints",
+    "f07-font-display", "f08-script-coverage", "f09-variable-font-adoption",
 ]
 TILE_W, GUTTER, GROUND = 800, 24, (200, 203, 211)
 

@@ -7,8 +7,8 @@ loaded and designed across the web, from the 2026-07-01 crawl, compared with ear
 | Directory | Contents |
 | --- | --- |
 | `sql/` | The BigQuery queries and the saved result of each (`name.sql` beside `name.csv`), grouped by topic: `design/`, `development/`, `performance/`, plus `materialize/` for the pruned working tables. `execute*.py` run them. |
-| `data/multi-year/` | Chart-ready CSVs spanning 2011-2026 (`chart_*.csv`). The folder's `README.md` gives provenance and methodology caveats, including which years use request share and which use unique-URL share. |
-| `figures/` | `render.py` draws nine figures (F1, F2, F4-F10) from the CSVs. Output lands in `figures/out/` as SVG and PNG. |
+| `data/` | Chart-ready CSVs spanning 2011-2026 in `multi-year/` (`chart_*.csv`; its `README.md` gives provenance and methodology caveats, including which years use request share and which use unique-URL share). At top level: a Google Fonts catalogue snapshot (2026-10-12) and per-service font-family totals for self-hosted vs Google. |
+| `figures/` | `render.py` draws nine figures (F1–F9) from the CSVs. Output lands in `figures/out/` as SVG and PNG. |
 
 ## Reproduce the figures
 

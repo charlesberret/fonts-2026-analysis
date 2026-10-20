@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-10-02T13:02:58.178589</dc:date>
+    <dc:date>2026-10-20T14:28:07.525444</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -74,7 +74,7 @@ z
      <g id="line2d_6">
       <path d="M 72 319.68 
 L 460.8 319.68 
-" clip-path="url(#pc3ea54b12b)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
+" clip-path="url(#p36aae99157)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
      </g>
      <g id="line2d_7"/>
      <g id="text_6">
@@ -85,7 +85,7 @@ L 460.8 319.68
      <g id="line2d_8">
       <path d="M 72 287.04 
 L 460.8 287.04 
-" clip-path="url(#pc3ea54b12b)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
+" clip-path="url(#p36aae99157)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
      </g>
      <g id="line2d_9"/>
      <g id="text_7">
@@ -96,7 +96,7 @@ L 460.8 287.04
      <g id="line2d_10">
       <path d="M 72 254.4 
 L 460.8 254.4 
-" clip-path="url(#pc3ea54b12b)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
+" clip-path="url(#p36aae99157)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
      </g>
      <g id="line2d_11"/>
      <g id="text_8">
@@ -107,7 +107,7 @@ L 460.8 254.4
      <g id="line2d_12">
       <path d="M 72 221.76 
 L 460.8 221.76 
-" clip-path="url(#pc3ea54b12b)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
+" clip-path="url(#p36aae99157)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
      </g>
      <g id="line2d_13"/>
      <g id="text_9">
@@ -118,7 +118,7 @@ L 460.8 221.76
      <g id="line2d_14">
       <path d="M 72 189.12 
 L 460.8 189.12 
-" clip-path="url(#pc3ea54b12b)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
+" clip-path="url(#p36aae99157)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
      </g>
      <g id="line2d_15"/>
      <g id="text_10">
@@ -129,7 +129,7 @@ L 460.8 189.12
      <g id="line2d_16">
       <path d="M 72 156.48 
 L 460.8 156.48 
-" clip-path="url(#pc3ea54b12b)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
+" clip-path="url(#p36aae99157)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
      </g>
      <g id="line2d_17"/>
      <g id="text_11">
@@ -140,7 +140,7 @@ L 460.8 156.48
      <g id="line2d_18">
       <path d="M 72 123.84 
 L 460.8 123.84 
-" clip-path="url(#pc3ea54b12b)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
+" clip-path="url(#p36aae99157)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
      </g>
      <g id="line2d_19"/>
      <g id="text_12">
@@ -159,7 +159,7 @@ L 103.256471 319.68
 L 103.256471 215.95008 
 L 86.484706 215.95008 
 z
-" clip-path="url(#pc3ea54b12b)" style="fill: #8a64ab"/>
+" clip-path="url(#p36aae99157)" style="fill: #8a64ab"/>
    </g>
    <g id="patch_5">
     <path d="M 162.72 319.68 
@@ -167,7 +167,7 @@ L 179.491765 319.68
 L 179.491765 266.73792 
 L 162.72 266.73792 
 z
-" clip-path="url(#pc3ea54b12b)" style="fill: #8a64ab"/>
+" clip-path="url(#p36aae99157)" style="fill: #8a64ab"/>
    </g>
    <g id="patch_6">
     <path d="M 238.955294 319.68 
@@ -175,7 +175,7 @@ L 255.727059 319.68
 L 255.727059 289.84704 
 L 238.955294 289.84704 
 z
-" clip-path="url(#pc3ea54b12b)" style="fill: #8a64ab"/>
+" clip-path="url(#p36aae99157)" style="fill: #8a64ab"/>
    </g>
    <g id="patch_7">
     <path d="M 315.190588 319.68 
@@ -183,7 +183,7 @@ L 331.962353 319.68
 L 331.962353 312.59712 
 L 315.190588 312.59712 
 z
-" clip-path="url(#pc3ea54b12b)" style="fill: #8a64ab"/>
+" clip-path="url(#p36aae99157)" style="fill: #8a64ab"/>
    </g>
    <g id="patch_8">
     <path d="M 391.425882 319.68 
@@ -191,7 +191,7 @@ L 408.197647 319.68
 L 408.197647 318.79872 
 L 391.425882 318.79872 
 z
-" clip-path="url(#pc3ea54b12b)" style="fill: #8a64ab"/>
+" clip-path="url(#p36aae99157)" style="fill: #8a64ab"/>
    </g>
    <g id="text_13">
     <g id="patch_9">
@@ -210,7 +210,7 @@ L 122.315294 319.68
 L 122.315294 157.953043 
 L 105.543529 157.953043 
 z
-" clip-path="url(#pc3ea54b12b)" style="fill: #2a5cda"/>
+" clip-path="url(#p36aae99157)" style="fill: #2a5cda"/>
    </g>
    <g id="patch_11">
     <path d="M 181.778824 319.68 
@@ -218,7 +218,7 @@ L 198.550588 319.68
 L 198.550588 239.165606 
 L 181.778824 239.165606 
 z
-" clip-path="url(#pc3ea54b12b)" style="fill: #2a5cda"/>
+" clip-path="url(#p36aae99157)" style="fill: #2a5cda"/>
    </g>
    <g id="patch_12">
     <path d="M 258.014118 319.68 
@@ -226,7 +226,7 @@ L 274.785882 319.68
 L 274.785882 290.139821 
 L 258.014118 290.139821 
 z
-" clip-path="url(#pc3ea54b12b)" style="fill: #2a5cda"/>
+" clip-path="url(#p36aae99157)" style="fill: #2a5cda"/>
    </g>
    <g id="patch_13">
     <path d="M 334.249412 319.68 
@@ -234,7 +234,7 @@ L 351.021176 319.68
 L 351.021176 303.206266 
 L 334.249412 303.206266 
 z
-" clip-path="url(#pc3ea54b12b)" style="fill: #2a5cda"/>
+" clip-path="url(#p36aae99157)" style="fill: #2a5cda"/>
    </g>
    <g id="patch_14">
     <path d="M 410.484706 319.68 
@@ -242,7 +242,7 @@ L 427.256471 319.68
 L 427.256471 318.473299 
 L 410.484706 318.473299 
 z
-" clip-path="url(#pc3ea54b12b)" style="fill: #2a5cda"/>
+" clip-path="url(#p36aae99157)" style="fill: #2a5cda"/>
    </g>
    <g id="text_14">
     <g id="patch_15">
@@ -261,7 +261,7 @@ L 141.374118 319.68
 L 141.374118 137.74464 
 L 124.602353 137.74464 
 z
-" clip-path="url(#pc3ea54b12b)" style="fill: #ca363a"/>
+" clip-path="url(#p36aae99157)" style="fill: #ca363a"/>
    </g>
    <g id="patch_17">
     <path d="M 200.837647 319.68 
@@ -269,7 +269,7 @@ L 217.609412 319.68
 L 217.609412 239.64672 
 L 200.837647 239.64672 
 z
-" clip-path="url(#pc3ea54b12b)" style="fill: #ca363a"/>
+" clip-path="url(#p36aae99157)" style="fill: #ca363a"/>
    </g>
    <g id="patch_18">
     <path d="M 277.072941 319.68 
@@ -277,7 +277,7 @@ L 293.844706 319.68
 L 293.844706 292.19712 
 L 277.072941 292.19712 
 z
-" clip-path="url(#pc3ea54b12b)" style="fill: #ca363a"/>
+" clip-path="url(#p36aae99157)" style="fill: #ca363a"/>
    </g>
    <g id="patch_19">
     <path d="M 353.308235 319.68 
@@ -285,7 +285,7 @@ L 370.08 319.68
 L 370.08 306.9504 
 L 353.308235 306.9504 
 z
-" clip-path="url(#pc3ea54b12b)" style="fill: #ca363a"/>
+" clip-path="url(#p36aae99157)" style="fill: #ca363a"/>
    </g>
    <g id="patch_20">
     <path d="M 429.543529 319.68 
@@ -293,7 +293,7 @@ L 446.315294 319.68
 L 446.315294 318.3744 
 L 429.543529 318.3744 
 z
-" clip-path="url(#pc3ea54b12b)" style="fill: #ca363a"/>
+" clip-path="url(#p36aae99157)" style="fill: #ca363a"/>
    </g>
    <g id="text_15">
     <g id="patch_21">
@@ -391,16 +391,16 @@ L 473.76 329.76
 " style="fill: none; stroke: #181a23; stroke-opacity: 0.5; stroke-width: 0.4; stroke-linecap: round"/>
   </g>
   <g id="text_20">
-   <text style="font-style: italic; font-size: 8.9856px; font-family: 'Funnel Sans'; text-anchor: start; fill: #181a23" x="40.32" y="30.5856" transform="rotate(-0 40.32 30.5856)">Fig. 8</text>
+   <text style="font-size: 8.9856px; font-family: 'Funnel Sans'; text-anchor: start; fill: #181a23" x="40.32" y="30.5856" transform="rotate(-0 40.32 30.5856)">Fig. 7</text>
   </g>
   <g id="text_21">
    <text style="font-size: 8.9856px; font-family: 'Funnel Sans'; text-anchor: start; fill: #5b5d66" x="67.68" y="30.5856" transform="rotate(-0 67.68 30.5856)">font-display</text>
   </g>
   <g id="text_22">
-   <text style="font-weight: 500; font-size: 21.6px; font-family: 'Funnel Display'; text-anchor: start; fill: #181a23" x="40.32" y="59.04" transform="rotate(-0 40.32 59.04)">font-display values, desktop, 2022, 2025 and 2026</text>
+   <text style="font-weight: 500; font-size: 21.6px; font-family: 'Funnel Display'; text-anchor: start; fill: #181a23" x="40.32" y="59.04" transform="rotate(-0 40.32 59.04)">font-display values, 2022, 2025 and 2026</text>
   </g>
   <g id="text_23">
-   <text style="font-size: 9.3312px; font-family: 'Funnel Sans'; text-anchor: start; fill: #5b5d66" x="40.32" y="77.839344" transform="rotate(-0 40.32 77.839344)">Share of desktop root pages declaring each value; pages with no value not shown; a page may declare more than one value</text>
+   <text style="font-size: 9.3312px; font-family: 'Funnel Sans'; text-anchor: start; fill: #5b5d66" x="40.32" y="77.839344" transform="rotate(-0 40.32 77.839344)">What share of desktop root pages declare each value. Pages with no value are not shown, and a page may declare more than one.</text>
   </g>
   <g id="text_24">
    <text style="font-style: italic; font-size: 8.2944px; font-family: 'Funnel Sans'; text-anchor: start; fill: #5b5d66" x="40.32" y="111.6864" transform="rotate(-0 40.32 111.6864)">percent of desktop root pages</text>
@@ -415,22 +415,27 @@ L 473.76 329.76
    <text style="font-size: 8.9856px; font-family: 'Funnel Sans'; text-anchor: start; fill: #181a23" x="501.12" y="148.6656" transform="rotate(-0 501.12 148.6656)">2026</text>
   </g>
   <g id="text_28">
-   <text style="font-weight: 300; font-size: 44.64px; font-family: 'Funnel Display'; text-anchor: start; fill: #181a23" x="486.72" y="211.68" transform="rotate(-0 486.72 211.68)">55.7</text>
+   <text style="font-weight: 300; font-size: 63.36px; font-family: 'Funnel Display'; text-anchor: start; fill: #181a23" x="486.72" y="230.4" transform="rotate(-0 486.72 230.4)">55.7</text>
   </g>
   <g id="text_29">
-   <text style="font-weight: 300; font-size: 17.856px; font-family: 'Funnel Display'; text-anchor: start; fill: #181a23" x="574.724571" y="195.099429" transform="rotate(-0 574.724571 195.099429)">%</text>
+   <text style="font-weight: 300; font-size: 25.344px; font-family: 'Funnel Display'; text-anchor: start; fill: #181a23" x="611.629714" y="206.866286" transform="rotate(-0 611.629714 206.866286)">%</text>
   </g>
   <g id="text_30">
-   <text style="font-size: 8.9856px; font-family: 'Funnel Sans'; fill: #181a23" transform="translate(486.72 234.650386)">of desktop root pages use swap, up 6.2</text>
-   <text style="font-size: 8.9856px; font-family: 'Funnel Sans'; fill: #181a23" transform="translate(486.72 248.173714)">points from 2025.</text>
+   <text style="font-size: 10.7136px; font-family: 'Funnel Sans'; fill: #181a23" transform="translate(486.72 261.026743)">Swap is now on over half of</text>
+   <text style="font-size: 10.7136px; font-family: 'Funnel Sans'; fill: #181a23" transform="translate(486.72 277.043575)">desktop pages, up 6.2 points</text>
+   <text style="font-size: 10.7136px; font-family: 'Funnel Sans'; fill: #181a23" transform="translate(486.72 294.185335)">from 2025.</text>
   </g>
   <g id="text_31">
+   <text style="font-style: italic; font-size: 8.64px; font-family: 'Funnel Sans'; fill: #5b5d66" transform="translate(486.72 317.165143)">block holds at 24.5%, largely an icon-font</text>
+   <text style="font-style: italic; font-size: 8.64px; font-family: 'Funnel Sans'; fill: #5b5d66" transform="translate(486.72 330.168343)">default rather than a choice for body text.</text>
+  </g>
+  <g id="text_32">
    <text style="font-size: 7.9488px; font-family: 'Funnel Sans'; fill: #5b5d66" transform="translate(40.32 360.957456)">Source: HTTP Archive desktop root pages, mid-year crawls (2026 = July 1, 2026 crawl); only these three years were measured the same way. 2026 values are</text>
    <text style="font-size: 7.9488px; font-family: 'Funnel Sans'; fill: #5b5d66" transform="translate(40.32 373.377456)">corrected for stylesheets the extraction set aside for size. Denominator: desktop root pages.</text>
   </g>
  </g>
  <defs>
-  <clipPath id="pc3ea54b12b">
+  <clipPath id="p36aae99157">
    <rect x="72" y="123.84" width="388.8" height="195.84"/>
   </clipPath>
  </defs>

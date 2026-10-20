@@ -4,7 +4,7 @@ The ONLY style file. Every figure in render.py draws through these helpers so
 that frame, palette, type, canvas and the denominator rule stay in one place.
 
 House style: Direction A "Specimen" frame with the A5 "Kettle" scheme
-(approved 2026-10-02, variant 'a5').
+(approved 2026-10-02; prototype figures/proto/proto_a.py, variant 'a5').
 
   * Canvas 960x540 px (9.6 x 5.4 in @ 100 dpi); PNG 1600 px wide; SVG keeps
     live text (svg.fonttype none).
@@ -216,7 +216,7 @@ def new_figure(number, section, title, deck, denominator, plot_l=PLOT_L, plot_r=
     fig._almanac_clients = list(client_series or [])
     fig._almanac_unit = False
 
-    tag = fig.text(px(L), py(30), f"Fig. {number}", family=SANS, style="italic",
+    tag = fig.text(px(L), py(30), f"Fig. {number}", family=SANS,
                    size=spt(13), color=INK, va="top")
     fig.canvas.draw()
     fig.text(tag.get_window_extent().x1 / fig.bbox.width + px(8), py(30), section, family=SANS,
@@ -322,7 +322,7 @@ def horizontal(ax) -> None:
 
 
 def text(ax, x, y, s, color=INK, size=SIZE_VALUE, **kwargs):
-    # In-plot labels knock out the gridlines they sit on (F9 p99 met the 1,000 line).
+    # In-plot labels knock out the gridlines they sit on (F5 p99 met the 1,000 line).
     kwargs.setdefault("bbox", dict(boxstyle="square,pad=0.12", fc=GROUND, ec="none"))
     t = ax.text(x, y, s, family=SANS, size=size, color=color, **kwargs)
     features(t)
@@ -483,35 +483,66 @@ def _bottom_px(fig, artist):
     return (fig.bbox.height - artist.get_window_extent().y0) * SCREEN_DPI / fig.dpi
 
 
-def margin_number(fig, number, unit, caption, note=None, y=None, size_px=70):
-    """ONE big number in the margin column, a caption under it, an optional note.
+# Callout sizing (2026-10-20). Each graphic's callout is sized to fill its margin column:
+# the big number takes the widest size that fits, the caption (the takeaway) takes the
+# largest size that still fits beneath it, and the note stays visibly smaller than the
+# caption, so size carries the hierarchy. Sizes are px on the 960x540 canvas.
+NUMBER_MAX, NUMBER_MIN = 120, 52
+CAPTION_MAX, CAPTION_MIN = 21.0, 15.0
+NOTE_MIN, NOTE_RATIO = 12.5, 1.3          # note = caption / 1.3, never under 12.5
 
-    The number is Funnel Display Light (proportional figures, display size); it
-    shrinks only if number + unit would overrun the margin column. The unit is
-    spaced from the number's ink, not its advance, so open figures (7) do not
-    leave a hole.
-    """
-    y = TOP_RULE + 24 if y is None else y
-    size_px = _fit_number(fig, number, unit, size_px, R - MARGIN_L)
+
+def _draw_callout(fig, number, unit, caption, note, y, size_px, cap_px):
+    """Draw one candidate callout; return (artists, bottom_px)."""
     k = size_px / 70
-    fig.text(px(MARGIN_L), py(y), number, family=DISPLAY, weight=300, size=pt(size_px),
-             color=INK, va="top")
-    unit_x = MARGIN_L + _ink_right_px(number, size_px) + _number_gap(size_px)
-    fig.text(px(unit_x), py(y + 16 * k), unit, family=DISPLAY, weight=300,
-             size=pt(28 * k), color=INK, va="top")
     width = R - MARGIN_L
-    props = dict(family=SANS, size=spt(13))
+    art = [fig.text(px(MARGIN_L), py(y), number, family=DISPLAY, weight=300,
+                    size=pt(size_px), color=INK, va="top")]
+    unit_x = MARGIN_L + _ink_right_px(number, size_px) + _number_gap(size_px)
+    art.append(fig.text(px(unit_x), py(y + 16 * k), unit, family=DISPLAY, weight=300,
+                        size=pt(28 * k), color=INK, va="top"))
+    props = dict(family=SANS, size=spt(cap_px))
     cap = fig.text(px(MARGIN_L), py(y + 92 * k), wrap_px(fig, _bind_last(caption), width, **props),
                    color=INK, va="top", linespacing=1.2, **props)
     features(cap)
+    art.append(cap)
+    bottom = _bottom_px(fig, cap)
     if note:
-        nprops = dict(family=SANS, style="italic", size=spt(12.5))
-        n = fig.text(px(MARGIN_L), py(_bottom_px(fig, cap) + 22),
+        note_px = max(NOTE_MIN, cap_px / NOTE_RATIO)
+        nprops = dict(family=SANS, style="italic", size=spt(note_px))
+        n = fig.text(px(MARGIN_L), py(bottom + 0.9 * cap_px),
                      wrap_px(fig, _bind_last(note), width, **nprops),
                      color=MUTED, va="top", linespacing=1.2, **nprops)
         features(n)
-        if _bottom_px(fig, n) > BOTTOM_RULE - 14:
-            raise ValueError(f"margin note overruns the column: {note!r}")
+        art.append(n)
+        bottom = _bottom_px(fig, n)
+    return art, bottom
+
+
+def margin_number(fig, number, unit, caption, note=None, y=None, size_px=None):
+    """ONE big number in the margin column, a caption under it, an optional note.
+
+    Sized per graphic to fill the column: the number is Funnel Display Light at the
+    widest size that fits (at most ``size_px`` if given, else NUMBER_MAX); the caption is
+    the largest size from CAPTION_MAX down to CAPTION_MIN that fits beneath it; the note
+    is smaller than the caption. If nothing fits, the number shrinks a step and the
+    search repeats, down to NUMBER_MIN; then the build stops. The unit is spaced from
+    the number's ink, not its advance, so open figures (7) do not leave a hole.
+    """
+    y = TOP_RULE + 24 if y is None else y
+    limit = BOTTOM_RULE - 14
+    size = _fit_number(fig, number, unit, NUMBER_MAX if size_px is None else size_px, R - MARGIN_L)
+    while size >= NUMBER_MIN:
+        cap_px = CAPTION_MAX
+        while cap_px >= CAPTION_MIN:
+            art, bottom = _draw_callout(fig, number, unit, caption, note, y, size, cap_px)
+            if bottom <= limit:
+                return
+            for a in art:
+                a.remove()
+            cap_px -= 0.5
+        size -= 4
+    raise ValueError(f"margin callout cannot fit the column: {caption!r} / {note!r}")
 
 
 def source_note(fig, text) -> None:

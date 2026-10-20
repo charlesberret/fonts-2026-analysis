@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-10-02T13:02:58.331873</dc:date>
+    <dc:date>2026-10-20T14:28:02.990728</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -42,7 +42,7 @@ z
      <g id="line2d_1">
       <path d="M 112.139406 319.68 
 L 112.139406 123.84 
-" clip-path="url(#p36b1861bd4)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
+" clip-path="url(#p2f61f87b92)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
      </g>
      <g id="line2d_2"/>
      <g id="text_1">
@@ -53,7 +53,7 @@ L 112.139406 123.84
      <g id="line2d_3">
       <path d="M 266.737395 319.68 
 L 266.737395 123.84 
-" clip-path="url(#p36b1861bd4)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
+" clip-path="url(#p2f61f87b92)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
      </g>
      <g id="line2d_4"/>
      <g id="text_2">
@@ -64,7 +64,7 @@ L 266.737395 123.84
      <g id="line2d_5">
       <path d="M 421.335384 319.68 
 L 421.335384 123.84 
-" clip-path="url(#p36b1861bd4)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
+" clip-path="url(#p2f61f87b92)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
      </g>
      <g id="line2d_6"/>
      <g id="text_3">
@@ -89,12 +89,12 @@ L 421.335384 123.84
    <g id="line2d_9">
     <path d="M 102.541793 179.186087 
 L 412.347536 179.186087 
-" clip-path="url(#p36b1861bd4)" style="fill: none; stroke: #2a5cda; stroke-opacity: 0.35; stroke-width: 1.4; stroke-linecap: round"/>
+" clip-path="url(#p2f61f87b92)" style="fill: none; stroke: #2a5cda; stroke-opacity: 0.35; stroke-width: 1.4; stroke-linecap: round"/>
    </g>
    <g id="line2d_10">
     <path d="M 104.10364 264.333913 
 L 397.010034 264.333913 
-" clip-path="url(#p36b1861bd4)" style="fill: none; stroke: #ca363a; stroke-opacity: 0.35; stroke-width: 1.4; stroke-linecap: round"/>
+" clip-path="url(#p2f61f87b92)" style="fill: none; stroke: #ca363a; stroke-opacity: 0.35; stroke-width: 1.4; stroke-linecap: round"/>
    </g>
    <g id="patch_3">
     <path d="M 72 319.68 
@@ -103,7 +103,7 @@ L 460.8 319.68
    </g>
    <g id="PathCollection_1">
     <defs>
-     <path id="m16dbd61505" d="M 0 3.391165 
+     <path id="mc54f7a7522" d="M 0 3.391165 
 C 0.899347 3.391165 1.761981 3.03385 2.397916 2.397916 
 C 3.03385 1.761981 3.391165 0.899347 3.391165 0 
 C 3.391165 -0.899347 3.03385 -1.761981 2.397916 -2.397916 
@@ -115,13 +115,13 @@ C -1.761981 3.03385 -0.899347 3.391165 0 3.391165
 z
 " style="stroke: #e7e9ee; stroke-width: 1.2"/>
     </defs>
-    <g clip-path="url(#p36b1861bd4)">
-     <use xlink:href="#m16dbd61505" x="102.541793" y="179.186087" style="fill: #2a5cda; stroke: #e7e9ee; stroke-width: 1.2"/>
-     <use xlink:href="#m16dbd61505" x="149.049435" y="179.186087" style="fill: #2a5cda; stroke: #e7e9ee; stroke-width: 1.2"/>
-     <use xlink:href="#m16dbd61505" x="196.877509" y="179.186087" style="fill: #2a5cda; stroke: #e7e9ee; stroke-width: 1.2"/>
-     <use xlink:href="#m16dbd61505" x="249.328459" y="179.186087" style="fill: #2a5cda; stroke: #e7e9ee; stroke-width: 1.2"/>
-     <use xlink:href="#m16dbd61505" x="281.893293" y="179.186087" style="fill: #2a5cda; stroke: #e7e9ee; stroke-width: 1.2"/>
-     <use xlink:href="#m16dbd61505" x="412.347536" y="179.186087" style="fill: #2a5cda; stroke: #e7e9ee; stroke-width: 1.2"/>
+    <g clip-path="url(#p2f61f87b92)">
+     <use xlink:href="#mc54f7a7522" x="102.541793" y="179.186087" style="fill: #2a5cda; stroke: #e7e9ee; stroke-width: 1.2"/>
+     <use xlink:href="#mc54f7a7522" x="149.049435" y="179.186087" style="fill: #2a5cda; stroke: #e7e9ee; stroke-width: 1.2"/>
+     <use xlink:href="#mc54f7a7522" x="196.877509" y="179.186087" style="fill: #2a5cda; stroke: #e7e9ee; stroke-width: 1.2"/>
+     <use xlink:href="#mc54f7a7522" x="249.328459" y="179.186087" style="fill: #2a5cda; stroke: #e7e9ee; stroke-width: 1.2"/>
+     <use xlink:href="#mc54f7a7522" x="281.893293" y="179.186087" style="fill: #2a5cda; stroke: #e7e9ee; stroke-width: 1.2"/>
+     <use xlink:href="#mc54f7a7522" x="412.347536" y="179.186087" style="fill: #2a5cda; stroke: #e7e9ee; stroke-width: 1.2"/>
     </g>
    </g>
    <g id="text_6">
@@ -214,7 +214,7 @@ z
    </g>
    <g id="PathCollection_2">
     <defs>
-     <path id="md7ce227ee9" d="M 0 3.391165 
+     <path id="m89f8780356" d="M 0 3.391165 
 C 0.899347 3.391165 1.761981 3.03385 2.397916 2.397916 
 C 3.03385 1.761981 3.391165 0.899347 3.391165 0 
 C 3.391165 -0.899347 3.03385 -1.761981 2.397916 -2.397916 
@@ -226,13 +226,13 @@ C -1.761981 3.03385 -0.899347 3.391165 0 3.391165
 z
 " style="stroke: #e7e9ee; stroke-width: 1.2"/>
     </defs>
-    <g clip-path="url(#p36b1861bd4)">
-     <use xlink:href="#md7ce227ee9" x="104.10364" y="264.333913" style="fill: #ca363a; stroke: #e7e9ee; stroke-width: 1.2"/>
-     <use xlink:href="#md7ce227ee9" x="149.911809" y="264.333913" style="fill: #ca363a; stroke: #e7e9ee; stroke-width: 1.2"/>
-     <use xlink:href="#md7ce227ee9" x="198.484945" y="264.333913" style="fill: #ca363a; stroke: #e7e9ee; stroke-width: 1.2"/>
-     <use xlink:href="#md7ce227ee9" x="249.328459" y="264.333913" style="fill: #ca363a; stroke: #e7e9ee; stroke-width: 1.2"/>
-     <use xlink:href="#md7ce227ee9" x="278.775247" y="264.333913" style="fill: #ca363a; stroke: #e7e9ee; stroke-width: 1.2"/>
-     <use xlink:href="#md7ce227ee9" x="397.010034" y="264.333913" style="fill: #ca363a; stroke: #e7e9ee; stroke-width: 1.2"/>
+    <g clip-path="url(#p2f61f87b92)">
+     <use xlink:href="#m89f8780356" x="104.10364" y="264.333913" style="fill: #ca363a; stroke: #e7e9ee; stroke-width: 1.2"/>
+     <use xlink:href="#m89f8780356" x="149.911809" y="264.333913" style="fill: #ca363a; stroke: #e7e9ee; stroke-width: 1.2"/>
+     <use xlink:href="#m89f8780356" x="198.484945" y="264.333913" style="fill: #ca363a; stroke: #e7e9ee; stroke-width: 1.2"/>
+     <use xlink:href="#m89f8780356" x="249.328459" y="264.333913" style="fill: #ca363a; stroke: #e7e9ee; stroke-width: 1.2"/>
+     <use xlink:href="#m89f8780356" x="278.775247" y="264.333913" style="fill: #ca363a; stroke: #e7e9ee; stroke-width: 1.2"/>
+     <use xlink:href="#m89f8780356" x="397.010034" y="264.333913" style="fill: #ca363a; stroke: #e7e9ee; stroke-width: 1.2"/>
     </g>
    </g>
    <g id="text_14">
@@ -274,7 +274,7 @@ L 473.76 329.76
 " style="fill: none; stroke: #181a23; stroke-opacity: 0.5; stroke-width: 0.4; stroke-linecap: round"/>
   </g>
   <g id="text_16">
-   <text style="font-style: italic; font-size: 8.9856px; font-family: 'Funnel Sans'; text-anchor: start; fill: #181a23" x="40.32" y="30.5856" transform="rotate(-0 40.32 30.5856)">Fig. 9</text>
+   <text style="font-size: 8.9856px; font-family: 'Funnel Sans'; text-anchor: start; fill: #181a23" x="40.32" y="30.5856" transform="rotate(-0 40.32 30.5856)">Fig. 5</text>
   </g>
   <g id="text_17">
    <text style="font-size: 8.9856px; font-family: 'Funnel Sans'; text-anchor: start; fill: #5b5d66" x="67.68" y="30.5856" transform="rotate(-0 67.68 30.5856)">File sizes</text>
@@ -283,31 +283,35 @@ L 473.76 329.76
    <text style="font-weight: 500; font-size: 21.6px; font-family: 'Funnel Display'; text-anchor: start; fill: #181a23" x="40.32" y="59.04" transform="rotate(-0 40.32 59.04)">Font file size by percentile, 2026</text>
   </g>
   <g id="text_19">
-   <text style="font-size: 9.3312px; font-family: 'Funnel Sans'; text-anchor: start; fill: #5b5d66" x="40.32" y="77.886" transform="rotate(-0 40.32 77.886)">10th to 99th percentile, per distinct parsed font file; desktop and mobile</text>
+   <text style="font-size: 9.3312px; font-family: 'Funnel Sans'; text-anchor: start; fill: #5b5d66" x="40.32" y="77.839344" transform="rotate(-0 40.32 77.839344)">How big font files get, from the 10th to the 99th percentile. Each distinct parsed font file counts once, for desktop and mobile.</text>
   </g>
   <g id="text_20">
    <text style="font-style: italic; font-size: 8.2944px; font-family: 'Funnel Sans'; text-anchor: start; fill: #5b5d66" x="40.32" y="111.6864" transform="rotate(-0 40.32 111.6864)">kB per file, log scale · percentiles of distinct font files</text>
   </g>
   <g id="text_21">
-   <text style="font-weight: 300; font-size: 50.4px; font-family: 'Funnel Display'; text-anchor: start; fill: #181a23" x="486.72" y="156.96" transform="rotate(-0 486.72 156.96)">874.7</text>
+   <text style="font-weight: 300; font-size: 53.28px; font-family: 'Funnel Display'; text-anchor: start; fill: #181a23" x="486.72" y="159.84" transform="rotate(-0 486.72 159.84)">874.7</text>
   </g>
   <g id="text_22">
-   <text style="font-weight: 300; font-size: 20.16px; font-family: 'Funnel Display'; text-anchor: start; fill: #181a23" x="615.06" y="138.24" transform="rotate(-0 615.06 138.24)">kB</text>
+   <text style="font-weight: 300; font-size: 21.312px; font-family: 'Funnel Display'; text-anchor: start; fill: #181a23" x="622.393714" y="140.050286" transform="rotate(-0 622.393714 140.050286)">kB</text>
   </g>
   <g id="text_23">
-   <text style="font-size: 8.9856px; font-family: 'Funnel Sans'; fill: #181a23" transform="translate(486.72 181.7856)">is the 99th-percentile desktop font file,</text>
-   <text style="font-size: 8.9856px; font-family: 'Funnel Sans'; fill: #181a23" transform="translate(486.72 195.264)">nearly 0.9 MB; the median is 35.3 kB.</text>
+   <text style="font-size: 13.4784px; font-family: 'Funnel Sans'; fill: #181a23" transform="translate(486.72 191.343991)">The heaviest 1% of</text>
+   <text style="font-size: 13.4784px; font-family: 'Funnel Sans'; fill: #181a23" transform="translate(486.72 210.281143)">desktop font files start</text>
+   <text style="font-size: 13.4784px; font-family: 'Funnel Sans'; fill: #181a23" transform="translate(486.72 231.779191)">there. The median</text>
+   <text style="font-size: 13.4784px; font-family: 'Funnel Sans'; fill: #181a23" transform="translate(486.72 251.996791)">is 35.3 kB.</text>
   </g>
   <g id="text_24">
-   <text style="font-style: italic; font-size: 8.64px; font-family: 'Funnel Sans'; fill: #5b5d66" transform="translate(486.72 224.2368)">Three-quarters of files stay under 77.2 kB.</text>
-   <text style="font-style: italic; font-size: 8.64px; font-family: 'Funnel Sans'; fill: #5b5d66" transform="translate(486.72 237.1968)">Mobile p99: 696.1 kB.</text>
+   <text style="font-style: italic; font-size: 10.368px; font-family: 'Funnel Sans'; fill: #5b5d66" transform="translate(486.72 280.459543)">Three-quarters of files stay under</text>
+   <text style="font-style: italic; font-size: 10.368px; font-family: 'Funnel Sans'; fill: #5b5d66" transform="translate(486.72 296.011543)">77.2 kB. Adobe-served OpenType</text>
+   <text style="font-style: italic; font-size: 10.368px; font-family: 'Funnel Sans'; fill: #5b5d66" transform="translate(486.72 311.563543)">files alone make up more than a</text>
+   <text style="font-style: italic; font-size: 10.368px; font-family: 'Funnel Sans'; fill: #5b5d66" transform="translate(486.72 327.115543)">quarter of the heaviest 1%.</text>
   </g>
   <g id="text_25">
    <text style="font-size: 7.9488px; font-family: 'Funnel Sans'; text-anchor: start; fill: #5b5d66" x="40.32" y="360.9972" transform="rotate(-0 40.32 360.9972)">Source: HTTP Archive parsed font files, July 1, 2026 crawl; SI kilobytes (1 kB = 1,000 bytes). Denominator: distinct font files per client.</text>
   </g>
  </g>
  <defs>
-  <clipPath id="p36b1861bd4">
+  <clipPath id="p2f61f87b92">
    <rect x="72" y="123.84" width="388.8" height="195.84"/>
   </clipPath>
  </defs>

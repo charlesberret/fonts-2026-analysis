@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-10-02T13:02:57.826198</dc:date>
+    <dc:date>2026-10-20T14:27:59.856831</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -92,7 +92,7 @@ z
      <g id="line2d_9">
       <path d="M 72 319.68 
 L 460.8 319.68 
-" clip-path="url(#p5f8c08b921)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
+" clip-path="url(#p327125865e)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
      </g>
      <g id="line2d_10"/>
      <g id="text_9">
@@ -103,7 +103,7 @@ L 460.8 319.68
      <g id="line2d_11">
       <path d="M 72 280.512 
 L 460.8 280.512 
-" clip-path="url(#p5f8c08b921)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
+" clip-path="url(#p327125865e)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
      </g>
      <g id="line2d_12"/>
      <g id="text_10">
@@ -114,7 +114,7 @@ L 460.8 280.512
      <g id="line2d_13">
       <path d="M 72 241.344 
 L 460.8 241.344 
-" clip-path="url(#p5f8c08b921)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
+" clip-path="url(#p327125865e)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
      </g>
      <g id="line2d_14"/>
      <g id="text_11">
@@ -125,7 +125,7 @@ L 460.8 241.344
      <g id="line2d_15">
       <path d="M 72 202.176 
 L 460.8 202.176 
-" clip-path="url(#p5f8c08b921)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
+" clip-path="url(#p327125865e)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
      </g>
      <g id="line2d_16"/>
      <g id="text_12">
@@ -136,7 +136,7 @@ L 460.8 202.176
      <g id="line2d_17">
       <path d="M 72 163.008 
 L 460.8 163.008 
-" clip-path="url(#p5f8c08b921)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
+" clip-path="url(#p327125865e)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
      </g>
      <g id="line2d_18"/>
      <g id="text_13">
@@ -147,7 +147,7 @@ L 460.8 163.008
      <g id="line2d_19">
       <path d="M 72 123.84 
 L 460.8 123.84 
-" clip-path="url(#p5f8c08b921)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
+" clip-path="url(#p327125865e)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
      </g>
      <g id="line2d_20"/>
      <g id="text_14">
@@ -167,9 +167,9 @@ L 216.161798 166.102272
 L 303.532584 161.088768 
 L 347.217978 158.40576 
 L 390.903371 155.742336 
-" clip-path="url(#p5f8c08b921)" style="fill: none; stroke: #2a5cda; stroke-width: 1.8; stroke-linecap: round"/>
+" clip-path="url(#p327125865e)" style="fill: none; stroke: #2a5cda; stroke-width: 1.8; stroke-linecap: round"/>
     <defs>
-     <path id="me6dde70716" d="M 0 2.3 
+     <path id="ma74ac0385f" d="M 0 2.3 
 C 0.609967 2.3 1.195034 2.057657 1.626346 1.626346 
 C 2.057657 1.195034 2.3 0.609967 2.3 0 
 C 2.3 -0.609967 2.057657 -1.195034 1.626346 -1.626346 
@@ -181,13 +181,13 @@ C -1.195034 2.057657 -0.609967 2.3 0 2.3
 z
 " style="stroke: #e7e9ee"/>
     </defs>
-    <g clip-path="url(#p5f8c08b921)">
-     <use xlink:href="#me6dde70716" x="85.105618" y="175.032576" style="fill: #2a5cda; stroke: #e7e9ee"/>
-     <use xlink:href="#me6dde70716" x="128.791011" y="171.174528" style="fill: #2a5cda; stroke: #e7e9ee"/>
-     <use xlink:href="#me6dde70716" x="216.161798" y="166.102272" style="fill: #2a5cda; stroke: #e7e9ee"/>
-     <use xlink:href="#me6dde70716" x="303.532584" y="161.088768" style="fill: #2a5cda; stroke: #e7e9ee"/>
-     <use xlink:href="#me6dde70716" x="347.217978" y="158.40576" style="fill: #2a5cda; stroke: #e7e9ee"/>
-     <use xlink:href="#me6dde70716" x="390.903371" y="155.742336" style="fill: #2a5cda; stroke: #e7e9ee"/>
+    <g clip-path="url(#p327125865e)">
+     <use xlink:href="#ma74ac0385f" x="85.105618" y="175.032576" style="fill: #2a5cda; stroke: #e7e9ee"/>
+     <use xlink:href="#ma74ac0385f" x="128.791011" y="171.174528" style="fill: #2a5cda; stroke: #e7e9ee"/>
+     <use xlink:href="#ma74ac0385f" x="216.161798" y="166.102272" style="fill: #2a5cda; stroke: #e7e9ee"/>
+     <use xlink:href="#ma74ac0385f" x="303.532584" y="161.088768" style="fill: #2a5cda; stroke: #e7e9ee"/>
+     <use xlink:href="#ma74ac0385f" x="347.217978" y="158.40576" style="fill: #2a5cda; stroke: #e7e9ee"/>
+     <use xlink:href="#ma74ac0385f" x="390.903371" y="155.742336" style="fill: #2a5cda; stroke: #e7e9ee"/>
     </g>
    </g>
    <g id="text_15">
@@ -219,9 +219,9 @@ L 216.161798 173.172096
 L 303.532584 167.4144 
 L 347.217978 160.990848 
 L 390.903371 156.466944 
-" clip-path="url(#p5f8c08b921)" style="fill: none; stroke: #ca363a; stroke-width: 2.2; stroke-linecap: round"/>
+" clip-path="url(#p327125865e)" style="fill: none; stroke: #ca363a; stroke-width: 2.2; stroke-linecap: round"/>
     <defs>
-     <path id="mdcca6a8ddf" d="M 0 2.3 
+     <path id="mbf2017ba41" d="M 0 2.3 
 C 0.609967 2.3 1.195034 2.057657 1.626346 1.626346 
 C 2.057657 1.195034 2.3 0.609967 2.3 0 
 C 2.3 -0.609967 2.057657 -1.195034 1.626346 -1.626346 
@@ -233,18 +233,18 @@ C -1.195034 2.057657 -0.609967 2.3 0 2.3
 z
 " style="stroke: #e7e9ee"/>
     </defs>
-    <g clip-path="url(#p5f8c08b921)">
-     <use xlink:href="#mdcca6a8ddf" x="85.105618" y="181.769472" style="fill: #ca363a; stroke: #e7e9ee"/>
-     <use xlink:href="#mdcca6a8ddf" x="128.791011" y="174.131712" style="fill: #ca363a; stroke: #e7e9ee"/>
-     <use xlink:href="#mdcca6a8ddf" x="216.161798" y="173.172096" style="fill: #ca363a; stroke: #e7e9ee"/>
-     <use xlink:href="#mdcca6a8ddf" x="303.532584" y="167.4144" style="fill: #ca363a; stroke: #e7e9ee"/>
-     <use xlink:href="#mdcca6a8ddf" x="347.217978" y="160.990848" style="fill: #ca363a; stroke: #e7e9ee"/>
-     <use xlink:href="#mdcca6a8ddf" x="390.903371" y="156.466944" style="fill: #ca363a; stroke: #e7e9ee"/>
+    <g clip-path="url(#p327125865e)">
+     <use xlink:href="#mbf2017ba41" x="85.105618" y="181.769472" style="fill: #ca363a; stroke: #e7e9ee"/>
+     <use xlink:href="#mbf2017ba41" x="128.791011" y="174.131712" style="fill: #ca363a; stroke: #e7e9ee"/>
+     <use xlink:href="#mbf2017ba41" x="216.161798" y="173.172096" style="fill: #ca363a; stroke: #e7e9ee"/>
+     <use xlink:href="#mbf2017ba41" x="303.532584" y="167.4144" style="fill: #ca363a; stroke: #e7e9ee"/>
+     <use xlink:href="#mbf2017ba41" x="347.217978" y="160.990848" style="fill: #ca363a; stroke: #e7e9ee"/>
+     <use xlink:href="#mbf2017ba41" x="390.903371" y="156.466944" style="fill: #ca363a; stroke: #e7e9ee"/>
     </g>
    </g>
    <g id="PathCollection_1">
     <defs>
-     <path id="m0da5e603c6" d="M 0 2.915476 
+     <path id="m2363f3087d" d="M 0 2.915476 
 C 0.773193 2.915476 1.514823 2.608283 2.061553 2.061553 
 C 2.608283 1.514823 2.915476 0.773193 2.915476 0 
 C 2.915476 -0.773193 2.608283 -1.514823 2.061553 -2.061553 
@@ -256,13 +256,13 @@ C -1.514823 2.608283 -0.773193 2.915476 0 2.915476
 z
 " style="stroke: #e7e9ee; stroke-width: 1.6"/>
     </defs>
-    <g clip-path="url(#p5f8c08b921)">
-     <use xlink:href="#m0da5e603c6" x="390.903371" y="156.466944" style="fill: #ca363a; stroke: #e7e9ee; stroke-width: 1.6"/>
+    <g clip-path="url(#p327125865e)">
+     <use xlink:href="#m2363f3087d" x="390.903371" y="156.466944" style="fill: #ca363a; stroke: #e7e9ee; stroke-width: 1.6"/>
     </g>
    </g>
    <g id="PathCollection_2">
     <defs>
-     <path id="m814bb99f70" d="M 0 2.738613 
+     <path id="m5ad950cc28" d="M 0 2.738613 
 C 0.726289 2.738613 1.422928 2.450055 1.936492 1.936492 
 C 2.450055 1.422928 2.738613 0.726289 2.738613 0 
 C 2.738613 -0.726289 2.450055 -1.422928 1.936492 -1.936492 
@@ -274,8 +274,8 @@ C -1.422928 2.450055 -0.726289 2.738613 0 2.738613
 z
 " style="stroke: #e7e9ee; stroke-width: 1.6"/>
     </defs>
-    <g clip-path="url(#p5f8c08b921)">
-     <use xlink:href="#m814bb99f70" x="390.903371" y="155.742336" style="fill: #2a5cda; stroke: #e7e9ee; stroke-width: 1.6"/>
+    <g clip-path="url(#p327125865e)">
+     <use xlink:href="#m5ad950cc28" x="390.903371" y="155.742336" style="fill: #2a5cda; stroke: #e7e9ee; stroke-width: 1.6"/>
     </g>
    </g>
   </g>
@@ -295,7 +295,7 @@ L 473.76 329.76
 " style="fill: none; stroke: #181a23; stroke-opacity: 0.5; stroke-width: 0.4; stroke-linecap: round"/>
   </g>
   <g id="text_17">
-   <text style="font-style: italic; font-size: 8.9856px; font-family: 'Funnel Sans'; text-anchor: start; fill: #181a23" x="40.32" y="30.5856" transform="rotate(-0 40.32 30.5856)">Fig. 5</text>
+   <text style="font-size: 8.9856px; font-family: 'Funnel Sans'; text-anchor: start; fill: #181a23" x="40.32" y="30.5856" transform="rotate(-0 40.32 30.5856)">Fig. 3</text>
   </g>
   <g id="text_18">
    <text style="font-size: 8.9856px; font-family: 'Funnel Sans'; text-anchor: start; fill: #5b5d66" x="67.68" y="30.5856" transform="rotate(-0 67.68 30.5856)">Font formats</text>
@@ -304,31 +304,34 @@ L 473.76 329.76
    <text style="font-weight: 500; font-size: 21.6px; font-family: 'Funnel Display'; text-anchor: start; fill: #181a23" x="40.32" y="59.04" transform="rotate(-0 40.32 59.04)">WOFF2 share of font requests, 2019–2026</text>
   </g>
   <g id="text_20">
-   <text style="font-size: 9.3312px; font-family: 'Funnel Sans'; text-anchor: start; fill: #5b5d66" x="40.32" y="77.886" transform="rotate(-0 40.32 77.886)">Share of font requests; dots mark measured years (none for 2021 or 2023)</text>
+   <text style="font-size: 9.3312px; font-family: 'Funnel Sans'; text-anchor: start; fill: #5b5d66" x="40.32" y="77.886" transform="rotate(-0 40.32 77.886)">What share of font requests are WOFF2. Dots mark the years we measured, and there are none for 2021 or 2023.</text>
   </g>
   <g id="text_21">
    <text style="font-style: italic; font-size: 8.2944px; font-family: 'Funnel Sans'; text-anchor: start; fill: #5b5d66" x="40.32" y="111.6864" transform="rotate(-0 40.32 111.6864)">percent of font requests</text>
   </g>
   <g id="text_22">
-   <text style="font-weight: 300; font-size: 50.4px; font-family: 'Funnel Display'; text-anchor: start; fill: #181a23" x="486.72" y="156.96" transform="rotate(-0 486.72 156.96)">83.7</text>
+   <text style="font-weight: 300; font-size: 69.12px; font-family: 'Funnel Display'; text-anchor: start; fill: #181a23" x="486.72" y="175.68" transform="rotate(-0 486.72 175.68)">83.7</text>
   </g>
   <g id="text_23">
-   <text style="font-weight: 300; font-size: 20.16px; font-family: 'Funnel Display'; text-anchor: start; fill: #181a23" x="586.08" y="138.24" transform="rotate(-0 586.08 138.24)">%</text>
+   <text style="font-weight: 300; font-size: 27.648px; font-family: 'Funnel Display'; text-anchor: start; fill: #181a23" x="622.985143" y="150.006857" transform="rotate(-0 622.985143 150.006857)">%</text>
   </g>
   <g id="text_24">
-   <text style="font-size: 8.9856px; font-family: 'Funnel Sans'; fill: #181a23" transform="translate(486.72 181.7856)">of desktop font requests were WOFF2 in</text>
-   <text style="font-size: 8.9856px; font-family: 'Funnel Sans'; fill: #181a23" transform="translate(486.72 195.264)">July 2026, up from 73.9% in 2019.</text>
+   <text style="font-size: 13.1328px; font-family: 'Funnel Sans'; fill: #181a23" transform="translate(486.72 211.685349)">WOFF2 now carries over</text>
+   <text style="font-size: 13.1328px; font-family: 'Funnel Sans'; fill: #181a23" transform="translate(486.72 230.235429)">four in five desktop font</text>
+   <text style="font-size: 13.1328px; font-family: 'Funnel Sans'; fill: #181a23" transform="translate(486.72 249.934629)">requests, up from 73.9%</text>
+   <text style="font-size: 13.1328px; font-family: 'Funnel Sans'; fill: #181a23" transform="translate(486.72 270.782949)">in 2019.</text>
   </g>
   <g id="text_25">
-   <text style="font-style: italic; font-size: 8.64px; font-family: 'Funnel Sans'; fill: #5b5d66" transform="translate(486.72 224.2368)">Counted by distinct font URLs instead,</text>
-   <text style="font-style: italic; font-size: 8.64px; font-family: 'Funnel Sans'; fill: #5b5d66" transform="translate(486.72 237.0888)">WOFF2 is 68.5% (Fig. 6).</text>
+   <text style="font-style: italic; font-size: 10.102154px; font-family: 'Funnel Sans'; fill: #5b5d66" transform="translate(486.72 298.614382)">Counted by distinct font URLs,</text>
+   <text style="font-style: italic; font-size: 10.102154px; font-family: 'Funnel Sans'; fill: #5b5d66" transform="translate(486.72 313.717102)">WOFF2 is 68.5% (Fig. 4). High-traffic</text>
+   <text style="font-style: italic; font-size: 10.102154px; font-family: 'Funnel Sans'; fill: #5b5d66" transform="translate(486.72 328.870333)">hosts push the request share higher.</text>
   </g>
   <g id="text_26">
    <text style="font-size: 7.9488px; font-family: 'Funnel Sans'; text-anchor: start; fill: #5b5d66" x="40.32" y="360.957456" transform="rotate(-0 40.32 360.957456)">Source: HTTP Archive font requests, mid-year crawls (July; Aug. 2020, June 2022; 2026 = July 1, 2026 crawl). Denominator: font requests per client.</text>
   </g>
  </g>
  <defs>
-  <clipPath id="p5f8c08b921">
+  <clipPath id="p327125865e">
    <rect x="72" y="123.84" width="388.8" height="195.84"/>
   </clipPath>
  </defs>
