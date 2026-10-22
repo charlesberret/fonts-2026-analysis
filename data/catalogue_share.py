@@ -10,7 +10,7 @@ import re
 import sys
 
 
-def family_inner(n):  # mirrors FAMILY_INNER in sql/common.sql
+def family_inner(n):  # mirrors the FAMILY_INNER UDF used by the original queries
     n = re.sub(r'(?i)([\s-]?(black|bold|book|cond(ensed)?|demi|ex(tra)?|heavy|italic|light|medium|narrow|regular|semi|thin|ultra|wide|\d00|\d+pt))+$', '', n)
     if re.search(r'(?i)font\s?awesome', n):
         return 'Font Awesome'

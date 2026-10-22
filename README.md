@@ -6,7 +6,7 @@ loaded and designed across the web, from the 2026-07-01 crawl, compared with ear
 
 | Directory | Contents |
 | --- | --- |
-| `sql/` | The BigQuery queries and the saved result of each (`name.sql` beside `name.csv`), grouped by topic: `design/`, `development/`, `performance/`, `coverage/` (page language and country coverage), plus `materialize/` for the pruned working tables. `execute*.py` run them. |
+| `sql/` | The saved result of each analysis query (`name.csv`), grouped by topic: `design/`, `development/`, `performance/`, `coverage/` (page language and country coverage). The queries themselves are not published; `execute*.py`, `estimate_full.py` and `validate_*.py` are the machinery that ran and checked them. |
 | `data/` | Chart-ready CSVs spanning 2011-2026 in `multi-year/` (`chart_*.csv`; its `README.md` gives provenance and methodology caveats, including which years use request share and which use unique-URL share). At top level: a Google Fonts catalogue snapshot (2026-10-12) and the top-100-per-service subset of `sql/performance/fonts_family_by_service_totals.csv`; `data/catalogue_share.py` reproduces the catalogue-share figures quoted in the chapter from those two files. |
 | `figures/` | `render.py` draws nine figures (F1–F9) from the CSVs. Output lands in `figures/out/` as SVG and PNG. |
 | `expenses/` | What the pipeline cost: every BigQuery job itemized (`bigquery-jobs-itemized.csv`), daily totals, and `expenses-summary.md`. |
@@ -26,13 +26,11 @@ is quoted in the chapter checks the CSV against that number before it draws, and
 disagree by more than 0.2 percentage points. Years that were not measured are left out, never
 interpolated.
 
-## Re-run the queries
+## Cost
 
-The queries run against the public `httparchive` datasets in BigQuery and write to a dataset in a
-project you own. Change the `PROJECT_ID` constant (and `DATASET_ID`, where a script sets one) at the top of each
-`sql/*.py` script you run, authenticate with `gcloud auth application-default login`, and
-install `sql/requirements.txt`. Scanning the full crawl costs real money; `sql/estimate_full.py`
-prints the estimated bytes first.
+`expenses/` itemizes every BigQuery job the pipeline ran — 547 jobs, 86.1 TiB billed,
+about $538 at list price — so the cost of reproducing this analysis is visible up front.
+`sql/estimate_full.py` is the estimator that was used to check query cost before any run.
 
 ## Licence
 
