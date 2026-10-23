@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-10-20T14:27:55.927139</dc:date>
+    <dc:date>2026-10-23T11:41:34.083293</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -37,109 +37,109 @@ L 72 123.84
 z
 " style="fill: #e7e9ee"/>
    </g>
+   <g id="LineCollection_1">
+    <path d="M 72 319.68 
+L 397.98 319.68 
+" clip-path="url(#pd8cfa7a13c)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6"/>
+   </g>
+   <g id="LineCollection_2">
+    <path d="M 72 280.512 
+L 397.98 280.512 
+" clip-path="url(#pd8cfa7a13c)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6"/>
+   </g>
+   <g id="LineCollection_3">
+    <path d="M 72 241.344 
+L 397.98 241.344 
+" clip-path="url(#pd8cfa7a13c)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6"/>
+   </g>
+   <g id="LineCollection_4">
+    <path d="M 72 202.176 
+L 397.98 202.176 
+" clip-path="url(#pd8cfa7a13c)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6"/>
+   </g>
+   <g id="LineCollection_5">
+    <path d="M 72 163.008 
+L 397.98 163.008 
+" clip-path="url(#pd8cfa7a13c)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6"/>
+   </g>
+   <g id="LineCollection_6">
+    <path d="M 72 123.84 
+L 397.98 123.84 
+" clip-path="url(#pd8cfa7a13c)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6"/>
+   </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
      <g id="line2d_1"/>
      <g id="text_1">
-      <text style="font-size: 8.2944px; font-family: 'Funnel Sans'; text-anchor: middle; fill: #181a23" x="84.15" y="333.9744" transform="rotate(-0 84.15 333.9744)">2011</text>
+      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: middle; fill: #181a23" x="84.15" y="333.853828" transform="rotate(-0 84.15 333.853828)">2011</text>
      </g>
     </g>
     <g id="xtick_2">
      <g id="line2d_2"/>
      <g id="text_2">
-      <text style="font-size: 8.2944px; font-family: 'Funnel Sans'; text-anchor: middle; fill: #181a23" x="144.9" y="333.9744" transform="rotate(-0 144.9 333.9744)">2014</text>
+      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: middle; fill: #181a23" x="144.9" y="333.853828" transform="rotate(-0 144.9 333.853828)">2014</text>
      </g>
     </g>
     <g id="xtick_3">
      <g id="line2d_3"/>
      <g id="text_3">
-      <text style="font-size: 8.2944px; font-family: 'Funnel Sans'; text-anchor: middle; fill: #181a23" x="205.65" y="333.9744" transform="rotate(-0 205.65 333.9744)">2017</text>
+      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: middle; fill: #181a23" x="205.65" y="333.853828" transform="rotate(-0 205.65 333.853828)">2017</text>
      </g>
     </g>
     <g id="xtick_4">
      <g id="line2d_4"/>
      <g id="text_4">
-      <text style="font-size: 8.2944px; font-family: 'Funnel Sans'; text-anchor: middle; fill: #181a23" x="266.4" y="333.9744" transform="rotate(-0 266.4 333.9744)">2020</text>
+      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: middle; fill: #181a23" x="266.4" y="333.853828" transform="rotate(-0 266.4 333.853828)">2020</text>
      </g>
     </g>
     <g id="xtick_5">
      <g id="line2d_5"/>
      <g id="text_5">
-      <text style="font-size: 8.2944px; font-family: 'Funnel Sans'; text-anchor: middle; fill: #181a23" x="327.15" y="333.9744" transform="rotate(-0 327.15 333.9744)">2023</text>
+      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: middle; fill: #181a23" x="327.15" y="333.853828" transform="rotate(-0 327.15 333.853828)">2023</text>
      </g>
     </g>
     <g id="xtick_6">
      <g id="line2d_6"/>
      <g id="text_6">
-      <text style="font-size: 8.2944px; font-family: 'Funnel Sans'; text-anchor: middle; fill: #181a23" x="387.9" y="333.9744" transform="rotate(-0 387.9 333.9744)">2026</text>
+      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: middle; fill: #181a23" x="387.9" y="333.853828" transform="rotate(-0 387.9 333.853828)">2026</text>
      </g>
     </g>
    </g>
    <g id="matplotlib.axis_2">
     <g id="ytick_1">
-     <g id="line2d_7">
-      <path d="M 72 319.68 
-L 460.8 319.68 
-" clip-path="url(#p3396820775)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
-     </g>
-     <g id="line2d_8"/>
+     <g id="line2d_7"/>
      <g id="text_7">
-      <text style="font-size: 8.2944px; font-family: 'Funnel Sans'; text-anchor: end; fill: #181a23" x="66" y="323.8272" transform="rotate(-0 66 323.8272)">0</text>
+      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="323.766914" transform="rotate(-0 66 323.766914)">0</text>
      </g>
     </g>
     <g id="ytick_2">
-     <g id="line2d_9">
-      <path d="M 72 280.512 
-L 460.8 280.512 
-" clip-path="url(#p3396820775)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
-     </g>
-     <g id="line2d_10"/>
+     <g id="line2d_8"/>
      <g id="text_8">
-      <text style="font-size: 8.2944px; font-family: 'Funnel Sans'; text-anchor: end; fill: #181a23" x="66" y="284.6592" transform="rotate(-0 66 284.6592)">20</text>
+      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="284.598914" transform="rotate(-0 66 284.598914)">20</text>
      </g>
     </g>
     <g id="ytick_3">
-     <g id="line2d_11">
-      <path d="M 72 241.344 
-L 460.8 241.344 
-" clip-path="url(#p3396820775)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
-     </g>
-     <g id="line2d_12"/>
+     <g id="line2d_9"/>
      <g id="text_9">
-      <text style="font-size: 8.2944px; font-family: 'Funnel Sans'; text-anchor: end; fill: #181a23" x="66" y="245.4912" transform="rotate(-0 66 245.4912)">40</text>
+      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="245.430914" transform="rotate(-0 66 245.430914)">40</text>
      </g>
     </g>
     <g id="ytick_4">
-     <g id="line2d_13">
-      <path d="M 72 202.176 
-L 460.8 202.176 
-" clip-path="url(#p3396820775)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
-     </g>
-     <g id="line2d_14"/>
+     <g id="line2d_10"/>
      <g id="text_10">
-      <text style="font-size: 8.2944px; font-family: 'Funnel Sans'; text-anchor: end; fill: #181a23" x="66" y="206.3232" transform="rotate(-0 66 206.3232)">60</text>
+      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="206.262914" transform="rotate(-0 66 206.262914)">60</text>
      </g>
     </g>
     <g id="ytick_5">
-     <g id="line2d_15">
-      <path d="M 72 163.008 
-L 460.8 163.008 
-" clip-path="url(#p3396820775)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
-     </g>
-     <g id="line2d_16"/>
+     <g id="line2d_11"/>
      <g id="text_11">
-      <text style="font-size: 8.2944px; font-family: 'Funnel Sans'; text-anchor: end; fill: #181a23" x="66" y="167.1552" transform="rotate(-0 66 167.1552)">80</text>
+      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="167.094914" transform="rotate(-0 66 167.094914)">80</text>
      </g>
     </g>
     <g id="ytick_6">
-     <g id="line2d_17">
-      <path d="M 72 123.84 
-L 460.8 123.84 
-" clip-path="url(#p3396820775)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
-     </g>
-     <g id="line2d_18"/>
+     <g id="line2d_12"/>
      <g id="text_12">
-      <text style="font-size: 8.2944px; font-family: 'Funnel Sans'; text-anchor: end; fill: #181a23" x="66" y="127.9872" transform="rotate(-0 66 127.9872)">100</text>
+      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="127.926914" transform="rotate(-0 66 127.926914)">100</text>
      </g>
     </g>
    </g>
@@ -148,7 +148,7 @@ L 460.8 123.84
 L 460.8 319.68 
 " style="fill: none; stroke: #181a23; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
-   <g id="line2d_19">
+   <g id="line2d_13">
     <path d="M 84.15 311.298048 
 L 104.4 299.175552 
 L 124.65 281.667456 
@@ -165,31 +165,31 @@ L 327.15 153.059328
 L 347.4 148.985856 
 L 367.65 147.497472 
 L 387.9 146.224512 
-" clip-path="url(#p3396820775)" style="fill: none; stroke: #2a5cda; stroke-width: 1.8; stroke-linecap: round"/>
+" clip-path="url(#pd8cfa7a13c)" style="fill: none; stroke: #2a5cda; stroke-width: 1.8; stroke-linecap: round"/>
    </g>
    <g id="text_13">
     <g id="patch_4">
-     <path d="M 398.0007 147.659904 
-L 450.40365 147.659904 
-L 450.40365 134.786304 
-L 398.0007 134.786304 
+     <path d="M 407.9331 147.393363 
+L 461.210766 147.393363 
+L 461.210766 135.052845 
+L 407.9331 135.052845 
 z
 " style="fill: #e7e9ee"/>
     </g>
-    <text style="font-size: 8.64px; font-family: 'Funnel Sans'; text-anchor: start; fill: #181a23" x="399.0375" y="144.463104" transform="rotate(-0 399.0375 144.463104)">Desktop 88.6</text>
+    <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #181a23" x="408.9375" y="144.231073" transform="rotate(-0 408.9375 144.231073)">Desktop 88.6</text>
    </g>
    <g id="text_14">
     <g id="patch_5">
-     <path d="M 398.0007 160.619904 
-L 444.6729 160.619904 
-L 444.6729 147.746304 
-L 398.0007 147.746304 
+     <path d="M 407.9331 160.353363 
+L 450.73388 160.353363 
+L 450.73388 148.012845 
+L 407.9331 148.012845 
 z
 " style="fill: #e7e9ee"/>
     </g>
-    <text style="font-size: 8.64px; font-family: 'Funnel Sans'; text-anchor: start; fill: #181a23" x="399.0375" y="157.423104" transform="rotate(-0 399.0375 157.423104)">Mobile 87.1</text>
+    <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #181a23" x="408.9375" y="157.191073" transform="rotate(-0 408.9375 157.191073)">Mobile 87.1</text>
    </g>
-   <g id="line2d_20">
+   <g id="line2d_14">
     <path d="M 84.15 315.645696 
 L 104.4 304.365312 
 L 124.65 290.89152 
@@ -206,97 +206,143 @@ L 327.15 157.32864
 L 347.4 153.80352 
 L 367.65 150.08256 
 L 387.9 149.181696 
-" clip-path="url(#p3396820775)" style="fill: none; stroke: #ca363a; stroke-width: 2.2; stroke-linecap: round"/>
+" clip-path="url(#pd8cfa7a13c)" style="fill: none; stroke: #e7e9ee; stroke-width: 4.6; stroke-linecap: round"/>
+    <path d="M 84.15 315.645696 
+L 104.4 304.365312 
+L 124.65 290.89152 
+L 144.9 245.319552 
+L 165.15 223.2288 
+L 185.4 200.90304 
+L 205.65 185.82336 
+L 225.9 187.860096 
+L 246.15 170.861184 
+L 266.4 161.970048 
+L 286.65 162.048384 
+L 306.9 158.660352 
+L 327.15 157.32864 
+L 347.4 153.80352 
+L 367.65 150.08256 
+L 387.9 149.181696 
+" clip-path="url(#pd8cfa7a13c)" style="fill: none; stroke: #ca363a; stroke-width: 2.2; stroke-linecap: round"/>
    </g>
    <g id="PathCollection_1">
     <defs>
-     <path id="mbe6658099c" d="M 0 2.915476 
-C 0.773193 2.915476 1.514823 2.608283 2.061553 2.061553 
-C 2.608283 1.514823 2.915476 0.773193 2.915476 0 
-C 2.915476 -0.773193 2.608283 -1.514823 2.061553 -2.061553 
-C 1.514823 -2.608283 0.773193 -2.915476 0 -2.915476 
-C -0.773193 -2.915476 -1.514823 -2.608283 -2.061553 -2.061553 
-C -2.608283 -1.514823 -2.915476 -0.773193 -2.915476 0 
-C -2.915476 0.773193 -2.608283 1.514823 -2.061553 2.061553 
-C -1.514823 2.608283 -0.773193 2.915476 0 2.915476 
+     <path id="me33ec693b8" d="M 0 2.54951 
+C 0.676138 2.54951 1.324674 2.280877 1.802776 1.802776 
+C 2.280877 1.324674 2.54951 0.676138 2.54951 0 
+C 2.54951 -0.676138 2.280877 -1.324674 1.802776 -1.802776 
+C 1.324674 -2.280877 0.676138 -2.54951 0 -2.54951 
+C -0.676138 -2.54951 -1.324674 -2.280877 -1.802776 -1.802776 
+C -2.280877 -1.324674 -2.54951 -0.676138 -2.54951 0 
+C -2.54951 0.676138 -2.280877 1.324674 -1.802776 1.802776 
+C -1.324674 2.280877 -0.676138 2.54951 0 2.54951 
 z
 " style="stroke: #e7e9ee; stroke-width: 1.6"/>
     </defs>
-    <g clip-path="url(#p3396820775)">
-     <use xlink:href="#mbe6658099c" x="387.9" y="149.181696" style="fill: #ca363a; stroke: #e7e9ee; stroke-width: 1.6"/>
+    <g clip-path="url(#pd8cfa7a13c)">
+     <use xlink:href="#me33ec693b8" x="387.9" y="149.181696" style="fill: #ca363a; stroke: #e7e9ee; stroke-width: 1.6"/>
     </g>
    </g>
    <g id="PathCollection_2">
     <defs>
-     <path id="m2f42e2963a" d="M 0 2.738613 
-C 0.726289 2.738613 1.422928 2.450055 1.936492 1.936492 
-C 2.450055 1.422928 2.738613 0.726289 2.738613 0 
-C 2.738613 -0.726289 2.450055 -1.422928 1.936492 -1.936492 
-C 1.422928 -2.450055 0.726289 -2.738613 0 -2.738613 
-C -0.726289 -2.738613 -1.422928 -2.450055 -1.936492 -1.936492 
-C -2.450055 -1.422928 -2.738613 -0.726289 -2.738613 0 
-C -2.738613 0.726289 -2.450055 1.422928 -1.936492 1.936492 
-C -1.422928 2.450055 -0.726289 2.738613 0 2.738613 
+     <path id="m43c6a01f9d" d="M 0 2.345208 
+C 0.621956 2.345208 1.218523 2.098102 1.658312 1.658312 
+C 2.098102 1.218523 2.345208 0.621956 2.345208 0 
+C 2.345208 -0.621956 2.098102 -1.218523 1.658312 -1.658312 
+C 1.218523 -2.098102 0.621956 -2.345208 0 -2.345208 
+C -0.621956 -2.345208 -1.218523 -2.098102 -1.658312 -1.658312 
+C -2.098102 -1.218523 -2.345208 -0.621956 -2.345208 0 
+C -2.345208 0.621956 -2.098102 1.218523 -1.658312 1.658312 
+C -1.218523 2.098102 -0.621956 2.345208 0 2.345208 
 z
 " style="stroke: #e7e9ee; stroke-width: 1.6"/>
     </defs>
-    <g clip-path="url(#p3396820775)">
-     <use xlink:href="#m2f42e2963a" x="387.9" y="146.224512" style="fill: #2a5cda; stroke: #e7e9ee; stroke-width: 1.6"/>
+    <g clip-path="url(#pd8cfa7a13c)">
+     <use xlink:href="#m43c6a01f9d" x="387.9" y="146.224512" style="fill: #2a5cda; stroke: #e7e9ee; stroke-width: 1.6"/>
     </g>
    </g>
+   <g id="line2d_15">
+    <path d="M 399.0375 141.223104 
+L 406.4625 141.223104 
+" style="fill: none; stroke: #2a5cda; stroke-width: 2.4"/>
+   </g>
+   <g id="line2d_16">
+    <path d="M 399.0375 154.183104 
+L 406.4625 154.183104 
+" style="fill: none; stroke: #ca363a; stroke-width: 2.4"/>
+   </g>
   </g>
-  <g id="line2d_21">
+  <g id="patch_6">
+   <path d="M 40.32 13.68 
+L 60.48 13.68 
+L 60.48 11.52 
+L 40.32 11.52 
+z
+" style="fill: #181a23"/>
+  </g>
+  <g id="line2d_17">
    <path d="M 40.32 89.28 
 L 650.88 89.28 
 " style="fill: none; stroke: #181a23; stroke-width: 0.6; stroke-linecap: round"/>
   </g>
-  <g id="line2d_22">
+  <g id="line2d_18">
    <path d="M 40.32 345.6 
 L 650.88 345.6 
 " style="fill: none; stroke: #181a23; stroke-width: 0.6; stroke-linecap: round"/>
   </g>
-  <g id="line2d_23">
+  <g id="line2d_19">
    <path d="M 473.76 105.12 
 L 473.76 329.76 
 " style="fill: none; stroke: #181a23; stroke-opacity: 0.5; stroke-width: 0.4; stroke-linecap: round"/>
   </g>
   <g id="text_15">
-   <text style="font-size: 8.9856px; font-family: 'Funnel Sans'; text-anchor: start; fill: #181a23" x="40.32" y="30.5856" transform="rotate(-0 40.32 30.5856)">Fig. 1</text>
+   <text style="font-weight: 500; font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #181a23" x="40.32" y="29.773828" transform="rotate(-0 40.32 29.773828)">Figure 1</text>
   </g>
   <g id="text_16">
-   <text style="font-size: 8.9856px; font-family: 'Funnel Sans'; text-anchor: start; fill: #5b5d66" x="67.68" y="30.5856" transform="rotate(-0 67.68 30.5856)">Adoption</text>
+   <text style="font-size: 8.7048px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #5b5d66" x="77.49" y="30.100781" transform="rotate(-0 77.49 30.100781)">Adoption</text>
   </g>
   <g id="text_17">
-   <text style="font-weight: 500; font-size: 21.6px; font-family: 'Funnel Display'; text-anchor: start; fill: #181a23" x="40.32" y="59.04" transform="rotate(-0 40.32 59.04)">Pages using web fonts, 2011–2026</text>
+   <text style="font-weight: 600; font-size: 21.6px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #181a23" x="40.32" y="58.53375" transform="rotate(-0 40.32 58.53375)">Pages Using Web Fonts, 2011–2026</text>
   </g>
   <g id="text_18">
-   <text style="font-size: 9.3312px; font-family: 'Funnel Sans'; text-anchor: start; fill: #5b5d66" x="40.32" y="77.839344" transform="rotate(-0 40.32 77.839344)">What share of root pages request at least one web font. Desktop and mobile are crawled separately.</text>
+   <text style="font-size: 9.0396px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #5b5d66" x="40.32" y="79.139125" transform="rotate(-0 40.32 79.139125)">What share of root pages request at least one web font? Desktop and mobile are counted separately.</text>
   </g>
   <g id="text_19">
-   <text style="font-style: italic; font-size: 8.2944px; font-family: 'Funnel Sans'; text-anchor: start; fill: #5b5d66" x="40.32" y="111.6864" transform="rotate(-0 40.32 111.6864)">percent of root pages</text>
+   <text style="font-style: italic; font-size: 8.0352px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #5b5d66" x="40.32" y="111.688425" transform="rotate(-0 40.32 111.688425)">percent of pages</text>
   </g>
   <g id="text_20">
-   <text style="font-weight: 300; font-size: 69.12px; font-family: 'Funnel Display'; text-anchor: start; fill: #181a23" x="486.72" y="175.68" transform="rotate(-0 486.72 175.68)">88.6</text>
+   <text style="font-weight: 700; font-size: 63.36px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #181a23" x="486.72" y="168.435" transform="rotate(-0 486.72 168.435)">88.6</text>
   </g>
   <g id="text_21">
-   <text style="font-weight: 300; font-size: 27.648px; font-family: 'Funnel Display'; text-anchor: start; fill: #181a23" x="622.877143" y="150.006857" transform="rotate(-0 622.877143 150.006857)">%</text>
+   <text style="font-weight: 700; font-size: 25.344px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #181a23" x="624.908089" y="145.792286" transform="rotate(-0 624.908089 145.792286)">%</text>
   </g>
   <g id="text_22">
-   <text style="font-size: 14.1696px; font-family: 'Funnel Sans'; fill: #181a23" transform="translate(486.72 211.573029)">Nearly nine in ten</text>
-   <text style="font-size: 14.1696px; font-family: 'Funnel Sans'; fill: #181a23" transform="translate(486.72 232.756581)">desktop pages use a web</text>
-   <text style="font-size: 14.1696px; font-family: 'Funnel Sans'; fill: #181a23" transform="translate(486.72 255.427941)">font. Mobile is 87.1%.</text>
+   <text style="font-size: 14.0616px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #181a23" x="486.72" y="203.191663" transform="rotate(-0 486.72 203.191663)">Nearly nine in ten</text>
   </g>
   <g id="text_23">
-   <text style="font-style: italic; font-size: 10.899692px; font-family: 'Funnel Sans'; fill: #5b5d66" transform="translate(486.72 285.350321)">The curve has flattened: up 0.7</text>
-   <text style="font-style: italic; font-size: 10.899692px; font-family: 'Funnel Sans'; fill: #5b5d66" transform="translate(486.72 301.699859)">points since 2025, from 4.3%</text>
-   <text style="font-style: italic; font-size: 10.899692px; font-family: 'Funnel Sans'; fill: #5b5d66" transform="translate(486.72 319.003121)">in 2011.</text>
+   <text style="font-size: 14.0616px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #181a23" x="486.72" y="221.471743" transform="rotate(-0 486.72 221.471743)">desktop web pages use</text>
   </g>
   <g id="text_24">
-   <text style="font-size: 7.9488px; font-family: 'Funnel Sans'; text-anchor: start; fill: #5b5d66" x="40.32" y="360.957456" transform="rotate(-0 40.32 360.957456)">Source: HTTP Archive root pages, July crawls (July 1 or July 15 each year; 2026 = July 1, 2026 crawl). Denominator: root pages per client.</text>
+   <text style="font-size: 14.0616px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #181a23" x="486.72" y="239.751823" transform="rotate(-0 486.72 239.751823)">a web font. Mobile</text>
+  </g>
+  <g id="text_25">
+   <text style="font-size: 14.0616px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #181a23" x="486.72" y="258.031903" transform="rotate(-0 486.72 258.031903)">is 87.1%.</text>
+  </g>
+  <g id="text_26">
+   <text style="font-style: italic; font-size: 10.816615px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #5b5d66" x="486.72" y="285.540944" transform="rotate(-0 486.72 285.540944)">The curve has flattened: up 0.7</text>
+  </g>
+  <g id="text_27">
+   <text style="font-style: italic; font-size: 10.816615px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #5b5d66" x="486.72" y="300.143374" transform="rotate(-0 486.72 300.143374)">points since last year, following</text>
+  </g>
+  <g id="text_28">
+   <text style="font-style: italic; font-size: 10.816615px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #5b5d66" x="486.72" y="314.745805" transform="rotate(-0 486.72 314.745805)">a steep rise from 4.3% in 2011.</text>
+  </g>
+  <g id="text_29">
+   <text style="font-size: 7.8552px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #5b5d66" x="40.32" y="361.021571" transform="rotate(-0 40.32 361.021571)">Source: HTTP Archive root pages, July crawls (July 1 or July 15 each year; 2026 = July 1, 2026 crawl). Percentages are of all root pages counted for each device.</text>
   </g>
  </g>
  <defs>
-  <clipPath id="p3396820775">
+  <clipPath id="pd8cfa7a13c">
    <rect x="72" y="123.84" width="388.8" height="195.84"/>
   </clipPath>
  </defs>

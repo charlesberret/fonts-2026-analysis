@@ -1,0 +1,37 @@
+claim_id,section,claim_text,value,client,denominator,source_file,source_locator,status,note
+V7-01,How We Count,54.5% of self-hosted requests first-party,54.5%,both,requests,sql/performance/fonts_self_hosted_split.csv,split query,matched,wave-5 split
+V7-02,How We Count,15.7% unnamed third-party hosts,15.7%,both,requests,sql/performance/fonts_self_hosted_split.csv,same job,matched,excl cdnjs/jsDelivr/Wix/Shopify/Squarespace
+V7-03,Self-Hosting,35.7% floor Google catalogue share,35.7%,both,requests,wave-8 catalogue match,clerk-recounted,matched,floor not rounded
+V7-04,Self-Hosting,tool fingerprints 12.5% of font-using pages,12.5%,desktop,pages,sql/performance/fonts_self_hosted_tool_paths.csv,12.55% rounds down,matched,corrected from 12.6%
+V7-05,Self-Hosting,Bunny Fonts ~0.5%,0.5%,both,requests,wave-6 pile,recounted,matched,
+V7-06,Why Sites Self-Host,Iran .ir ~four in five self-host only,82.2%,desktop,pages,country cut deffb96,.ir TLD cut,matched,v7 prints 82.2 (line 58)
+V7-07,Why Sites Self-Host,Russia Google share down 12 points,12%,desktop,pages,country cut,.ru cut,matched,points not percent
+V7-08,Google level,commercial families >=2% of self-hosted tagged requests,2%,both,requests,wave-13 + corrected-family-by-service.md,GT Standard 13th,matched,
+V7-09,Licenses,ITF seven of ten enquiries fail on budget,seven in ten,n/a,n/a,wave-13 pile,ITF news page,matched,prose form
+V7-10,Subsetting,Elementor flip 3.28.0 on / 3.32.1 off,3.28.0 / 3.32.1,n/a,n/a,intel/wave-8b-elementor.tsv,8 EXACT,superseded,version tokens not printed in v7 prose
+V7-11,Scripts,kashida 2002; Armenian Roboto 2017; Urdu 2016,2002 / 2017 / 2016,n/a,n/a,wave-9/10 piles,tracker dates,matched,
+V7-12,Font Display,49.6 vs 49.5 recompute note,49.6% / 49.5%,both,pages,claim sheet,recounted,matched,
+V7-13,avar2,partial instancing by two tools,two tools,n/a,n/a,wave-2 item 6,named tools,matched,
+V7-14,IFT,2020 W3C evaluation unevenly distributed,2020,n/a,n/a,wave-7 pile,PFE report,matched,
+V7-15,Tool prints,Elementor ~5.2-5.5% / next-font ~2.8-2.9%,5.2% / 5.5% / 2.8% / 2.9%,desktop,pages,tool-paths csv,addendum,matched,fixed from 2.91
+V7-16,v6 mobile,swap 56.0 block 24.7 ffs 13.1 ur-goog-only 36.5,56.0% / 24.7% / 13.1% / 36.5%,mobile,pages,pruned_css_gate_effect.csv,mobile rows,matched,
+V7-17,v6 mobile,VF mobile pair 79.4 / 1.1,79.4% / 1.1%,mobile,pages,claim sheet 5.6.1,v6,matched,
+V7-18,v5 trio,unicode-range 63.5 / 37.2 / 26.3,63.5% / 37.2% / 26.3%,both,pages,v5 correction,EDITING-NOTES,matched,
+V7-40,Sizes,p50 35.3/36.2 p75 77.2 p90 125.3/119.6 p99 874.7/696.1,35.3 / 36.2 / 77.2 / 125.3 / 119.6 / 874.7 / 696.1,both,files,size query,v7 table,matched,re-keyed 2026-10-16
+V7-41,Sizes prose,Google median WOFF2 ~17.5kB; self-hosted ~32.2; WOFF2 med 31.5; TTF med 59.5,17.5 / 32.2 / 31.5 / 59.5,desktop,files,size query,v7 prose,matched,
+V7-42,Sizes prose,Adobe OTF 71000 files med 1.6MB quarter of heaviest 1 pct (prose),71000 / 1.6,both,files,size query,v7 line 122,matched,
+V7-43,Appendix,Mozilla 10529; GF 4501; 17000 pages 2011,10529 / 4501 / 17000,both,counts,wave-10 corpora,Appendix B,matched,WebKit 2211 dropped from Appendix B 2026-10-23 (grill): no WebKit finding in the body
+V7-44,Hosting prose,self-hosted first-party floor ~72.1% (recheck),72.1,both,requests,self-hosted cut,v7 line 61,matched,
+V7-45,Formats,WOFF2 request series 73.9/78.4/82.4/83.7,73.9 / 78.4 / 82.4 / 83.7,desktop,requests,multi-year chart csv,v7 line 104,matched,C062 re-key target
+V8-01,Introduction,web-font adoption up less than a point from 2025,88.6% / 87.1%,both,pages,data/multi-year/chart_font_usage_annual.csv,rows year=2025 (0.8792 / 0.8660) and year=2026 (0.8857 / 0.8706): +0.65 / +0.46 points,matched,v8 opening (2026-10-16)
+V7-44,Introduction,11.6 million desktop pages (crawl size),11.6,desktop,pages,sql/design/styles_family.csv,total column 11628567 = 11.6 million,matched,also Appendix B 11628567 / 15539089
+V7-45,Resource Hints,preconnect on 20.3% of desktop pages 2026,20.3%,desktop,pages,sql/performance/pages_link_relationship.csv,line 2 preconnect proportion=0.2028,matched,also data/multi-year/chart_resource_hints.csv line 35
+V7-46,Variable Fonts,Roboto 21.2% of desktop variable-font requests,21.2%,desktop,requests,sql/development/fonts_variable_family.csv,line 3 proportion=0.2125 (half-even rounds to 21.2),matched,supersedes C152 (21.3 half-up)
+V7-47,Variable Fonts,Table 8: 2023 desktop 28.8%,28.8%,desktop,pages,data/multi-year/chart_variable_fonts.csv,line 10 proportion=0.2875,matched,
+V7-48,Font Display,Table 5: swap 2022 desktop 31.8%,31.8%,desktop,pages,data/multi-year/chart_font_display.csv,line 6 proportion=0.3178,matched,
+V7-49,Hosting,.de Google presence 44.6% desktop 2022,44.6%,desktop,font-using pages,sql/performance/fonts_self_hosted_by_tld.csv,line 45 proportion=0.4456 (.de 2022 any-Google),matched,country cut
+V7-50,Appendix,English declared on 47.7% of desktop root pages,47.7%,desktop,pages,sql/coverage/pages_language.csv,en desktop row,matched,language cut
+V7-51,Scripts,Han threshold 4920 ideographs,4920,both,method,verification/claim-sheet-2026.md,5% of 98408 Han code points = 4920.4,matched,method row (claim-sheet row 26 of the v4 references pass)
+V7-52,Font Display,swap 55.7% of desktop pages 2026,55.7%,desktop,pages,data/multi-year/chart_font_display.csv,line 28 proportion=0.5574,matched,also sql/performance/pruned_css_gate_effect.csv line 10
+V7-53,Subsetting,unicode-range 63.4% of mobile pages (D5-corrected),63.4%,mobile,pages,sql/performance/pruned_css_gate_effect.csv,line 54 corrected proportion=0.6338,matched,desktop 63.5 already mapped
+V7-54,Formats,WOFF2 75.8% of desktop requests 2020,75.8%,desktop,requests,data/multi-year/chart_formats.csv,line 13 proportion_request=0.7583,matched,added 2026-10-23 with the six-reading series

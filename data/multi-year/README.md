@@ -1,6 +1,6 @@
 # Multi-year chart data (Fonts)
 
-Built **2026-08-04** from the 2019–2025 Almanac chapter spreadsheets plus **2026-07-01** pipeline CSVs under `../../sql/`.
+Built **2026-08-04** from local Sheet exports in `fonts_all_years.duckdb` (repo root, `web-almanac/fonts_all_years.duckdb`; 2019–2025 Almanac spreadsheets) plus **2026-07-01** pipeline CSVs under `fonts-2026/sql/`.
 
 ## Chart-ready files (use these first)
 
@@ -18,9 +18,14 @@ Built **2026-08-04** from the 2019–2025 Almanac chapter spreadsheets plus **20
 
 `01_*.csv` … `07_*.csv` — wider dumps from DuckDB tables (headers messy where Sheets had title rows; chart_* files are cleaned).
 
-## Provenance
+## Rebuild
 
-The `chart_*.csv` files were assembled from the HTTP Archive Web Almanac Fonts-chapter spreadsheets for 2019–2025 (IDs below) plus the 2026-07-01 crawl results in `../../sql/`. The intermediate DuckDB mirror of those spreadsheets is not part of this repository; the spreadsheets are the upstream source.
+```bash
+# These CSVs were exported from a DuckDB mirror of the earlier years' Web Almanac result
+# spreadsheets (links below) joined to the 2026 result CSVs under ../../sql/.
+# The export queries are not published; the CSVs are the record of what they produced.
+duckdb fonts_all_years.duckdb   # then COPY queries in session history
+```
 
 ## Methodology caveats
 
@@ -28,7 +33,7 @@ The `chart_*.csv` files were assembled from the HTTP Archive Web Almanac Fonts-c
 2. **Formats 2019–2022** are mostly **request-volume** MIME shares. **Unique-URL** (`proportion_unique`) exists reliably from **2024**. Chapter prose YoY for WOFF2 should use unique-URL for 2024→2026; label request series separately.
 3. **Service names** normalized: `Google` not `Google Fonts` in 2025–2026 SERVICE() output.
 4. **2026** = crawl `2026-07-01` root pages only.
-5. The 2019–2025 numbers come from exported spreadsheets, not a live Sheets API pull; re-check them against the upstream sheets below if those change.
+5. DuckDB is a **local mirror of Google Sheets exports**, not a live Sheets API pull. Refresh by re-importing XLSX into `fonts_all_years.duckdb` if Sheets change.
 
 ## Sheet IDs (upstream)
 

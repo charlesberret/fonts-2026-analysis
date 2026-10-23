@@ -1,0 +1,2 @@
+# crawl data: one font family is served from a URL whose path contains a home-like segment; it is a public URL in the crawl, not a path of ours
+^sql/development/fonts_color_format_by_family\.csv:592

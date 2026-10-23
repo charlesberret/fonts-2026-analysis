@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this report, its data or its figures, please cite it as below."
+title: "Fonts on the Web in 2026"
+authors:
+  - family-names: Berret
+    given-names: Charles
+date-released: 2026-10-23
+version: "draft v10"
+repository-code: "https://github.com/charlesberret/fonts-2026-analysis"
+abstract: >-
+  A study of how fonts are hosted, packaged, loaded and designed across the web, read from the
+  HTTP Archive crawl of 1 July 2026 (11.6 million desktop and 15.5 million mobile root pages) and
+  compared with the Web Almanac Fonts chapters of 2019 to 2025. Commissioned by Google Fonts.
+keywords:
+  - web fonts
+  - HTTP Archive
+  - Web Almanac
+  - typography
+  - WOFF2
+  - variable fonts
+  - Incremental Font Transfer

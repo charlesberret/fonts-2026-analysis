@@ -91,74 +91,76 @@ def _client_lines(ax, series, label_dx, markers=False, front="mobile", where="in
         latest[client] = float(last["value"])
         ends.append((float(last["year"]), float(last["value"]), f"{label} {last['value']:.1f}"))
         print(f"  {client}: {int(last['year'])} = {last['value']:.1f}%")
-    g.end_labels(ax, ends, dx=label_dx)
+    g.end_labels(ax, ends, dx=label_dx, colors=[g.CLIENT_COLORS["desktop"], g.CLIENT_COLORS["mobile"]])
     return latest
 
 
 def f1():
-    """F1 - Pages requesting at least one web font, 2011-2026."""
+    """Figure 1 - Pages requesting at least one web font, 2011-2026."""
     series = _annual_series("chart_font_usage_annual.csv")
     fig, ax = g.new_figure(
         1, "Adoption",
-        "Pages using web fonts, 2011–2026",
-        "What share of root pages request at least one web font. Desktop and mobile are crawled separately.",
+        "Pages Using Web Fonts, 2011–2026",
+        "What share of root pages request at least one web font? Desktop and mobile are counted separately.",
         "pages",
         client_series=["desktop", "mobile"],
     )
     g.percent_axis(ax, top=100, step=20)
-    g.unit_label(ax, "percent of root pages")
+    g.unit_label(ax, "percent of pages")
     latest = _client_lines(ax, series, label_dx=0.55, front="desktop", where="chart_font_usage_annual.csv")
     years = list(series["desktop"]["year"])
     g.year_axis(ax, years, step=3)
     ax.set_xlim(2010.4, 2029.6)
+    g.grid_to(ax, 2026)
     first = float(series["desktop"].iloc[0]["value"])
     gain = latest["desktop"] - float(series["desktop"].set_index("year")["value"].loc[2025])
     if not 0 <= gain < 1:  # the callout says "by only"; the prose says "less than a point"
-        raise AnchorMismatch(f"F1: desktop gain since 2025 is {gain:.2f} pts, not under 1.")
+        raise AnchorMismatch(f"Figure 1: desktop gain since 2025 is {gain:.2f} pts, not under 1.")
     if not 87.5 <= latest["desktop"] < 90:  # the callout says "nearly nine in ten"
-        raise AnchorMismatch(f"F1: desktop share {latest['desktop']:.1f}% no longer reads as nearly nine in ten.")
+        raise AnchorMismatch(f"Figure 1: desktop share {latest['desktop']:.1f}% no longer reads as nearly nine in ten.")
     g.margin_number(
         fig, f"{latest['desktop']:.1f}", "%",
-        f"Nearly nine in ten desktop pages use a web font. Mobile is {latest['mobile']:.1f}%.",
-        note=f"The curve has flattened: up {gain:.1f} points since 2025, from {first:.1f}% in 2011.",
+        f"Nearly nine in ten desktop web pages use a web font. Mobile is {latest['mobile']:.1f}%.",
+        note=f"The curve has flattened: up {gain:.1f} points since last year, following a steep rise from {first:.1f}% in 2011.",
     )
     g.source_note(fig, "Source: HTTP Archive root pages, July crawls (July 1 or July 15 each year; "
-                       "2026 = July 1, 2026 crawl). Denominator: root pages per client.")
+                       "2026 = July 1, 2026 crawl). Percentages are of all root pages counted for each device.")
     return g.save_figure(fig, 1, "font-usage-over-time")
 
 
 def f9():
-    """F9 - Pages using at least one variable font, 2019-2026."""
+    """Figure 9 - Pages using at least one variable font, 2019-2026."""
     series = _annual_series("chart_variable_fonts.csv")
     fig, ax = g.new_figure(
-        9, "Variable fonts",
-        "Pages using variable fonts, 2019–2026",
+        9, "Variable Fonts",
+        "Pages Using Variable Fonts, 2019–2026",
         "What share of root pages load at least one variable font, whether or not the author chose it. "
-        "Desktop and mobile are crawled separately.",
+        "Desktop and mobile are counted separately.",
         "pages",
         client_series=["desktop", "mobile"],
     )
     g.percent_axis(ax, top=60, step=10)
-    g.unit_label(ax, "percent of root pages")
+    g.unit_label(ax, "percent of pages")
     latest = _client_lines(ax, series, label_dx=0.22, where="chart_variable_fonts.csv")
     g.year_axis(ax, range(2019, 2027))
-    ax.set_xlim(2018.7, 2027.35)
+    ax.set_xlim(2018.7, 2027.9)
+    g.grid_to(ax, 2026)
     for client in ("desktop", "mobile"):  # the note says both gained about nine points, the biggest since 2022
         yoy = series[client].set_index("year")["value"].diff()
         if not (abs(yoy.loc[2026] - 9) <= 0.5 and yoy.loc[2026] > yoy.loc[2023:2025].max()):
-            raise AnchorMismatch(f"F9: {client} gain {yoy.loc[2026]:.1f} pts no longer 'about nine, biggest since 2022'.")
+            raise AnchorMismatch(f"Figure 9: {client} gain {yoy.loc[2026]:.1f} pts no longer 'about nine, biggest since 2022'.")
     g.margin_number(
         fig, f"{latest['mobile']:.1f}", "%",
         f"Half of mobile pages now load a variable font. Desktop is {latest['desktop']:.1f}%.",
         note="Both gained about nine points in a year, the biggest rise since 2022.",
     )
     g.source_note(fig, "Source: HTTP Archive root pages, mid-year crawls (July; Sept. 2020, June 2022; "
-                       "2021 via the 2022 chapter). Denominator: root pages per client.")
+                       "2021 via the 2022 chapter). Percentages are of all root pages counted for each device.")
     return g.save_figure(fig, 9, "variable-font-adoption")
 
 
 # --------------------------------------------------------------------------
-# Column helpers (shared by F2/F4/F6/F7)
+# Column helpers (shared by Figures 2, 4, 6 and 7)
 # --------------------------------------------------------------------------
 
 
@@ -202,14 +204,14 @@ def _category_columns(ax, labels):
 
 
 def f2():
-    """F2 - How desktop pages combine Google Fonts and self-hosting, 2022-2026."""
+    """Figure 2 - How desktop pages combine Google Fonts and self-hosting, 2022-2026."""
     years = [2022, 2023, 2024, 2025, 2026]
     table = _desktop_frame("chart_service_combos.csv", "services", years=years)
 
     combos = [
-        ("Google, self-hosted", "Hybrid (Google + self-hosted)", g.SERIES[0]),
-        ("self-hosted", "Self-hosted only", g.SERIES[1]),
-        ("Google", "Google only", g.SERIES[2]),
+        ("Google, self-hosted", "Both Google and self-hosted", g.VIOLET),
+        ("self-hosted", "Self-hosted only", g.CERISE),
+        ("Google", "Google only", g.COBALT),
     ]
     for key, _, _ in combos:
         if key not in table.columns:
@@ -222,38 +224,43 @@ def f2():
         f"{label} {table.loc[2026, key]:.1f}%" for key, label, _ in combos
     ))
     hybrid, selfonly = combos[0][0], combos[1][0]
-    _anchor("F2", "2026 desktop self-hosted-only share", table.loc[2026, selfonly], 32.2)
-    # Floor share of self-hosted, family-named font requests that are Google Fonts families:
-    # verification/source-map-v7-delta.csv V7-03 (not in the chart CSVs).
-    google_self_hosted_floor = 35.7
+    _anchor("Figure 2", "2026 desktop hybrid share", table.loc[2026, hybrid], 35.2)
+    _anchor("Figure 2", "2026 desktop self-hosted-only share", table.loc[2026, selfonly], 32.2)
+    # The callout is the two Google rows summed, a number the bars do not show.
+    google_total = table.loc[2026, hybrid] + table.loc[2026, "Google"]
+    _anchor("Figure 2", "2026 desktop Google-only plus hybrid", google_total, 49.5)
+    # Google's full reach, which adds pages that mix it with a third host (chart_services.csv).
+    services = pd.read_csv(DATA / "chart_services.csv")
+    google_reach = float(services[(services["year"] == 2026) & (services["client"] == "desktop")
+                                  & (services["service"] == "Google")]["proportion"].iloc[0]) * 100.0
+    _anchor("Figure 2", "2026 desktop Google Fonts reach", google_reach, 53.7)
 
     fig, ax = g.new_figure(
-        2, "Font hosting",
-        "Font hosting combinations, 2022–2026",
-        "What share of desktop root pages use each combination of font hosts. Other combinations are not shown.",
+        2, "Font Hosting",
+        "Font Hosting Combinations, 2022–2026",
+        "How do desktop pages get their fonts: from Google, from their own servers, or both? Other combinations are not shown.",
         "pages",
         client_series=["desktop"],
     )
     g.percent_axis(ax, top=50, step=10)
-    g.unit_label(ax, "percent of desktop root pages")
+    g.unit_label(ax, "percent of desktop pages")
     x = _year_columns(ax, years)
     g.columns(ax, x, [(table[key].to_numpy(dtype=float), colour) for key, _, colour in combos],
               width=0.2, gap=0.035)
     y = g.margin_key(fig, [(label, colour) for _, label, colour in combos])
     g.margin_number(
-        fig, f"{table.loc[2026, selfonly]:.1f}", "%",
-        "Self-hosting alone covers nearly a third of desktop pages.",
-        note=f"Much of it is Google's catalog under another address: at least "
-             f"{google_self_hosted_floor:.1f}% of named self-hosted requests.",
+        fig, f"{google_total:.1f}", "%",
+        "of desktop pages use Google Fonts, alone or with self-hosting.",
+        note=f"Adding pages that mix Google with a third host, its reach is {google_reach:.1f}%.",
         y=y + 18,
     )
     g.source_note(fig, "Source: HTTP Archive desktop root pages, mid-year crawls (2026 = July 1, 2026 "
-                       "crawl). Other combinations not shown. Denominator: desktop root pages.")
+                       "crawl). Other combinations not shown. Percentages are of all desktop root pages.")
     return g.save_figure(fig, 2, "hosting-combinations")
 
 
 def f3():
-    """F3 - WOFF2 as a share of font requests, 2019-2026."""
+    """Figure 3 - WOFF2 as a share of font requests, 2019-2026."""
     df = pd.read_csv(DATA / "chart_formats.csv")
     woff2 = df[df["format"] == "woff2"].copy()
     woff2["value"] = woff2["proportion_request"].astype(float) * 100.0
@@ -263,15 +270,15 @@ def f3():
         for client, part in woff2.groupby("client")
     }
     latest = series["desktop"].set_index("year")["value"]
-    _anchor("F3", "2026 desktop WOFF2 request share", latest.loc[2026], 83.7)
+    _anchor("Figure 3", "2026 desktop WOFF2 request share", latest.loc[2026], 83.7)
     unique26 = float(
         woff2[(woff2["client"] == "desktop") & (woff2["year"] == 2026)]["proportion_unique"].iloc[0]
     ) * 100.0
 
     fig, ax = g.new_figure(
-        3, "Font formats",
-        "WOFF2 share of font requests, 2019–2026",
-        "What share of font requests are WOFF2. Dots mark the years we measured, and there are none for 2021 or 2023.",
+        3, "Font Formats",
+        "WOFF2 Share of Font Requests, 2019–2026",
+        "What share of font requests use WOFF2, the modern compressed format? Dots mark the years we counted. There is no data for 2021 or 2023.",
         "requests",
         client_series=["desktop", "mobile"],
     )
@@ -280,21 +287,22 @@ def f3():
     # Markers mark the years actually crawled: 2021 and 2023 have no data.
     _client_lines(ax, series, label_dx=0.22, markers=True, front="desktop", where="chart_formats.csv")
     g.year_axis(ax, range(2019, 2027))
-    ax.set_xlim(2018.7, 2027.6)
+    ax.set_xlim(2018.7, 2027.9)
+    g.grid_to(ax, 2026)
     g.margin_number(
         fig, f"{latest.loc[2026]:.1f}", "%",
-        f"WOFF2 now carries over four in five desktop font requests, up from "
+        f"Over four in five desktop font requests are for WOFF2, up from "
         f"{latest.loc[2019]:.1f}% in 2019.",
-        note=f"Counted by distinct font URLs, WOFF2 is {unique26:.1f}% (Fig. 4). "
-             "High-traffic hosts push the request share higher.",
+        note=f"Counting each distinct font file once, WOFF2 is {unique26:.1f}% (Figure 4). "
+             "Popular hosts serve it so often that the request share runs higher.",
     )
     g.source_note(fig, "Source: HTTP Archive font requests, mid-year crawls (July; Aug. 2020, June 2022; "
-                       "2026 = July 1, 2026 crawl). Denominator: font requests per client.")
+                       "2026 = July 1, 2026 crawl). Percentages are of all font requests per device.")
     return g.save_figure(fig, 3, "woff2-request-share")
 
 
 def f4():
-    """F4 - Format mix among unique font URLs, desktop, 2024-2026."""
+    """Figure 4 - Format mix among unique font URLs, desktop, 2024-2026."""
     # The unique-URL series starts in 2024; earlier years are never backfilled.
     years = [2024, 2025, 2026]
     order = ["woff2", "woff", "ttf", "octet-stream"]
@@ -305,18 +313,18 @@ def f4():
         years=years,
         keys=order,
     )
-    _anchor("F4", "2026 desktop WOFF2 unique-URL share", table.loc[2026, "woff2"], 68.5)
+    _anchor("Figure 4", "2026 desktop WOFF2 unique-URL share", table.loc[2026, "woff2"], 68.5)
 
     colours = g.year_colors(years)
-    names = {"woff2": "WOFF2", "woff": "WOFF", "ttf": "TTF", "octet-stream": "octet-stream"}
+    names = {"woff2": "WOFF2", "woff": "WOFF", "ttf": "TTF", "octet-stream": "Unidentified (octet-stream)"}
     print("  2026 desktop: " + ", ".join(
         f"{names[k]} {table.loc[2026, k]:.1f}%" for k in order
     ))
 
     fig, ax = g.new_figure(
-        4, "Font formats",
-        "Font formats by distinct URL, 2024–2026",
-        "What share of distinct desktop font URLs use each format. Other formats are not shown.",
+        4, "Font Formats",
+        "Font Formats by Distinct URL, 2024–2026",
+        "What share of distinct desktop font files use each format? Other formats are not shown.",
         "unique_urls",
         client_series=["desktop"],
     )
@@ -327,10 +335,10 @@ def f4():
                   width=0.22, gap=0.03, label=lambda s, i: i == 0)
     y = g.margin_key(fig, [(str(yr), colours[yr]) for yr in years])
     if not (table.loc[2026, "woff2"] > 200 / 3 and abs(table.loc[2026, "ttf"] - table.loc[2024, "ttf"]) < 1):
-        raise AnchorMismatch("F4: WOFF2 no longer over two-thirds, or TTF no longer barely moved.")
+        raise AnchorMismatch("Figure 4: WOFF2 no longer over two-thirds, or TTF no longer barely moved.")
     g.margin_number(
         fig, f"{table.loc[2026, 'woff2']:.1f}", "%",
-        f"Over two-thirds of distinct font URLs are WOFF2, up from "
+        f"Over two-thirds of distinct font files are WOFF2, up from "
         f"{table.loc[2024, 'woff2']:.1f}% in 2024.",
         note=f"WOFF fell from {table.loc[2024, 'woff']:.1f}% to {table.loc[2026, 'woff']:.1f}% "
              f"as WOFF2 rose. TTF barely moved, from {table.loc[2024, 'ttf']:.1f}% to "
@@ -338,12 +346,12 @@ def f4():
         y=y + 16,
     )
     g.source_note(fig, "Source: HTTP Archive font URLs, desktop, mid-year crawls (2026 = July 1, 2026 "
-                       "crawl); series begins 2024. Denominator: distinct font URLs.")
+                       "crawl); series begins 2024. Percentages are of distinct font URLs.")
     return g.save_figure(fig, 4, "format-mix-unique-urls")
 
 
 def f6():
-    """F6 - Font-related resource hints on desktop pages, 2022-2026."""
+    """Figure 6 - Font-related resource hints on desktop pages, 2022-2026."""
     years = [2022, 2023, 2024, 2025, 2026]
     table = _desktop_frame("chart_resource_hints.csv", "hint", years=years)
 
@@ -357,15 +365,15 @@ def f6():
     ))
 
     fig, ax = g.new_figure(
-        6, "Resource hints",
-        "Font resource hints, 2022–2026",
-        "What share of desktop root pages use each hint for a font host or font file. "
-        "We can't tell authored hints from inherited ones.",
+        6, "Resource Hints",
+        "Font Resource Hints, 2022–2026",
+        "What share of desktop pages ask the browser to prepare early for fonts? "
+        "Hints from authors and from tools look alike.",
         "pages",
         client_series=["desktop"],
     )
     g.percent_axis(ax, top=25, step=5)
-    g.unit_label(ax, "percent of desktop root pages")
+    g.unit_label(ax, "percent of desktop pages")
     x = _year_columns(ax, years)
     g.columns(ax, x, [(table[key].to_numpy(dtype=float), colour) for key, _, colour in hints],
               width=0.2, gap=0.035)
@@ -376,7 +384,7 @@ def f6():
           and t.loc[2026, "preload"] > t.loc[2026, "dns-prefetch"]                       # "passed ... this year"
           and t.loc[2025, "preload"] < t.loc[2025, "dns-prefetch"])
     if not ok:
-        raise AnchorMismatch("F6: the hint ranking no longer matches the callout.")
+        raise AnchorMismatch("Figure 6: the hint ranking no longer matches the callout.")
     g.margin_number(
         fig, f"{t.loc[2026, 'preconnect']:.1f}", "%",
         "Preconnect has nearly doubled since 2022 and leads every other font hint.",
@@ -388,19 +396,19 @@ def f6():
     g.source_note(fig, "Source: HTTP Archive desktop root pages, mid-year crawls (2026 = July 1, 2026 crawl). "
                        "Hints count only when they point at a font host or font file; 2022 is re-run with the "
                        f"definition used since 2024. prefetch ({table.loc[2026, 'prefetch']:.1f}% in 2026) is "
-                       "not shown. Denominator: desktop root pages.")
+                       "not shown. Percentages are of all desktop root pages.")
     return g.save_figure(fig, 6, "resource-hints")
 
 
 def f7():
-    """F7 - font-display values on desktop pages, 2022 / 2025 / 2026."""
+    """Figure 7 - font-display values on desktop pages, 2022 / 2025 / 2026."""
     # Only these three years were measured the same way; 2023-24 stay absent.
     years = [2022, 2025, 2026]
     order = ["swap", "block", "auto", "fallback", "optional"]
     table = _desktop_frame(
         "chart_font_display.csv", "property", years=years, keys=order
     )
-    _anchor("F7", "2026 desktop font-display: swap", table.loc[2026, "swap"], 55.7)  # gate-corrected 2026-10-01
+    _anchor("Figure 7", "2026 desktop font-display: swap", table.loc[2026, "swap"], 55.7)  # gate-corrected 2026-10-01
 
     colours = g.year_colors(years)
     print("  2026 desktop: " + ", ".join(
@@ -409,16 +417,16 @@ def f7():
 
     fig, ax = g.new_figure(
         7, "font-display",
-        "font-display values, 2022, 2025 and 2026",
-        "What share of desktop root pages declare each value. Pages with no value are not shown, "
-        "and a page may declare more than one.",
+        "font-display Values, 2022, 2025 and 2026",
+        "What share of desktop pages set each value for how text looks while a font loads? "
+        "A page may set several.",
         "pages",
         client_series=["desktop"],
     )
     # Grouped, never stacked: a page may declare several values, so the
     # shares overlap and do not sum to a whole.
     g.percent_axis(ax, top=60, step=10)
-    g.unit_label(ax, "percent of desktop root pages")
+    g.unit_label(ax, "percent of desktop pages")
     x = _category_columns(ax, order)
     g.year_groups(ax, x, [(table[order].loc[yr].to_numpy(dtype=float), colours[yr]) for yr in years],
                   width=0.22, gap=0.03, label=lambda s, i: i == 0)
@@ -426,19 +434,20 @@ def f7():
     g.margin_number(
         fig, f"{table.loc[2026, 'swap']:.1f}", "%",
         f"Swap is now on over half of desktop pages, up "
-        f"{table.loc[2026, 'swap'] - table.loc[2025, 'swap']:.1f} points from 2025.",
+        f"{table.loc[2026, 'swap'] - table.loc[2025, 'swap']:.1f} points from last year.",
         note=f"block holds at {table.loc[2026, 'block']:.1f}%, largely an icon-font default "
              "rather than a choice for body text.",
         y=y + 16,
     )
     g.source_note(fig, "Source: HTTP Archive desktop root pages, mid-year crawls (2026 = July 1, 2026 crawl); "
                        "only these three years were measured the same way. 2026 values are corrected for "
-                       "stylesheets the extraction set aside for size. Denominator: desktop root pages.")
+                       "stylesheets the extraction set aside for size. Pages that set no value are not shown. "
+                       "Percentages are of all desktop root pages.")
     return g.save_figure(fig, 7, "font-display")
 
 
 def f5():
-    """F5 - Font file size percentiles, 2026, log kB (per distinct parsed font file)."""
+    """Figure 5 - Font file size percentiles, 2026, log kB (per distinct parsed font file)."""
     df = pd.read_csv(SQL / "performance" / "fonts_size.csv")
     for required in ("client", "percentile", "size"):
         if required not in df.columns:
@@ -457,18 +466,18 @@ def f5():
             raise ValueError(f"fonts_size.csv: {client} missing p{missing}")
         rows[client] = [float(part.loc[p]) for p in percentiles]
 
-    _anchor("F5", "2026 desktop p50", rows["desktop"][2], 35.3, tol=0.5, unit=" kB")
-    _anchor("F5", "2026 desktop p99", rows["desktop"][5], 874.7, tol=5.0, unit=" kB")
+    _anchor("Figure 5", "2026 desktop p50", rows["desktop"][2], 35.3, tol=0.5, unit=" kB")
+    _anchor("Figure 5", "2026 desktop p99", rows["desktop"][5], 874.7, tol=5.0, unit=" kB")
 
     fig, ax = g.new_figure(
-        5, "File sizes",
-        "Font file size by percentile, 2026",
-        "How big font files get, from the 10th to the 99th percentile. "
-        "Each distinct parsed font file counts once, for desktop and mobile.",
+        5, "File Sizes",
+        "Font File Size by Percentile, 2026",
+        "How big are font files? Each dot is a percentile: p50 is the middle file, and p99 is bigger than 99 of every 100. "
+        "Each distinct font file counts once.",
         "files",
         client_series=["desktop", "mobile"],
     )
-    g.unit_label(ax, "kB per file, log scale · percentiles of distinct font files")
+    g.unit_label(ax, "kilobytes (kB) per file, on a log scale, for distinct font files")
 
     positions = {"desktop": 1.0, "mobile": 0.0}
     for client, values in rows.items():
@@ -477,16 +486,20 @@ def f5():
         ax.plot([values[0], values[-1]], [y, y], color=colour, alpha=0.35, lw=1.4, zorder=2)
         ax.scatter(values, [y] * len(values), s=46, color=colour, zorder=3,
                    edgecolor=g.GROUND, linewidth=1.2)
+        # the median is what the callout cites: a larger dot with a ground-coloured centre
+        ax.scatter([values[2]], [y], s=82, color=colour, zorder=4, edgecolor=g.GROUND, linewidth=1.2)
+        ax.scatter([values[2]], [y], s=12, color=g.GROUND, zorder=5, linewidth=0)
         for p, value in zip(percentiles, values):
             if client == "desktop":
                 g.text(ax, value, y + 0.2, f"p{p}", color=g.MUTED, ha="center", va="bottom")
             if p in (50, 99):
-                g.text(ax, value, y - 0.2, f"{value:,.1f}", color=g.INK, ha="center", va="top")
+                g.text(ax, value, y - 0.2, f"{value:,.1f}", color=g.INK, ha="center", va="top",
+                       bbox=dict(boxstyle="square,pad=0.3", fc=g.GROUND, ec="none"))
         print(f"  {client}: " + ", ".join(
             f"p{p} {v:,.1f}kB" for p, v in zip(percentiles, values)
         ))
 
-    g.log_kb_axis(ax, ticks=(10, 100, 1000), lo=5.5, hi=1800)
+    g.log_kb_axis(ax, ticks=(10, 100, 1000), lo=5.5, hi=1800, grid_color="#cfd1d9")
     g.category_axis(ax, [0.0, 1.0], ["Mobile", "Desktop"], axis="y")
     ax.set_ylim(-0.65, 1.65)
     d = rows["desktop"]
@@ -498,12 +511,12 @@ def f5():
              "files alone make up more than a quarter of the heaviest 1%.",
     )
     g.source_note(fig, "Source: HTTP Archive parsed font files, July 1, 2026 crawl; SI kilobytes "
-                       "(1 kB = 1,000 bytes). Denominator: distinct font files per client.")
+                       "(1 kB = 1,000 bytes). Percentages are of distinct font files per device.")
     return g.save_figure(fig, 5, "size-percentiles")
 
 
 def f8():
-    """F8 - Script coverage among desktop font files, 2026."""
+    """Figure 8 - Script coverage among desktop font files, 2026."""
     df = pd.read_csv(SQL / "design" / "fonts_script.csv")
     data = df[df["client"] == "desktop"].set_index("script")["proportion"] * 100.0
 
@@ -519,16 +532,16 @@ def f8():
         ("Hiragana", "Hiragana"),
         ("Hebrew", "Hebrew"),
         ("Devanagari", "Devanagari"),
-        ("Hangul", "Hangul (near-complete sets)"),
+        ("Hangul", "Hangul"),
         ("Arabic", "Arabic"),
-        ("Han", "Han (near-complete sets)"),
+        ("Han", "Han (Chinese characters), 4,920 and up"),
     ]
     missing = [key for key, _ in wanted if key not in data.index]
     if missing:
         raise ValueError(f"fonts_script.csv: no desktop rows for {missing}")
 
-    latin = _anchor("F8", "2026 desktop Latin coverage", data.loc["Latin"], 57.0, tol=0.5)
-    han = _anchor("F8", "2026 desktop Han coverage", data.loc["Han"], 0.5)
+    latin = _anchor("Figure 8", "2026 desktop Latin coverage", data.loc["Latin"], 57.0, tol=0.5)
+    han = _anchor("Figure 8", "2026 desktop Han coverage", data.loc["Han"], 0.5)
 
     bars = sorted(
         ((label, float(data.loc[key])) for key, label in wanted),
@@ -539,11 +552,10 @@ def f8():
 
     fig, ax = g.new_figure(
         8, "Scripts",
-        "Script coverage of font files, 2026",
-        "What share of distinct desktop font files cover more than 5% of each script's characters. "
-        "Han needs 4,920 ideographs, so slices don't count.",
+        "Script Coverage of Font Files, 2026",
+        "What share of distinct desktop font files cover a substantial part of each script, or writing system?",
         "files",
-        plot_l=262, plot_top=g.PLOT_TOP + 16,
+        plot_l=286, plot_top=g.PLOT_TOP + 16,
         client_series=["desktop"],
     )
     g.horizontal(ax)
@@ -553,7 +565,9 @@ def f8():
     for pos, (label, value) in zip(y, bars):
         # 2026-10-01: no accent; Han 0.5% is a coverage-rule artifact, not a finding
         ax.barh(pos, value, height=0.62, color=g.SERIES[0], zorder=3, linewidth=0)
-        g.text(ax, value + 0.8, pos, f"{value:.1f}", color=g.MUTED, ha="left", va="center",
+        han_row = label.startswith("Han (")   # the callout is about this row
+        g.text(ax, value + 0.8, pos, f"{value:.1f}", color=g.INK if han_row else g.MUTED,
+               weight=500 if han_row else "normal", ha="left", va="center",
                bbox=dict(boxstyle="square,pad=0.12", fc=g.GROUND, ec="none"))  # knock out gridlines
 
     g.percent_axis(ax, top=60, step=10, axis="x")
@@ -562,12 +576,12 @@ def f8():
     ax.set_ylim(-0.6, len(bars) - 0.4)
     g.margin_number(
         fig, f"{han:.1f}", "%",
-        f"Han reaches the web as slices: only {han:.1f}% of font files carry a near-complete "
-        f"set, against {latin:.0f}% for Latin.",
-        note="Google serves Han as many small subsets.",
+        "of font files cover a substantial set of Han characters. Most pages receive Han in slices of a "
+        "few hundred characters.",
+        note="One page using Noto Sans JP fetches about 27.",
     )
     g.source_note(fig, "Source: HTTP Archive font URLs, desktop, July 1, 2026 crawl. A script counts "
-                       "when a file covers more than 5% of its characters. Denominator: font files.")
+                       "when a file covers more than 5% of its characters. Percentages are of all font files.")
     return g.save_figure(fig, 8, "script-coverage")
 
 
@@ -607,7 +621,7 @@ def main(argv):
 
     stopped = []
     for key in keys:
-        print(f"{key}: rendering")
+        print(f"Figure {key[1:]}: rendering")
         try:
             svg, png = FIGURES[key]()
         except AnchorMismatch as exc:
