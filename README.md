@@ -1,6 +1,6 @@
 # Fonts on the Web in 2026 - Analysis
 
-The report, the data and the figures for *Fonts on the Web in 2026*, a study of how fonts are hosted, packaged, loaded and designed across the web. It reads the [HTTP Archive](https://httparchive.org/) crawl of 1 July 2026 (11.6 million desktop and 15.5 million mobile root pages) and compares it with the Web Almanac Fonts chapters of 2019, 2020, 2022, 2024 and 2025. The Web Almanac is not publishing in 2026, so this report carries that series forward as a standalone study. It was commissioned by Google Fonts and written by Charles Berret.
+The report, results and figures behind "Fonts on the Web in 2026," using data from the HTTP Archive crawl to understand how fonts are hosted, packaged, loaded and designed across the web. It reads the crawl of 1 July 2026 (11.6 million desktop and 15.5 million mobile root pages) and compares it with the Web Almanac Fonts chapters of 2019, 2020, 2022, 2024 and 2025; the Almanac is not publishing in 2026, so this report carries that series forward as a standalone study. It was commissioned by Google Fonts and written by Charles Berret.
 
 ## What is here
 
