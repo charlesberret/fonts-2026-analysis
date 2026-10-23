@@ -1,8 +1,6 @@
-# fonts-2026-analysis
+# Fonts on the Web in 2026 - Analysis
 
-Queries, results and figures behind the 2026 Fonts chapter of the
-[HTTP Archive Web Almanac](https://almanac.httparchive.org/): how fonts are hosted, packaged,
-loaded and designed across the web, from the 2026-07-01 crawl, compared with earlier years.
+Queries, results and figures behind the report "Fonts on the Web in 2026," using data from the HTTP Archive crawl to understand how fonts are hosted, packaged, loaded and designed across the web.
 
 | Directory | Contents |
 | --- | --- |
