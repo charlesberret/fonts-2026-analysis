@@ -1,6 +1,6 @@
 # Fonts on the Web 2026: Google Cloud expenses
 
-Prepared 2026-10-21 from BigQuery job history for project `fonts-data-analysis` (all jobs on the project, 2026-06-29 to 2026-10-21). Times are UTC.
+Prepared 2026-10-26 from BigQuery job history for project `fonts-data-analysis` (all jobs on the project, 2026-06-29 to 2026-10-26). Times are UTC.
 
 **This is a usage statement, not the invoice.** The authoritative amounts are in the Google Cloud Billing report for the billing account. Credits, taxes and any other projects on the same account are not visible here.
 
@@ -8,11 +8,11 @@ Prepared 2026-10-21 from BigQuery job history for project `fonts-data-analysis` 
 
 | Item | Amount |
 |---|---|
-| BigQuery on-demand queries: 547 jobs, 94,718,381,785,088 bytes billed (86.146 TiB) at the $6.25 per TiB list price | $538.41 |
-| Same, net of the free first 1 TiB per month, if this project is the only usage on the account | $513.21 |
-| BigQuery storage in dataset `fonts_2026`, accrued 2026-08-03 to 2026-10-21 at the active logical rate, no free-tier offset (estimate) | $147.52 |
-| Estimated gross total, list price queries plus storage | $685.94 |
-| Estimated total net of the monthly free query tier | $660.73 |
+| BigQuery on-demand queries: 549 jobs, 97,257,011,544,064 bytes billed (88.455 TiB) at the $6.25 per TiB list price | $552.84 |
+| Same, net of the free first 1 TiB per month, if this project is the only usage on the account | $527.64 |
+| BigQuery storage in dataset `fonts_2026`, accrued 2026-08-03 to 2026-10-26 at the active logical rate, no free-tier offset (estimate) | $156.85 |
+| Estimated gross total, list price queries plus storage | $709.70 |
+| Estimated total net of the monthly free query tier | $684.49 |
 
 Not charged: the HTTP Archive and Chrome UX Report datasets are public. Load and extract jobs, and queries that processed no data, cost nothing. The helper bucket `gs://fonts-data-analysis-lib` holds 60 KiB.
 
@@ -30,9 +30,9 @@ Not charged: the HTTP Archive and Chrome UX Report datasets are public. Load and
 | 2026-07 | 454 | 1.405 | $8.78 | $2.53 |
 | 2026-08 | 69 | 63.551 | $397.19 | $390.94 |
 | 2026-09 | 6 | 2.882 | $18.01 | $11.76 |
-| 2026-10 | 12 | 18.275 | $114.22 | $107.97 |
+| 2026-10 | 14 | 20.584 | $128.65 | $122.40 |
 
-## By day, all 15 days with spend
+## By day, all 17 days with spend
 
 | Date (UTC) | Jobs | TiB billed | List price |
 |---|---|---|---|
@@ -51,6 +51,8 @@ Not charged: the HTTP Archive and Chrome UX Report datasets are public. Load and
 | 2026-10-12 | 5 | 0.1783 | $1.11 |
 | 2026-10-17 | 1 | 0.0007 | $0.00 |
 | 2026-10-21 | 3 | 0.9050 | $5.66 |
+| 2026-10-24 | 1 | 1.2182 | $7.61 |
+| 2026-10-25 | 1 | 1.0906 | $6.82 |
 
 ## What the large days were
 
@@ -72,4 +74,4 @@ Not charged: the HTTP Archive and Chrome UX Report datasets are public. Load and
 - The 1 TiB monthly free tier is shared across the whole billing account, so the net-of-free figure is correct only if nothing else on the account used queries in those months.
 - Storage is accruing at about $56 per 30 days while the 68 tables stay, 2.4 TiB in all. It will continue until tables are deleted or expire. The two large tables are `pruned_css` and `font_requests`.
 - Job times are UTC. Dates near midnight may fall on the previous or next local day.
-- The project's finish plan of 2026-09 records "only spend ~$6". That predates the 2026-10-01 query that billed $106.72 and the 2026-10-21 coverage queries.
+- The project's finish plan of 2026-09 records "only spend ~$6". That predates the 2026-10-01 query that billed $106.72, the 2026-10-21 coverage queries, and the follow-up queries of 2026-10-24 and 2026-10-25.

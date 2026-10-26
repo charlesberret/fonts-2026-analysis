@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-10-23T11:41:37.462149</dc:date>
+    <dc:date>2026-10-26T12:32:50.423144</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -40,85 +40,85 @@ z
    <g id="LineCollection_1">
     <path d="M 72 319.68 
 L 390.584348 319.68 
-" clip-path="url(#pf8828dbe97)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6"/>
+" clip-path="url(#pa7edf99660)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6"/>
    </g>
    <g id="LineCollection_2">
     <path d="M 72 287.04 
 L 390.584348 287.04 
-" clip-path="url(#pf8828dbe97)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6"/>
+" clip-path="url(#pa7edf99660)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6"/>
    </g>
    <g id="LineCollection_3">
     <path d="M 72 254.4 
 L 390.584348 254.4 
-" clip-path="url(#pf8828dbe97)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6"/>
+" clip-path="url(#pa7edf99660)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6"/>
    </g>
    <g id="LineCollection_4">
     <path d="M 72 221.76 
 L 390.584348 221.76 
-" clip-path="url(#pf8828dbe97)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6"/>
+" clip-path="url(#pa7edf99660)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6"/>
    </g>
    <g id="LineCollection_5">
     <path d="M 72 189.12 
 L 390.584348 189.12 
-" clip-path="url(#pf8828dbe97)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6"/>
+" clip-path="url(#pa7edf99660)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6"/>
    </g>
    <g id="LineCollection_6">
     <path d="M 72 156.48 
 L 390.584348 156.48 
-" clip-path="url(#pf8828dbe97)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6"/>
+" clip-path="url(#pa7edf99660)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6"/>
    </g>
    <g id="LineCollection_7">
     <path d="M 72 123.84 
 L 390.584348 123.84 
-" clip-path="url(#pf8828dbe97)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6"/>
+" clip-path="url(#pa7edf99660)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
      <g id="line2d_1"/>
      <g id="text_1">
-      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: middle; fill: #181a23" x="84.678261" y="333.853828" transform="rotate(-0 84.678261 333.853828)">2019</text>
+      <text style="font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: middle; fill: #181a23" x="84.678261" y="334.05" transform="rotate(-0 84.678261 334.05)">2019</text>
      </g>
     </g>
     <g id="xtick_2">
      <g id="line2d_2"/>
      <g id="text_2">
-      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: middle; fill: #181a23" x="126.93913" y="333.853828" transform="rotate(-0 126.93913 333.853828)">2020</text>
+      <text style="font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: middle; fill: #181a23" x="126.93913" y="334.05" transform="rotate(-0 126.93913 334.05)">2020</text>
      </g>
     </g>
     <g id="xtick_3">
      <g id="line2d_3"/>
      <g id="text_3">
-      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: middle; fill: #181a23" x="169.2" y="333.853828" transform="rotate(-0 169.2 333.853828)">2021</text>
+      <text style="font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: middle; fill: #181a23" x="169.2" y="334.05" transform="rotate(-0 169.2 334.05)">2021</text>
      </g>
     </g>
     <g id="xtick_4">
      <g id="line2d_4"/>
      <g id="text_4">
-      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: middle; fill: #181a23" x="211.46087" y="333.853828" transform="rotate(-0 211.46087 333.853828)">2022</text>
+      <text style="font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: middle; fill: #181a23" x="211.46087" y="334.05" transform="rotate(-0 211.46087 334.05)">2022</text>
      </g>
     </g>
     <g id="xtick_5">
      <g id="line2d_5"/>
      <g id="text_5">
-      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: middle; fill: #181a23" x="253.721739" y="333.853828" transform="rotate(-0 253.721739 333.853828)">2023</text>
+      <text style="font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: middle; fill: #181a23" x="253.721739" y="334.05" transform="rotate(-0 253.721739 334.05)">2023</text>
      </g>
     </g>
     <g id="xtick_6">
      <g id="line2d_6"/>
      <g id="text_6">
-      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: middle; fill: #181a23" x="295.982609" y="333.853828" transform="rotate(-0 295.982609 333.853828)">2024</text>
+      <text style="font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: middle; fill: #181a23" x="295.982609" y="334.05" transform="rotate(-0 295.982609 334.05)">2024</text>
      </g>
     </g>
     <g id="xtick_7">
      <g id="line2d_7"/>
      <g id="text_7">
-      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: middle; fill: #181a23" x="338.243478" y="333.853828" transform="rotate(-0 338.243478 333.853828)">2025</text>
+      <text style="font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: middle; fill: #181a23" x="338.243478" y="334.05" transform="rotate(-0 338.243478 334.05)">2025</text>
      </g>
     </g>
     <g id="xtick_8">
      <g id="line2d_8"/>
      <g id="text_8">
-      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: middle; fill: #181a23" x="380.504348" y="333.853828" transform="rotate(-0 380.504348 333.853828)">2026</text>
+      <text style="font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: middle; fill: #181a23" x="380.504348" y="334.05" transform="rotate(-0 380.504348 334.05)">2026</text>
      </g>
     </g>
    </g>
@@ -126,43 +126,43 @@ L 390.584348 123.84
     <g id="ytick_1">
      <g id="line2d_9"/>
      <g id="text_9">
-      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="323.766914" transform="rotate(-0 66 323.766914)">0</text>
+      <text style="font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="323.865" transform="rotate(-0 66 323.865)">0</text>
      </g>
     </g>
     <g id="ytick_2">
      <g id="line2d_10"/>
      <g id="text_10">
-      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="291.126914" transform="rotate(-0 66 291.126914)">10</text>
+      <text style="font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="291.225" transform="rotate(-0 66 291.225)">10</text>
      </g>
     </g>
     <g id="ytick_3">
      <g id="line2d_11"/>
      <g id="text_11">
-      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="258.486914" transform="rotate(-0 66 258.486914)">20</text>
+      <text style="font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="258.585" transform="rotate(-0 66 258.585)">20</text>
      </g>
     </g>
     <g id="ytick_4">
      <g id="line2d_12"/>
      <g id="text_12">
-      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="225.846914" transform="rotate(-0 66 225.846914)">30</text>
+      <text style="font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="225.945" transform="rotate(-0 66 225.945)">30</text>
      </g>
     </g>
     <g id="ytick_5">
      <g id="line2d_13"/>
      <g id="text_13">
-      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="193.206914" transform="rotate(-0 66 193.206914)">40</text>
+      <text style="font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="193.305" transform="rotate(-0 66 193.305)">40</text>
      </g>
     </g>
     <g id="ytick_6">
      <g id="line2d_14"/>
      <g id="text_14">
-      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="160.566914" transform="rotate(-0 66 160.566914)">50</text>
+      <text style="font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="160.665" transform="rotate(-0 66 160.665)">50</text>
      </g>
     </g>
     <g id="ytick_7">
      <g id="line2d_15"/>
      <g id="text_15">
-      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="127.926914" transform="rotate(-0 66 127.926914)">60</text>
+      <text style="font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="128.025" transform="rotate(-0 66 128.025)">60</text>
      </g>
     </g>
    </g>
@@ -180,29 +180,29 @@ L 253.721739 225.84
 L 295.982609 212.71872 
 L 338.243478 190.98048 
 L 380.504348 160.75584 
-" clip-path="url(#pf8828dbe97)" style="fill: none; stroke: #2a5cda; stroke-width: 1.8; stroke-linecap: round"/>
+" clip-path="url(#pa7edf99660)" style="fill: none; stroke: #2a5cda; stroke-width: 1.8; stroke-linecap: round"/>
    </g>
    <g id="text_16">
     <g id="patch_4">
-     <path d="M 398.439078 170.925459 
-L 450.901977 170.925459 
-L 450.901977 158.584941 
-L 398.439078 158.584941 
+     <path d="M 398.439078 171.212655 
+L 449.864881 171.212655 
+L 449.864881 158.297745 
+L 398.439078 158.297745 
 z
 " style="fill: #e7e9ee"/>
     </g>
-    <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #181a23" x="399.443478" y="167.763169" transform="rotate(-0 399.443478 167.763169)">Desktop 48.7</text>
+    <text style="font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #181a23" x="399.443478" y="167.672145" transform="rotate(-0 399.443478 167.672145)">Desktop 48.7</text>
    </g>
    <g id="text_17">
     <g id="patch_5">
-     <path d="M 398.439078 157.965459 
-L 445.741349 157.965459 
-L 445.741349 145.624941 
-L 398.439078 145.624941 
+     <path d="M 398.439078 158.252655 
+L 444.089581 158.252655 
+L 444.089581 145.337745 
+L 398.439078 145.337745 
 z
 " style="fill: #e7e9ee"/>
     </g>
-    <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #181a23" x="399.443478" y="154.803169" transform="rotate(-0 399.443478 154.803169)">Mobile 50.2</text>
+    <text style="font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #181a23" x="399.443478" y="154.712145" transform="rotate(-0 399.443478 154.712145)">Mobile 50.2</text>
    </g>
    <g id="line2d_17">
     <path d="M 84.678261 313.57632 
@@ -213,7 +213,7 @@ L 253.721739 221.62944
 L 295.982609 208.73664 
 L 338.243478 184.8768 
 L 380.504348 155.79456 
-" clip-path="url(#pf8828dbe97)" style="fill: none; stroke: #e7e9ee; stroke-width: 4.6; stroke-linecap: round"/>
+" clip-path="url(#pa7edf99660)" style="fill: none; stroke: #e7e9ee; stroke-width: 4.6; stroke-linecap: round"/>
     <path d="M 84.678261 313.57632 
 L 126.93913 283.776 
 L 169.2 277.7376 
@@ -222,11 +222,11 @@ L 253.721739 221.62944
 L 295.982609 208.73664 
 L 338.243478 184.8768 
 L 380.504348 155.79456 
-" clip-path="url(#pf8828dbe97)" style="fill: none; stroke: #ca363a; stroke-width: 2.2; stroke-linecap: round"/>
+" clip-path="url(#pa7edf99660)" style="fill: none; stroke: #ca363a; stroke-width: 2.2; stroke-linecap: round"/>
    </g>
    <g id="PathCollection_1">
     <defs>
-     <path id="mcc6b13492e" d="M 0 2.345208 
+     <path id="m89661401d0" d="M 0 2.345208 
 C 0.621956 2.345208 1.218523 2.098102 1.658312 1.658312 
 C 2.098102 1.218523 2.345208 0.621956 2.345208 0 
 C 2.345208 -0.621956 2.098102 -1.218523 1.658312 -1.658312 
@@ -238,13 +238,13 @@ C -1.218523 2.098102 -0.621956 2.345208 0 2.345208
 z
 " style="stroke: #e7e9ee; stroke-width: 1.6"/>
     </defs>
-    <g clip-path="url(#pf8828dbe97)">
-     <use xlink:href="#mcc6b13492e" x="380.504348" y="160.75584" style="fill: #2a5cda; stroke: #e7e9ee; stroke-width: 1.6"/>
+    <g clip-path="url(#pa7edf99660)">
+     <use xlink:href="#m89661401d0" x="380.504348" y="160.75584" style="fill: #2a5cda; stroke: #e7e9ee; stroke-width: 1.6"/>
     </g>
    </g>
    <g id="PathCollection_2">
     <defs>
-     <path id="mb2c7247bb5" d="M 0 2.54951 
+     <path id="m223886bdcd" d="M 0 2.54951 
 C 0.676138 2.54951 1.324674 2.280877 1.802776 1.802776 
 C 2.280877 1.324674 2.54951 0.676138 2.54951 0 
 C 2.54951 -0.676138 2.280877 -1.324674 1.802776 -1.802776 
@@ -256,8 +256,8 @@ C -1.324674 2.280877 -0.676138 2.54951 0 2.54951
 z
 " style="stroke: #e7e9ee; stroke-width: 1.6"/>
     </defs>
-    <g clip-path="url(#pf8828dbe97)">
-     <use xlink:href="#mb2c7247bb5" x="380.504348" y="155.79456" style="fill: #ca363a; stroke: #e7e9ee; stroke-width: 1.6"/>
+    <g clip-path="url(#pa7edf99660)">
+     <use xlink:href="#m223886bdcd" x="380.504348" y="155.79456" style="fill: #ca363a; stroke: #e7e9ee; stroke-width: 1.6"/>
     </g>
    </g>
    <g id="line2d_18">
@@ -295,51 +295,50 @@ L 473.76 329.76
 " style="fill: none; stroke: #181a23; stroke-opacity: 0.5; stroke-width: 0.4; stroke-linecap: round"/>
   </g>
   <g id="text_18">
-   <text style="font-weight: 500; font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #181a23" x="40.32" y="29.773828" transform="rotate(-0 40.32 29.773828)">Figure 9</text>
+   <text style="font-weight: 500; font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #181a23" x="40.32" y="29.97" transform="rotate(-0 40.32 29.97)">Figure 9</text>
   </g>
   <g id="text_19">
-   <text style="font-size: 8.7048px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #5b5d66" x="80.37" y="30.100781" transform="rotate(-0 80.37 30.100781)">Variable Fonts</text>
+   <text style="font-size: 8.7048px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #5b5d66" x="76.815" y="30.3048" transform="rotate(-0 76.815 30.3048)">Variable Fonts</text>
   </g>
   <g id="text_20">
-   <text style="font-weight: 600; font-size: 21.6px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #181a23" x="40.32" y="58.53375" transform="rotate(-0 40.32 58.53375)">Pages Using Variable Fonts, 2019–2026</text>
+   <text style="font-weight: 600; font-size: 21.6px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #181a23" x="40.32" y="59.04" transform="rotate(-0 40.32 59.04)">Pages Using Variable Fonts, 2019–2026</text>
   </g>
   <g id="text_21">
-   <text style="font-size: 9.0396px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #5b5d66" x="40.32" y="79.139125" transform="rotate(-0 40.32 79.139125)">What share of root pages load at least one variable font, whether or not the author chose it. Desktop and mobile are counted separately.</text>
+   <text style="font-size: 9.0396px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #5b5d66" x="40.32" y="79.294437" transform="rotate(-0 40.32 79.294437)">What share of root pages load at least one variable font, whether or not the author chose it. Desktop and mobile are counted separately.</text>
   </g>
   <g id="text_22">
-   <text style="font-style: italic; font-size: 8.0352px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #5b5d66" x="40.32" y="111.688425" transform="rotate(-0 40.32 111.688425)">percent of pages</text>
+   <text style="font-style: italic; font-size: 8.0352px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #5b5d66" x="40.32" y="111.325334" transform="rotate(-0 40.32 111.325334)">percent of pages</text>
   </g>
   <g id="text_23">
-   <text style="font-weight: 700; font-size: 63.36px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #181a23" x="486.72" y="168.435" transform="rotate(-0 486.72 168.435)">50.2</text>
+   <text style="font-weight: 700; font-size: 72px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #181a23" x="486.72" y="178.56" transform="rotate(-0 486.72 178.56)">50.2</text>
   </g>
   <g id="text_24">
-   <text style="font-weight: 700; font-size: 25.344px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #181a23" x="624.874677" y="145.792286" transform="rotate(-0 624.874677 145.792286)">%</text>
+   <text style="font-weight: 700; font-size: 28.8px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #181a23" x="627.369107" y="151.817143" transform="rotate(-0 627.369107 151.817143)">%</text>
   </g>
   <g id="text_25">
-   <text style="font-size: 14.0616px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #181a23" x="486.72" y="203.191663" transform="rotate(-0 486.72 203.191663)">Half of mobile pages</text>
+   <text style="font-size: 14.0616px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #181a23" x="486.72" y="214.547091" transform="rotate(-0 486.72 214.547091)">Half of mobile pages</text>
   </g>
   <g id="text_26">
-   <text style="font-size: 14.0616px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #181a23" x="486.72" y="221.471743" transform="rotate(-0 486.72 221.471743)">now load a variable</text>
+   <text style="font-size: 14.0616px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #181a23" x="486.72" y="232.827171" transform="rotate(-0 486.72 232.827171)">now load a variable font.</text>
   </g>
   <g id="text_27">
-   <text style="font-size: 14.0616px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #181a23" x="486.72" y="239.751823" transform="rotate(-0 486.72 239.751823)">font. Desktop is 48.7%.</text>
+   <text style="font-size: 14.0616px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #181a23" x="486.72" y="251.107251" transform="rotate(-0 486.72 251.107251)">Desktop is 48.7%.</text>
   </g>
   <g id="text_28">
-   <text style="font-style: italic; font-size: 10.816615px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #5b5d66" x="486.72" y="267.260864" transform="rotate(-0 486.72 267.260864)">Both gained about nine points in</text>
+   <text style="font-style: italic; font-size: 10.816615px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #5b5d66" x="486.72" y="279.251701" transform="rotate(-0 486.72 279.251701)">Both gained about nine points in</text>
   </g>
   <g id="text_29">
-   <text style="font-style: italic; font-size: 10.816615px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #5b5d66" x="486.72" y="281.863294" transform="rotate(-0 486.72 281.863294)">a year, the biggest rise</text>
+   <text style="font-style: italic; font-size: 10.816615px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #5b5d66" x="486.72" y="293.854132" transform="rotate(-0 486.72 293.854132)">a year, the biggest rise</text>
   </g>
   <g id="text_30">
-   <text style="font-style: italic; font-size: 10.816615px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #5b5d66" x="486.72" y="296.465725" transform="rotate(-0 486.72 296.465725)">since 2022.</text>
+   <text style="font-style: italic; font-size: 10.816615px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #5b5d66" x="486.72" y="308.456562" transform="rotate(-0 486.72 308.456562)">since 2022.</text>
   </g>
   <g id="text_31">
-   <text style="font-size: 8.0352px; font-family: 'Schibsted Grotesk'; fill: #5b5d66" transform="translate(40.32 361.209967)">Source: HTTP Archive root pages, mid-year crawls (July; Sept. 2020, June 2022; 2021 via the 2022 chapter). Percentages are of all root pages</text>
-   <text style="font-size: 8.0352px; font-family: 'Schibsted Grotesk'; fill: #5b5d66" transform="translate(40.32 374.373257)">counted for each device.</text>
+   <text style="font-size: 7.8552px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #5b5d66" x="40.32" y="361.145536" transform="rotate(-0 40.32 361.145536)">Source: HTTP Archive root pages, mid-year crawls (July; Sept. 2020, June 2022; 2021 via the 2022 chapter). Percentages are of all root pages counted for each device.</text>
   </g>
  </g>
  <defs>
-  <clipPath id="pf8828dbe97">
+  <clipPath id="pa7edf99660">
    <rect x="72" y="123.84" width="388.8" height="195.84"/>
   </clipPath>
  </defs>
