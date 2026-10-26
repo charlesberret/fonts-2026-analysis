@@ -543,6 +543,14 @@ def f8():
     latin = _anchor("Figure 8", "2026 desktop Latin coverage", data.loc["Latin"], 57.0, tol=0.5)
     han = _anchor("Figure 8", "2026 desktop Han coverage", data.loc["Han"], 0.5)
 
+    # 2026-10-26: the callout leads with the slicing, not the Han share. Requests for Google's
+    # Noto Sans JP per desktop page that uses it (4,371,509 / 163,334 = 26.8).
+    fam = pd.read_csv(SQL / "performance" / "fonts_family_by_service_totals.csv")
+    jp = fam[(fam["client"] == "desktop") & (fam["service"] == "Google")
+             & (fam["family"] == "Noto Sans JP")].iloc[0]
+    slices = _anchor("Figure 8", "Noto Sans JP requests per page", jp["count"] / jp["family_pages"],
+                     26.8, tol=0.5, unit="")
+
     bars = sorted(
         ((label, float(data.loc[key])) for key, label in wanted),
         key=lambda item: item[1],
@@ -575,10 +583,10 @@ def f8():
     g.category_axis(ax, y, [label for label, _ in bars], axis="y")
     ax.set_ylim(-0.6, len(bars) - 0.4)
     g.margin_number(
-        fig, f"{han:.1f}", "%",
-        "of font files cover a substantial set of Han characters. Most pages receive Han in slices of a "
-        "few hundred characters.",
-        note="One page using Noto Sans JP fetches about 27.",
+        fig, f"{slices:.0f}", "",
+        f"font files on an average page that uses Noto Sans JP, each a small slice of the font. "
+        f"Han registers in only {han:.1f}% of files because it arrives cut up.",
+        note="Static slicing is the workaround Incremental Font Transfer is meant to replace.",
     )
     g.source_note(fig, "Source: HTTP Archive font URLs, desktop, July 1, 2026 crawl. A script counts "
                        "when a file covers more than 5% of its characters. Percentages are of all font files.")

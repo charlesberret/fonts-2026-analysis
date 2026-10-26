@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-10-23T11:41:36.272336</dc:date>
+    <dc:date>2026-10-26T12:32:49.136979</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -41,31 +41,31 @@ z
     <g id="xtick_1">
      <g id="line2d_1"/>
      <g id="text_1">
-      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: middle; fill: #181a23" x="113.929412" y="333.853828" transform="rotate(-0 113.929412 333.853828)">2022</text>
+      <text style="font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: middle; fill: #181a23" x="113.929412" y="334.05" transform="rotate(-0 113.929412 334.05)">2022</text>
      </g>
     </g>
     <g id="xtick_2">
      <g id="line2d_2"/>
      <g id="text_2">
-      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: middle; fill: #181a23" x="190.164706" y="333.853828" transform="rotate(-0 190.164706 333.853828)">2023</text>
+      <text style="font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: middle; fill: #181a23" x="190.164706" y="334.05" transform="rotate(-0 190.164706 334.05)">2023</text>
      </g>
     </g>
     <g id="xtick_3">
      <g id="line2d_3"/>
      <g id="text_3">
-      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: middle; fill: #181a23" x="266.4" y="333.853828" transform="rotate(-0 266.4 333.853828)">2024</text>
+      <text style="font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: middle; fill: #181a23" x="266.4" y="334.05" transform="rotate(-0 266.4 334.05)">2024</text>
      </g>
     </g>
     <g id="xtick_4">
      <g id="line2d_4"/>
      <g id="text_4">
-      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: middle; fill: #181a23" x="342.635294" y="333.853828" transform="rotate(-0 342.635294 333.853828)">2025</text>
+      <text style="font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: middle; fill: #181a23" x="342.635294" y="334.05" transform="rotate(-0 342.635294 334.05)">2025</text>
      </g>
     </g>
     <g id="xtick_5">
      <g id="line2d_5"/>
      <g id="text_5">
-      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: middle; fill: #181a23" x="418.870588" y="333.853828" transform="rotate(-0 418.870588 333.853828)">2026</text>
+      <text style="font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: middle; fill: #181a23" x="418.870588" y="334.05" transform="rotate(-0 418.870588 334.05)">2026</text>
      </g>
     </g>
    </g>
@@ -74,66 +74,66 @@ z
      <g id="line2d_6">
       <path d="M 72 319.68 
 L 460.8 319.68 
-" clip-path="url(#pe2c4e2c5c3)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
+" clip-path="url(#p6523275bc7)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
      </g>
      <g id="line2d_7"/>
      <g id="text_6">
-      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="323.766914" transform="rotate(-0 66 323.766914)">0</text>
+      <text style="font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="323.865" transform="rotate(-0 66 323.865)">0</text>
      </g>
     </g>
     <g id="ytick_2">
      <g id="line2d_8">
       <path d="M 72 280.512 
 L 460.8 280.512 
-" clip-path="url(#pe2c4e2c5c3)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
+" clip-path="url(#p6523275bc7)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
      </g>
      <g id="line2d_9"/>
      <g id="text_7">
-      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="284.598914" transform="rotate(-0 66 284.598914)">5</text>
+      <text style="font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="284.697" transform="rotate(-0 66 284.697)">5</text>
      </g>
     </g>
     <g id="ytick_3">
      <g id="line2d_10">
       <path d="M 72 241.344 
 L 460.8 241.344 
-" clip-path="url(#pe2c4e2c5c3)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
+" clip-path="url(#p6523275bc7)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
      </g>
      <g id="line2d_11"/>
      <g id="text_8">
-      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="245.430914" transform="rotate(-0 66 245.430914)">10</text>
+      <text style="font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="245.529" transform="rotate(-0 66 245.529)">10</text>
      </g>
     </g>
     <g id="ytick_4">
      <g id="line2d_12">
       <path d="M 72 202.176 
 L 460.8 202.176 
-" clip-path="url(#pe2c4e2c5c3)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
+" clip-path="url(#p6523275bc7)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
      </g>
      <g id="line2d_13"/>
      <g id="text_9">
-      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="206.262914" transform="rotate(-0 66 206.262914)">15</text>
+      <text style="font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="206.361" transform="rotate(-0 66 206.361)">15</text>
      </g>
     </g>
     <g id="ytick_5">
      <g id="line2d_14">
       <path d="M 72 163.008 
 L 460.8 163.008 
-" clip-path="url(#pe2c4e2c5c3)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
+" clip-path="url(#p6523275bc7)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
      </g>
      <g id="line2d_15"/>
      <g id="text_10">
-      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="167.094914" transform="rotate(-0 66 167.094914)">20</text>
+      <text style="font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="167.193" transform="rotate(-0 66 167.193)">20</text>
      </g>
     </g>
     <g id="ytick_6">
      <g id="line2d_16">
       <path d="M 72 123.84 
 L 460.8 123.84 
-" clip-path="url(#pe2c4e2c5c3)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
+" clip-path="url(#p6523275bc7)" style="fill: none; stroke: #bcbdc6; stroke-width: 0.6; stroke-linecap: round"/>
      </g>
      <g id="line2d_17"/>
      <g id="text_11">
-      <text style="font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="127.926914" transform="rotate(-0 66 127.926914)">25</text>
+      <text style="font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: end; fill: #5b5d66" x="66" y="128.025" transform="rotate(-0 66 128.025)">25</text>
      </g>
     </g>
    </g>
@@ -148,7 +148,7 @@ L 103.637647 319.68
 L 103.637647 231.708672 
 L 88.390588 231.708672 
 z
-" clip-path="url(#pe2c4e2c5c3)" style="fill: #2a5cda"/>
+" clip-path="url(#p6523275bc7)" style="fill: #2a5cda"/>
    </g>
    <g id="patch_5">
     <path d="M 164.625882 319.68 
@@ -156,7 +156,7 @@ L 179.872941 319.68
 L 179.872941 193.55904 
 L 164.625882 193.55904 
 z
-" clip-path="url(#pe2c4e2c5c3)" style="fill: #2a5cda"/>
+" clip-path="url(#p6523275bc7)" style="fill: #2a5cda"/>
    </g>
    <g id="patch_6">
     <path d="M 240.861176 319.68 
@@ -164,7 +164,7 @@ L 256.108235 319.68
 L 256.108235 176.560128 
 L 240.861176 176.560128 
 z
-" clip-path="url(#pe2c4e2c5c3)" style="fill: #2a5cda"/>
+" clip-path="url(#p6523275bc7)" style="fill: #2a5cda"/>
    </g>
    <g id="patch_7">
     <path d="M 317.096471 319.68 
@@ -172,7 +172,7 @@ L 332.343529 319.68
 L 332.343529 176.738734 
 L 317.096471 176.738734 
 z
-" clip-path="url(#pe2c4e2c5c3)" style="fill: #2a5cda"/>
+" clip-path="url(#p6523275bc7)" style="fill: #2a5cda"/>
    </g>
    <g id="patch_8">
     <path d="M 393.331765 319.68 
@@ -180,29 +180,29 @@ L 408.578824 319.68
 L 408.578824 160.814592 
 L 393.331765 160.814592 
 z
-" clip-path="url(#pe2c4e2c5c3)" style="fill: #2a5cda"/>
+" clip-path="url(#p6523275bc7)" style="fill: #2a5cda"/>
    </g>
    <g id="text_12">
     <g id="patch_9">
-     <path d="M 88.865928 229.792896 
-L 103.162307 229.792896 
-L 103.162307 217.945998 
-L 88.865928 217.945998 
+     <path d="M 87.336102 229.792896 
+L 104.692134 229.792896 
+L 104.692134 217.394582 
+L 87.336102 217.394582 
 z
 " style="fill: #e7e9ee"/>
     </g>
-    <text style="font-size: 8.0352px; font-family: 'Schibsted Grotesk'; text-anchor: middle; fill: #5b5d66" x="96.014118" y="226.757097" transform="rotate(-0 96.014118 226.757097)">11.2</text>
+    <text style="font-size: 8.0352px; font-family: 'Hanken Grotesk'; text-anchor: middle; fill: #5b5d66" x="96.014118" y="226.394006" transform="rotate(-0 96.014118 226.394006)">11.2</text>
    </g>
    <g id="text_13">
     <g id="patch_10">
-     <path d="M 391.82467 158.898816 
-L 410.085918 158.898816 
-L 410.085918 147.051918 
-L 391.82467 147.051918 
+     <path d="M 392.277278 158.898816 
+L 409.63331 158.898816 
+L 409.63331 146.500502 
+L 392.277278 146.500502 
 z
 " style="fill: #e7e9ee"/>
     </g>
-    <text style="font-weight: 500; font-size: 8.0352px; font-family: 'Schibsted Grotesk'; text-anchor: middle; fill: #181a23" x="400.955294" y="155.863017" transform="rotate(-0 400.955294 155.863017)">20.3</text>
+    <text style="font-weight: 500; font-size: 8.0352px; font-family: 'Hanken Grotesk'; text-anchor: middle; fill: #181a23" x="400.955294" y="155.499926" transform="rotate(-0 400.955294 155.499926)">20.3</text>
    </g>
    <g id="patch_11">
     <path d="M 106.305882 319.68 
@@ -210,7 +210,7 @@ L 121.552941 319.68
 L 121.552941 242.91072 
 L 106.305882 242.91072 
 z
-" clip-path="url(#pe2c4e2c5c3)" style="fill: #ca363a"/>
+" clip-path="url(#p6523275bc7)" style="fill: #ca363a"/>
    </g>
    <g id="patch_12">
     <path d="M 182.541176 319.68 
@@ -218,7 +218,7 @@ L 197.788235 319.68
 L 197.788235 243.459072 
 L 182.541176 243.459072 
 z
-" clip-path="url(#pe2c4e2c5c3)" style="fill: #ca363a"/>
+" clip-path="url(#p6523275bc7)" style="fill: #ca363a"/>
    </g>
    <g id="patch_13">
     <path d="M 258.776471 319.68 
@@ -226,7 +226,7 @@ L 274.023529 319.68
 L 274.023529 233.745408 
 L 258.776471 233.745408 
 z
-" clip-path="url(#pe2c4e2c5c3)" style="fill: #ca363a"/>
+" clip-path="url(#p6523275bc7)" style="fill: #ca363a"/>
    </g>
    <g id="patch_14">
     <path d="M 335.011765 319.68 
@@ -234,7 +234,7 @@ L 350.258824 319.68
 L 350.258824 225.363456 
 L 335.011765 225.363456 
 z
-" clip-path="url(#pe2c4e2c5c3)" style="fill: #ca363a"/>
+" clip-path="url(#p6523275bc7)" style="fill: #ca363a"/>
    </g>
    <g id="patch_15">
     <path d="M 411.247059 319.68 
@@ -242,29 +242,29 @@ L 426.494118 319.68
 L 426.494118 204.52608 
 L 411.247059 204.52608 
 z
-" clip-path="url(#pe2c4e2c5c3)" style="fill: #ca363a"/>
+" clip-path="url(#p6523275bc7)" style="fill: #ca363a"/>
    </g>
    <g id="text_14">
     <g id="patch_16">
-     <path d="M 107.294094 240.994944 
-L 120.564729 240.994944 
-L 120.564729 229.148046 
-L 107.294094 229.148046 
+     <path d="M 107.501252 240.994944 
+L 120.357572 240.994944 
+L 120.357572 228.59663 
+L 107.501252 228.59663 
 z
 " style="fill: #e7e9ee"/>
     </g>
-    <text style="font-size: 8.0352px; font-family: 'Schibsted Grotesk'; text-anchor: middle; fill: #5b5d66" x="113.929412" y="237.959145" transform="rotate(-0 113.929412 237.959145)">9.8</text>
+    <text style="font-size: 8.0352px; font-family: 'Hanken Grotesk'; text-anchor: middle; fill: #5b5d66" x="113.929412" y="237.596054" transform="rotate(-0 113.929412 237.596054)">9.8</text>
    </g>
    <g id="text_15">
     <g id="patch_17">
-     <path d="M 410.97161 202.610304 
-L 426.769566 202.610304 
-L 426.769566 190.763406 
-L 410.97161 190.763406 
+     <path d="M 410.192572 202.610304 
+L 427.548604 202.610304 
+L 427.548604 190.21199 
+L 410.192572 190.21199 
 z
 " style="fill: #e7e9ee"/>
     </g>
-    <text style="font-weight: 500; font-size: 8.0352px; font-family: 'Schibsted Grotesk'; text-anchor: middle; fill: #181a23" x="418.870588" y="199.574505" transform="rotate(-0 418.870588 199.574505)">14.7</text>
+    <text style="font-weight: 500; font-size: 8.0352px; font-family: 'Hanken Grotesk'; text-anchor: middle; fill: #181a23" x="418.870588" y="199.211414" transform="rotate(-0 418.870588 199.211414)">14.7</text>
    </g>
    <g id="patch_18">
     <path d="M 124.221176 319.68 
@@ -272,7 +272,7 @@ L 139.468235 319.68
 L 139.468235 179.856507 
 L 124.221176 179.856507 
 z
-" clip-path="url(#pe2c4e2c5c3)" style="fill: #8a64ab"/>
+" clip-path="url(#p6523275bc7)" style="fill: #8a64ab"/>
    </g>
    <g id="patch_19">
     <path d="M 200.456471 319.68 
@@ -280,7 +280,7 @@ L 215.703529 319.68
 L 215.703529 194.3424 
 L 200.456471 194.3424 
 z
-" clip-path="url(#pe2c4e2c5c3)" style="fill: #8a64ab"/>
+" clip-path="url(#p6523275bc7)" style="fill: #8a64ab"/>
    </g>
    <g id="patch_20">
     <path d="M 276.691765 319.68 
@@ -288,7 +288,7 @@ L 291.938824 319.68
 L 291.938824 198.807552 
 L 276.691765 198.807552 
 z
-" clip-path="url(#pe2c4e2c5c3)" style="fill: #8a64ab"/>
+" clip-path="url(#p6523275bc7)" style="fill: #8a64ab"/>
    </g>
    <g id="patch_21">
     <path d="M 352.927059 319.68 
@@ -296,7 +296,7 @@ L 368.174118 319.68
 L 368.174118 205.544448 
 L 352.927059 205.544448 
 z
-" clip-path="url(#pe2c4e2c5c3)" style="fill: #8a64ab"/>
+" clip-path="url(#p6523275bc7)" style="fill: #8a64ab"/>
    </g>
    <g id="patch_22">
     <path d="M 429.162353 319.68 
@@ -304,29 +304,29 @@ L 444.409412 319.68
 L 444.409412 212.829696 
 L 429.162353 212.829696 
 z
-" clip-path="url(#pe2c4e2c5c3)" style="fill: #8a64ab"/>
+" clip-path="url(#p6523275bc7)" style="fill: #8a64ab"/>
    </g>
    <g id="text_16">
     <g id="patch_23">
-     <path d="M 124.520747 177.940731 
-L 139.168665 177.940731 
-L 139.168665 166.093833 
-L 124.520747 166.093833 
+     <path d="M 123.16669 177.940731 
+L 140.522722 177.940731 
+L 140.522722 165.542417 
+L 123.16669 165.542417 
 z
 " style="fill: #e7e9ee"/>
     </g>
-    <text style="font-size: 8.0352px; font-family: 'Schibsted Grotesk'; text-anchor: middle; fill: #5b5d66" x="131.844706" y="174.904932" transform="rotate(-0 131.844706 174.904932)">17.8</text>
+    <text style="font-size: 8.0352px; font-family: 'Hanken Grotesk'; text-anchor: middle; fill: #5b5d66" x="131.844706" y="174.541841" transform="rotate(-0 131.844706 174.541841)">17.8</text>
    </g>
    <g id="text_17">
     <g id="patch_24">
-     <path d="M 428.62011 210.91392 
-L 444.951654 210.91392 
-L 444.951654 199.067022 
-L 428.62011 199.067022 
+     <path d="M 428.107866 210.91392 
+L 445.463898 210.91392 
+L 445.463898 198.515606 
+L 428.107866 198.515606 
 z
 " style="fill: #e7e9ee"/>
     </g>
-    <text style="font-weight: 500; font-size: 8.0352px; font-family: 'Schibsted Grotesk'; text-anchor: middle; fill: #181a23" x="436.785882" y="207.878121" transform="rotate(-0 436.785882 207.878121)">13.6</text>
+    <text style="font-weight: 500; font-size: 8.0352px; font-family: 'Hanken Grotesk'; text-anchor: middle; fill: #181a23" x="436.785882" y="207.51503" transform="rotate(-0 436.785882 207.51503)">13.6</text>
    </g>
   </g>
   <g id="patch_25">
@@ -377,60 +377,60 @@ L 473.76 329.76
 " style="fill: none; stroke: #181a23; stroke-opacity: 0.5; stroke-width: 0.4; stroke-linecap: round"/>
   </g>
   <g id="text_18">
-   <text style="font-weight: 500; font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #181a23" x="40.32" y="29.773828" transform="rotate(-0 40.32 29.773828)">Figure 6</text>
+   <text style="font-weight: 500; font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #181a23" x="40.32" y="29.97" transform="rotate(-0 40.32 29.97)">Figure 6</text>
   </g>
   <g id="text_19">
-   <text style="font-size: 8.7048px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #5b5d66" x="80.37" y="30.100781" transform="rotate(-0 80.37 30.100781)">Resource Hints</text>
+   <text style="font-size: 8.7048px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #5b5d66" x="76.815" y="30.3048" transform="rotate(-0 76.815 30.3048)">Resource Hints</text>
   </g>
   <g id="text_20">
-   <text style="font-weight: 600; font-size: 21.6px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #181a23" x="40.32" y="58.53375" transform="rotate(-0 40.32 58.53375)">Font Resource Hints, 2022–2026</text>
+   <text style="font-weight: 600; font-size: 21.6px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #181a23" x="40.32" y="59.04" transform="rotate(-0 40.32 59.04)">Font Resource Hints, 2022–2026</text>
   </g>
   <g id="text_21">
-   <text style="font-size: 9.0396px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #5b5d66" x="40.32" y="79.139125" transform="rotate(-0 40.32 79.139125)">What share of desktop pages ask the browser to prepare early for fonts? Hints from authors and from tools look alike.</text>
+   <text style="font-size: 9.0396px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #5b5d66" x="40.32" y="79.294437" transform="rotate(-0 40.32 79.294437)">What share of desktop pages ask the browser to prepare early for fonts? Hints from authors and from tools look alike.</text>
   </g>
   <g id="text_22">
-   <text style="font-style: italic; font-size: 8.0352px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #5b5d66" x="40.32" y="111.688425" transform="rotate(-0 40.32 111.688425)">percent of desktop pages</text>
+   <text style="font-style: italic; font-size: 8.0352px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #5b5d66" x="40.32" y="111.325334" transform="rotate(-0 40.32 111.325334)">percent of desktop pages</text>
   </g>
   <g id="text_23">
-   <text style="font-size: 8.7048px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #181a23" x="501.12" y="116.500781" transform="rotate(-0 501.12 116.500781)">preconnect</text>
+   <text style="font-size: 8.7048px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #181a23" x="501.12" y="116.7048" transform="rotate(-0 501.12 116.7048)">preconnect</text>
   </g>
   <g id="text_24">
-   <text style="font-size: 8.7048px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #181a23" x="501.12" y="132.340781" transform="rotate(-0 501.12 132.340781)">preload</text>
+   <text style="font-size: 8.7048px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #181a23" x="501.12" y="132.5448" transform="rotate(-0 501.12 132.5448)">preload</text>
   </g>
   <g id="text_25">
-   <text style="font-size: 8.7048px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #181a23" x="501.12" y="148.180781" transform="rotate(-0 501.12 148.180781)">dns-prefetch</text>
+   <text style="font-size: 8.7048px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #181a23" x="501.12" y="148.3848" transform="rotate(-0 501.12 148.3848)">dns-prefetch</text>
   </g>
   <g id="text_26">
-   <text style="font-weight: 700; font-size: 63.36px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #181a23" x="486.72" y="230.355" transform="rotate(-0 486.72 230.355)">20.3</text>
+   <text style="font-weight: 700; font-size: 64.8px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #181a23" x="486.72" y="233.28" transform="rotate(-0 486.72 233.28)">20.3</text>
   </g>
   <g id="text_27">
-   <text style="font-weight: 700; font-size: 25.344px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #181a23" x="624.564064" y="207.712286" transform="rotate(-0 624.564064 207.712286)">%</text>
+   <text style="font-weight: 700; font-size: 25.92px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #181a23" x="614.083821" y="209.211429" transform="rotate(-0 614.083821 209.211429)">%</text>
   </g>
   <g id="text_28">
-   <text style="font-size: 10.3788px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #181a23" x="486.72" y="261.613003" transform="rotate(-0 486.72 261.613003)">Preconnect has nearly doubled</text>
+   <text style="font-size: 10.044px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #181a23" x="486.72" y="263.187514" transform="rotate(-0 486.72 263.187514)">Preconnect has nearly doubled</text>
   </g>
   <g id="text_29">
-   <text style="font-size: 10.3788px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #181a23" x="486.72" y="275.105443" transform="rotate(-0 486.72 275.105443)">since 2022 and leads every</text>
+   <text style="font-size: 10.044px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #181a23" x="486.72" y="276.244714" transform="rotate(-0 486.72 276.244714)">since 2022 and leads every other</text>
   </g>
   <g id="text_30">
-   <text style="font-size: 10.3788px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #181a23" x="486.72" y="288.597883" transform="rotate(-0 486.72 288.597883)">other font hint.</text>
+   <text style="font-size: 10.044px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #181a23" x="486.72" y="289.301914" transform="rotate(-0 486.72 289.301914)">font hint.</text>
   </g>
   <g id="text_31">
-   <text style="font-style: italic; font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #5b5d66" x="486.72" y="309.269167" transform="rotate(-0 486.72 309.269167)">Preload passed dns-prefetch this year,</text>
+   <text style="font-style: italic; font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #5b5d66" x="486.72" y="310.016746" transform="rotate(-0 486.72 310.016746)">Preload passed dns-prefetch this year,</text>
   </g>
   <g id="text_32">
-   <text style="font-style: italic; font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #5b5d66" x="486.72" y="320.568667" transform="rotate(-0 486.72 320.568667)">14.7% to 13.6%. dns-prefetch was 17.8%</text>
+   <text style="font-style: italic; font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #5b5d66" x="486.72" y="321.316246" transform="rotate(-0 486.72 321.316246)">14.7% to 13.6%. dns-prefetch was 17.8%</text>
   </g>
   <g id="text_33">
-   <text style="font-style: italic; font-size: 8.37px; font-family: 'Schibsted Grotesk'; text-anchor: start; fill: #5b5d66" x="486.72" y="331.868167" transform="rotate(-0 486.72 331.868167)">in 2022.</text>
+   <text style="font-style: italic; font-size: 8.37px; font-family: 'Hanken Grotesk'; text-anchor: start; fill: #5b5d66" x="486.72" y="332.615746" transform="rotate(-0 486.72 332.615746)">in 2022.</text>
   </g>
   <g id="text_34">
-   <text style="font-size: 8.0352px; font-family: 'Schibsted Grotesk'; fill: #5b5d66" transform="translate(40.32 361.209967)">Source: HTTP Archive desktop root pages, mid-year crawls (2026 = July 1, 2026 crawl). Hints count only when they point at a font host or font file;</text>
-   <text style="font-size: 8.0352px; font-family: 'Schibsted Grotesk'; fill: #5b5d66" transform="translate(40.32 373.608029)">2022 is re-run with the definition used since 2024. prefetch (0.7% in 2026) is not shown. Percentages are of all desktop root pages.</text>
+   <text style="font-size: 8.0352px; font-family: 'Hanken Grotesk'; fill: #5b5d66" transform="translate(40.32 361.336772)">Source: HTTP Archive desktop root pages, mid-year crawls (2026 = July 1, 2026 crawl). Hints count only when they point at a font host or font file; 2022 is</text>
+   <text style="font-size: 8.0352px; font-family: 'Hanken Grotesk'; fill: #5b5d66" transform="translate(40.32 374.411549)">re-run with the definition used since 2024. prefetch (0.7% in 2026) is not shown. Percentages are of all desktop root pages.</text>
   </g>
  </g>
  <defs>
-  <clipPath id="pe2c4e2c5c3">
+  <clipPath id="p6523275bc7">
    <rect x="72" y="123.84" width="388.8" height="195.84"/>
   </clipPath>
  </defs>

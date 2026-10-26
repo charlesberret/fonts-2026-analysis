@@ -11,7 +11,8 @@ House style: Direction A "Specimen" frame with the A5 "Kettle" scheme
   * Frame: "Fig. N" + section tag, finding title, deck line, two hairline
     rules; a plot column and a margin column (hairline divider) that holds the
     key and ONE big number with a short caption; a source line at the foot.
-  * Type (2026-10-22): one family, Schibsted Grotesk. Weight 600 sets the title,
+  * Type (2026-10-26): one family, Hanken Grotesk, to match the report's text
+    (Schibsted Grotesk 2026-10-22 to 10-26). Weight 600 sets the title,
     700 the big margin number, regular and 500 everything else (tag, deck, unit
     line, ticks, value labels, key, caption, note, source). Before that the house
     used Funnel Display and Funnel Sans (2026-10-02, pairing study v4).
@@ -111,7 +112,7 @@ def pt(pixels):
 
 
 # --------------------------------------------------------------------------
-# Type: Schibsted Grotesk (Google Fonts, fetched and cached by pyfonts)
+# Type: Hanken Grotesk (Google Fonts, fetched and cached by pyfonts)
 # --------------------------------------------------------------------------
 
 
@@ -136,7 +137,7 @@ def _register(family, weights, italic=False, fallback="sans-serif") -> str:
         return fallback
 
 
-SANS = _register("Schibsted Grotesk", ("regular", 500, 600, 700), italic=True)
+SANS = _register("Hanken Grotesk", ("regular", 500, 600, 700), italic=True)
 DISPLAY = SANS                 # title and big number are the same family at heavier weights
 TITLE_WEIGHT = 600             # figure title (Funnel Display 500 until 2026-10-22)
 NUMBER_WEIGHT = 700            # callout number and unit (Funnel Display 300 until 2026-10-22)
@@ -507,6 +508,8 @@ def _ink_right_px(s, size_px, weight=NUMBER_WEIGHT) -> float:
     from matplotlib.font_manager import FontProperties
     from matplotlib.textpath import TextPath
 
+    if not s:   # a callout with no unit (Figure 8's count)
+        return 0.0
     path = TextPath((0, 0), s, size=pt(size_px), prop=FontProperties(family=DISPLAY, weight=weight))
     return path.get_extents().x1 * SCREEN_DPI / 72 + _kern_loss_px(s, size_px, weight)
 

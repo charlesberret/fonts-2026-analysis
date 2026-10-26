@@ -39,7 +39,7 @@ The gate reads the two source maps, checks that every mapped value appears in th
 
 ## Cost
 
-`expenses/` itemizes every BigQuery job the pipeline ran, so the cost of reproducing the analysis is visible before anyone starts: 547 jobs, 86.1 TiB billed, about $538 at list price. `sql/estimate_full.py` is the estimator that was used to check query cost before any run.
+`expenses/` itemizes every BigQuery job the pipeline ran, so the cost of reproducing the analysis is visible before anyone starts: 549 jobs, 88.5 TiB billed, about $553 at list price. `sql/estimate_full.py` is the estimator that was used to check query cost before any run.
 
 ## Citation
 
